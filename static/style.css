@@ -1,0 +1,183 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f3f6fb;
+    color: #263247;
+}
+
+header {
+    background: #172554;
+    color: white;
+    padding: 28px 6%;
+}
+
+header h1 {
+    margin: 0 0 10px;
+}
+
+header p {
+    color: #dbeafe;
+}
+
+header a {
+    color: white;
+}
+
+main {
+    width: 90%;
+    max-width: 1250px;
+    margin: 30px auto;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 18px;
+    margin-bottom: 22px;
+}
+
+.stat-card, .panel {
+    background: white;
+    padding: 22px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+.stat-card h3 {
+    color: #64748b;
+    font-size: 15px;
+}
+
+.stat-card strong {
+    font-size: 30px;
+    color: #1d4ed8;
+}
+
+.panel {
+    margin-bottom: 22px;
+    overflow-wrap: anywhere;
+}
+
+.panel h2 {
+    color: #172554;
+    margin-top: 0;
+}
+
+.notice {
+    background: #fff7ed;
+    border-left: 5px solid #f59e0b;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 700px;
+}
+
+th, td {
+    padding: 13px;
+    border-bottom: 1px solid #e2e8f0;
+    text-align: left;
+}
+
+th {
+    background: #eff6ff;
+}
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.status {
+    background: #dbeafe;
+    color: #1e40af;
+    padding: 5px 9px;
+    border-radius: 15px;
+    font-size: 12px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+input, textarea, select {
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+textarea {
+    min-height: 90px;
+    resize: vertical;
+}
+
+button {
+    background: #1d4ed8;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background: #1e40af;
+}
+
+.item {
+    padding: 12px;
+    margin: 12px 0;
+    border-left: 3px solid #3b82f6;
+    background: #f8fafc;
+}
+
+.message {
+    background: #dcfce7;
+    padding: 12px;
+    border-radius: 6px;
+    color: #166534;
+}
+
+pre {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #64748b;
+}
+
+@media (max-width: 600px) {
+    main {
+        width: 94%;
+    }
+
+    header {
+        padding: 22px 4%;
+    }
+}

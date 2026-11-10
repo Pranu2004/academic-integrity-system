@@ -1,0 +1,4 @@
+rule_id,rule_name,review_threshold,high_priority_threshold,effective_from,active
+RULE-001,Standard Similarity Review,30.0,60.0,2026-01-01,1
+RULE-002,Programming Similarity Review,35.0,70.0,2026-01-01,1
+RULE-003,Written Assignment Review,25.0,55.0,2026-01-01,1

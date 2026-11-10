@@ -1,0 +1,21 @@
+assessment_id,title,subject,deadline,instructor
+ASM-001,Assessment 1,Python,2026-12-15T23:59:00,Instructor 2
+ASM-002,Assessment 2,Networks,2026-12-15T23:59:00,Instructor 3
+ASM-003,Assessment 3,Database Systems,2026-12-15T23:59:00,Instructor 4
+ASM-004,Assessment 4,Python,2026-12-15T23:59:00,Instructor 5
+ASM-005,Assessment 5,Python,2026-12-15T23:59:00,Instructor 6
+ASM-006,Assessment 6,AI,2026-12-15T23:59:00,Instructor 7
+ASM-007,Assessment 7,Database Systems,2026-12-15T23:59:00,Instructor 8
+ASM-008,Assessment 8,Python,2026-12-15T23:59:00,Instructor 9
+ASM-009,Assessment 9,Python,2026-12-15T23:59:00,Instructor 10
+ASM-010,Assessment 10,Networks,2026-12-15T23:59:00,Instructor 1
+ASM-011,Assessment 11,Database Systems,2026-12-15T23:59:00,Instructor 2
+ASM-012,Assessment 12,Networks,2026-12-15T23:59:00,Instructor 3
+ASM-013,Assessment 13,Python,2026-12-15T23:59:00,Instructor 4
+ASM-014,Assessment 14,Python,2026-12-15T23:59:00,Instructor 5
+ASM-015,Assessment 15,Python,2026-12-15T23:59:00,Instructor 6
+ASM-016,Assessment 16,AI,2026-12-15T23:59:00,Instructor 7
+ASM-017,Assessment 17,Networks,2026-12-15T23:59:00,Instructor 8
+ASM-018,Assessment 18,Networks,2026-12-15T23:59:00,Instructor 9
+ASM-019,Assessment 19,Python,2026-12-15T23:59:00,Instructor 10
+ASM-020,Assessment 20,Networks,2026-12-15T23:59:00,Instructor 1

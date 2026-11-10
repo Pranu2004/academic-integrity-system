@@ -1,0 +1,301 @@
+case_id,expected_label,dataset_note
+CASE-0001,No Violation,Synthetic evaluation label; not an application feature
+CASE-0002,No Violation,Synthetic evaluation label; not an application feature
+CASE-0003,No Violation,Synthetic evaluation label; not an application feature
+CASE-0004,Violation,Synthetic evaluation label; not an application feature
+CASE-0005,Violation,Synthetic evaluation label; not an application feature
+CASE-0006,Violation,Synthetic evaluation label; not an application feature
+CASE-0007,No Violation,Synthetic evaluation label; not an application feature
+CASE-0008,No Violation,Synthetic evaluation label; not an application feature
+CASE-0009,No Violation,Synthetic evaluation label; not an application feature
+CASE-0010,No Violation,Synthetic evaluation label; not an application feature
+CASE-0011,Violation,Synthetic evaluation label; not an application feature
+CASE-0012,Violation,Synthetic evaluation label; not an application feature
+CASE-0013,No Violation,Synthetic evaluation label; not an application feature
+CASE-0014,No Violation,Synthetic evaluation label; not an application feature
+CASE-0015,No Violation,Synthetic evaluation label; not an application feature
+CASE-0016,Violation,Synthetic evaluation label; not an application feature
+CASE-0017,Violation,Synthetic evaluation label; not an application feature
+CASE-0018,Violation,Synthetic evaluation label; not an application feature
+CASE-0019,Violation,Synthetic evaluation label; not an application feature
+CASE-0020,No Violation,Synthetic evaluation label; not an application feature
+CASE-0021,No Violation,Synthetic evaluation label; not an application feature
+CASE-0022,Violation,Synthetic evaluation label; not an application feature
+CASE-0023,Violation,Synthetic evaluation label; not an application feature
+CASE-0024,No Violation,Synthetic evaluation label; not an application feature
+CASE-0025,No Violation,Synthetic evaluation label; not an application feature
+CASE-0026,No Violation,Synthetic evaluation label; not an application feature
+CASE-0027,No Violation,Synthetic evaluation label; not an application feature
+CASE-0028,No Violation,Synthetic evaluation label; not an application feature
+CASE-0029,No Violation,Synthetic evaluation label; not an application feature
+CASE-0030,Violation,Synthetic evaluation label; not an application feature
+CASE-0031,No Violation,Synthetic evaluation label; not an application feature
+CASE-0032,Violation,Synthetic evaluation label; not an application feature
+CASE-0033,No Violation,Synthetic evaluation label; not an application feature
+CASE-0034,Violation,Synthetic evaluation label; not an application feature
+CASE-0035,No Violation,Synthetic evaluation label; not an application feature
+CASE-0036,Violation,Synthetic evaluation label; not an application feature
+CASE-0037,No Violation,Synthetic evaluation label; not an application feature
+CASE-0038,Violation,Synthetic evaluation label; not an application feature
+CASE-0039,Violation,Synthetic evaluation label; not an application feature
+CASE-0040,Violation,Synthetic evaluation label; not an application feature
+CASE-0041,Violation,Synthetic evaluation label; not an application feature
+CASE-0042,Violation,Synthetic evaluation label; not an application feature
+CASE-0043,No Violation,Synthetic evaluation label; not an application feature
+CASE-0044,No Violation,Synthetic evaluation label; not an application feature
+CASE-0045,Violation,Synthetic evaluation label; not an application feature
+CASE-0046,Violation,Synthetic evaluation label; not an application feature
+CASE-0047,No Violation,Synthetic evaluation label; not an application feature
+CASE-0048,Violation,Synthetic evaluation label; not an application feature
+CASE-0049,No Violation,Synthetic evaluation label; not an application feature
+CASE-0050,No Violation,Synthetic evaluation label; not an application feature
+CASE-0051,Violation,Synthetic evaluation label; not an application feature
+CASE-0052,Violation,Synthetic evaluation label; not an application feature
+CASE-0053,No Violation,Synthetic evaluation label; not an application feature
+CASE-0054,No Violation,Synthetic evaluation label; not an application feature
+CASE-0055,No Violation,Synthetic evaluation label; not an application feature
+CASE-0056,No Violation,Synthetic evaluation label; not an application feature
+CASE-0057,No Violation,Synthetic evaluation label; not an application feature
+CASE-0058,No Violation,Synthetic evaluation label; not an application feature
+CASE-0059,No Violation,Synthetic evaluation label; not an application feature
+CASE-0060,No Violation,Synthetic evaluation label; not an application feature
+CASE-0061,No Violation,Synthetic evaluation label; not an application feature
+CASE-0062,No Violation,Synthetic evaluation label; not an application feature
+CASE-0063,No Violation,Synthetic evaluation label; not an application feature
+CASE-0064,Violation,Synthetic evaluation label; not an application feature
+CASE-0065,No Violation,Synthetic evaluation label; not an application feature
+CASE-0066,Violation,Synthetic evaluation label; not an application feature
+CASE-0067,No Violation,Synthetic evaluation label; not an application feature
+CASE-0068,No Violation,Synthetic evaluation label; not an application feature
+CASE-0069,Violation,Synthetic evaluation label; not an application feature
+CASE-0070,No Violation,Synthetic evaluation label; not an application feature
+CASE-0071,No Violation,Synthetic evaluation label; not an application feature
+CASE-0072,No Violation,Synthetic evaluation label; not an application feature
+CASE-0073,Violation,Synthetic evaluation label; not an application feature
+CASE-0074,No Violation,Synthetic evaluation label; not an application feature
+CASE-0075,Violation,Synthetic evaluation label; not an application feature
+CASE-0076,Violation,Synthetic evaluation label; not an application feature
+CASE-0077,No Violation,Synthetic evaluation label; not an application feature
+CASE-0078,No Violation,Synthetic evaluation label; not an application feature
+CASE-0079,Violation,Synthetic evaluation label; not an application feature
+CASE-0080,No Violation,Synthetic evaluation label; not an application feature
+CASE-0081,Violation,Synthetic evaluation label; not an application feature
+CASE-0082,No Violation,Synthetic evaluation label; not an application feature
+CASE-0083,Violation,Synthetic evaluation label; not an application feature
+CASE-0084,No Violation,Synthetic evaluation label; not an application feature
+CASE-0085,No Violation,Synthetic evaluation label; not an application feature
+CASE-0086,No Violation,Synthetic evaluation label; not an application feature
+CASE-0087,Violation,Synthetic evaluation label; not an application feature
+CASE-0088,Violation,Synthetic evaluation label; not an application feature
+CASE-0089,Violation,Synthetic evaluation label; not an application feature
+CASE-0090,Violation,Synthetic evaluation label; not an application feature
+CASE-0091,No Violation,Synthetic evaluation label; not an application feature
+CASE-0092,Violation,Synthetic evaluation label; not an application feature
+CASE-0093,Violation,Synthetic evaluation label; not an application feature
+CASE-0094,No Violation,Synthetic evaluation label; not an application feature
+CASE-0095,Violation,Synthetic evaluation label; not an application feature
+CASE-0096,Violation,Synthetic evaluation label; not an application feature
+CASE-0097,No Violation,Synthetic evaluation label; not an application feature
+CASE-0098,Violation,Synthetic evaluation label; not an application feature
+CASE-0099,No Violation,Synthetic evaluation label; not an application feature
+CASE-0100,Violation,Synthetic evaluation label; not an application feature
+CASE-0101,Violation,Synthetic evaluation label; not an application feature
+CASE-0102,Violation,Synthetic evaluation label; not an application feature
+CASE-0103,No Violation,Synthetic evaluation label; not an application feature
+CASE-0104,Violation,Synthetic evaluation label; not an application feature
+CASE-0105,No Violation,Synthetic evaluation label; not an application feature
+CASE-0106,No Violation,Synthetic evaluation label; not an application feature
+CASE-0107,Violation,Synthetic evaluation label; not an application feature
+CASE-0108,Violation,Synthetic evaluation label; not an application feature
+CASE-0109,No Violation,Synthetic evaluation label; not an application feature
+CASE-0110,No Violation,Synthetic evaluation label; not an application feature
+CASE-0111,No Violation,Synthetic evaluation label; not an application feature
+CASE-0112,No Violation,Synthetic evaluation label; not an application feature
+CASE-0113,No Violation,Synthetic evaluation label; not an application feature
+CASE-0114,Violation,Synthetic evaluation label; not an application feature
+CASE-0115,Violation,Synthetic evaluation label; not an application feature
+CASE-0116,Violation,Synthetic evaluation label; not an application feature
+CASE-0117,Violation,Synthetic evaluation label; not an application feature
+CASE-0118,No Violation,Synthetic evaluation label; not an application feature
+CASE-0119,Violation,Synthetic evaluation label; not an application feature
+CASE-0120,Violation,Synthetic evaluation label; not an application feature
+CASE-0121,No Violation,Synthetic evaluation label; not an application feature
+CASE-0122,Violation,Synthetic evaluation label; not an application feature
+CASE-0123,Violation,Synthetic evaluation label; not an application feature
+CASE-0124,No Violation,Synthetic evaluation label; not an application feature
+CASE-0125,Violation,Synthetic evaluation label; not an application feature
+CASE-0126,No Violation,Synthetic evaluation label; not an application feature
+CASE-0127,No Violation,Synthetic evaluation label; not an application feature
+CASE-0128,Violation,Synthetic evaluation label; not an application feature
+CASE-0129,Violation,Synthetic evaluation label; not an application feature
+CASE-0130,Violation,Synthetic evaluation label; not an application feature
+CASE-0131,Violation,Synthetic evaluation label; not an application feature
+CASE-0132,No Violation,Synthetic evaluation label; not an application feature
+CASE-0133,Violation,Synthetic evaluation label; not an application feature
+CASE-0134,Violation,Synthetic evaluation label; not an application feature
+CASE-0135,No Violation,Synthetic evaluation label; not an application feature
+CASE-0136,Violation,Synthetic evaluation label; not an application feature
+CASE-0137,No Violation,Synthetic evaluation label; not an application feature
+CASE-0138,Violation,Synthetic evaluation label; not an application feature
+CASE-0139,Violation,Synthetic evaluation label; not an application feature
+CASE-0140,Violation,Synthetic evaluation label; not an application feature
+CASE-0141,Violation,Synthetic evaluation label; not an application feature
+CASE-0142,No Violation,Synthetic evaluation label; not an application feature
+CASE-0143,Violation,Synthetic evaluation label; not an application feature
+CASE-0144,No Violation,Synthetic evaluation label; not an application feature
+CASE-0145,No Violation,Synthetic evaluation label; not an application feature
+CASE-0146,No Violation,Synthetic evaluation label; not an application feature
+CASE-0147,Violation,Synthetic evaluation label; not an application feature
+CASE-0148,No Violation,Synthetic evaluation label; not an application feature
+CASE-0149,Violation,Synthetic evaluation label; not an application feature
+CASE-0150,No Violation,Synthetic evaluation label; not an application feature
+CASE-0151,Violation,Synthetic evaluation label; not an application feature
+CASE-0152,No Violation,Synthetic evaluation label; not an application feature
+CASE-0153,Violation,Synthetic evaluation label; not an application feature
+CASE-0154,Violation,Synthetic evaluation label; not an application feature
+CASE-0155,Violation,Synthetic evaluation label; not an application feature
+CASE-0156,Violation,Synthetic evaluation label; not an application feature
+CASE-0157,No Violation,Synthetic evaluation label; not an application feature
+CASE-0158,No Violation,Synthetic evaluation label; not an application feature
+CASE-0159,No Violation,Synthetic evaluation label; not an application feature
+CASE-0160,No Violation,Synthetic evaluation label; not an application feature
+CASE-0161,No Violation,Synthetic evaluation label; not an application feature
+CASE-0162,Violation,Synthetic evaluation label; not an application feature
+CASE-0163,No Violation,Synthetic evaluation label; not an application feature
+CASE-0164,Violation,Synthetic evaluation label; not an application feature
+CASE-0165,Violation,Synthetic evaluation label; not an application feature
+CASE-0166,No Violation,Synthetic evaluation label; not an application feature
+CASE-0167,Violation,Synthetic evaluation label; not an application feature
+CASE-0168,Violation,Synthetic evaluation label; not an application feature
+CASE-0169,No Violation,Synthetic evaluation label; not an application feature
+CASE-0170,No Violation,Synthetic evaluation label; not an application feature
+CASE-0171,Violation,Synthetic evaluation label; not an application feature
+CASE-0172,No Violation,Synthetic evaluation label; not an application feature
+CASE-0173,Violation,Synthetic evaluation label; not an application feature
+CASE-0174,No Violation,Synthetic evaluation label; not an application feature
+CASE-0175,Violation,Synthetic evaluation label; not an application feature
+CASE-0176,Violation,Synthetic evaluation label; not an application feature
+CASE-0177,No Violation,Synthetic evaluation label; not an application feature
+CASE-0178,Violation,Synthetic evaluation label; not an application feature
+CASE-0179,No Violation,Synthetic evaluation label; not an application feature
+CASE-0180,No Violation,Synthetic evaluation label; not an application feature
+CASE-0181,Violation,Synthetic evaluation label; not an application feature
+CASE-0182,No Violation,Synthetic evaluation label; not an application feature
+CASE-0183,No Violation,Synthetic evaluation label; not an application feature
+CASE-0184,No Violation,Synthetic evaluation label; not an application feature
+CASE-0185,Violation,Synthetic evaluation label; not an application feature
+CASE-0186,No Violation,Synthetic evaluation label; not an application feature
+CASE-0187,No Violation,Synthetic evaluation label; not an application feature
+CASE-0188,Violation,Synthetic evaluation label; not an application feature
+CASE-0189,No Violation,Synthetic evaluation label; not an application feature
+CASE-0190,Violation,Synthetic evaluation label; not an application feature
+CASE-0191,Violation,Synthetic evaluation label; not an application feature
+CASE-0192,Violation,Synthetic evaluation label; not an application feature
+CASE-0193,Violation,Synthetic evaluation label; not an application feature
+CASE-0194,Violation,Synthetic evaluation label; not an application feature
+CASE-0195,Violation,Synthetic evaluation label; not an application feature
+CASE-0196,No Violation,Synthetic evaluation label; not an application feature
+CASE-0197,Violation,Synthetic evaluation label; not an application feature
+CASE-0198,No Violation,Synthetic evaluation label; not an application feature
+CASE-0199,No Violation,Synthetic evaluation label; not an application feature
+CASE-0200,No Violation,Synthetic evaluation label; not an application feature
+CASE-0201,Violation,Synthetic evaluation label; not an application feature
+CASE-0202,No Violation,Synthetic evaluation label; not an application feature
+CASE-0203,Violation,Synthetic evaluation label; not an application feature
+CASE-0204,No Violation,Synthetic evaluation label; not an application feature
+CASE-0205,No Violation,Synthetic evaluation label; not an application feature
+CASE-0206,Violation,Synthetic evaluation label; not an application feature
+CASE-0207,No Violation,Synthetic evaluation label; not an application feature
+CASE-0208,No Violation,Synthetic evaluation label; not an application feature
+CASE-0209,Violation,Synthetic evaluation label; not an application feature
+CASE-0210,Violation,Synthetic evaluation label; not an application feature
+CASE-0211,Violation,Synthetic evaluation label; not an application feature
+CASE-0212,Violation,Synthetic evaluation label; not an application feature
+CASE-0213,No Violation,Synthetic evaluation label; not an application feature
+CASE-0214,No Violation,Synthetic evaluation label; not an application feature
+CASE-0215,No Violation,Synthetic evaluation label; not an application feature
+CASE-0216,No Violation,Synthetic evaluation label; not an application feature
+CASE-0217,No Violation,Synthetic evaluation label; not an application feature
+CASE-0218,Violation,Synthetic evaluation label; not an application feature
+CASE-0219,No Violation,Synthetic evaluation label; not an application feature
+CASE-0220,Violation,Synthetic evaluation label; not an application feature
+CASE-0221,No Violation,Synthetic evaluation label; not an application feature
+CASE-0222,No Violation,Synthetic evaluation label; not an application feature
+CASE-0223,No Violation,Synthetic evaluation label; not an application feature
+CASE-0224,Violation,Synthetic evaluation label; not an application feature
+CASE-0225,No Violation,Synthetic evaluation label; not an application feature
+CASE-0226,Violation,Synthetic evaluation label; not an application feature
+CASE-0227,No Violation,Synthetic evaluation label; not an application feature
+CASE-0228,Violation,Synthetic evaluation label; not an application feature
+CASE-0229,Violation,Synthetic evaluation label; not an application feature
+CASE-0230,No Violation,Synthetic evaluation label; not an application feature
+CASE-0231,No Violation,Synthetic evaluation label; not an application feature
+CASE-0232,No Violation,Synthetic evaluation label; not an application feature
+CASE-0233,Violation,Synthetic evaluation label; not an application feature
+CASE-0234,Violation,Synthetic evaluation label; not an application feature
+CASE-0235,Violation,Synthetic evaluation label; not an application feature
+CASE-0236,Violation,Synthetic evaluation label; not an application feature
+CASE-0237,No Violation,Synthetic evaluation label; not an application feature
+CASE-0238,No Violation,Synthetic evaluation label; not an application feature
+CASE-0239,Violation,Synthetic evaluation label; not an application feature
+CASE-0240,Violation,Synthetic evaluation label; not an application feature
+CASE-0241,Violation,Synthetic evaluation label; not an application feature
+CASE-0242,Violation,Synthetic evaluation label; not an application feature
+CASE-0243,Violation,Synthetic evaluation label; not an application feature
+CASE-0244,No Violation,Synthetic evaluation label; not an application feature
+CASE-0245,Violation,Synthetic evaluation label; not an application feature
+CASE-0246,Violation,Synthetic evaluation label; not an application feature
+CASE-0247,Violation,Synthetic evaluation label; not an application feature
+CASE-0248,Violation,Synthetic evaluation label; not an application feature
+CASE-0249,No Violation,Synthetic evaluation label; not an application feature
+CASE-0250,No Violation,Synthetic evaluation label; not an application feature
+CASE-0251,No Violation,Synthetic evaluation label; not an application feature
+CASE-0252,No Violation,Synthetic evaluation label; not an application feature
+CASE-0253,No Violation,Synthetic evaluation label; not an application feature
+CASE-0254,Violation,Synthetic evaluation label; not an application feature
+CASE-0255,Violation,Synthetic evaluation label; not an application feature
+CASE-0256,Violation,Synthetic evaluation label; not an application feature
+CASE-0257,Violation,Synthetic evaluation label; not an application feature
+CASE-0258,No Violation,Synthetic evaluation label; not an application feature
+CASE-0259,Violation,Synthetic evaluation label; not an application feature
+CASE-0260,Violation,Synthetic evaluation label; not an application feature
+CASE-0261,Violation,Synthetic evaluation label; not an application feature
+CASE-0262,Violation,Synthetic evaluation label; not an application feature
+CASE-0263,No Violation,Synthetic evaluation label; not an application feature
+CASE-0264,Violation,Synthetic evaluation label; not an application feature
+CASE-0265,No Violation,Synthetic evaluation label; not an application feature
+CASE-0266,Violation,Synthetic evaluation label; not an application feature
+CASE-0267,Violation,Synthetic evaluation label; not an application feature
+CASE-0268,No Violation,Synthetic evaluation label; not an application feature
+CASE-0269,Violation,Synthetic evaluation label; not an application feature
+CASE-0270,No Violation,Synthetic evaluation label; not an application feature
+CASE-0271,No Violation,Synthetic evaluation label; not an application feature
+CASE-0272,No Violation,Synthetic evaluation label; not an application feature
+CASE-0273,Violation,Synthetic evaluation label; not an application feature
+CASE-0274,No Violation,Synthetic evaluation label; not an application feature
+CASE-0275,No Violation,Synthetic evaluation label; not an application feature
+CASE-0276,No Violation,Synthetic evaluation label; not an application feature
+CASE-0277,Violation,Synthetic evaluation label; not an application feature
+CASE-0278,No Violation,Synthetic evaluation label; not an application feature
+CASE-0279,No Violation,Synthetic evaluation label; not an application feature
+CASE-0280,Violation,Synthetic evaluation label; not an application feature
+CASE-0281,Violation,Synthetic evaluation label; not an application feature
+CASE-0282,Violation,Synthetic evaluation label; not an application feature
+CASE-0283,Violation,Synthetic evaluation label; not an application feature
+CASE-0284,No Violation,Synthetic evaluation label; not an application feature
+CASE-0285,Violation,Synthetic evaluation label; not an application feature
+CASE-0286,Violation,Synthetic evaluation label; not an application feature
+CASE-0287,Violation,Synthetic evaluation label; not an application feature
+CASE-0288,Violation,Synthetic evaluation label; not an application feature
+CASE-0289,Violation,Synthetic evaluation label; not an application feature
+CASE-0290,No Violation,Synthetic evaluation label; not an application feature
+CASE-0291,No Violation,Synthetic evaluation label; not an application feature
+CASE-0292,Violation,Synthetic evaluation label; not an application feature
+CASE-0293,Violation,Synthetic evaluation label; not an application feature
+CASE-0294,Violation,Synthetic evaluation label; not an application feature
+CASE-0295,No Violation,Synthetic evaluation label; not an application feature
+CASE-0296,No Violation,Synthetic evaluation label; not an application feature
+CASE-0297,Violation,Synthetic evaluation label; not an application feature
+CASE-0298,No Violation,Synthetic evaluation label; not an application feature
+CASE-0299,No Violation,Synthetic evaluation label; not an application feature
+CASE-0300,No Violation,Synthetic evaluation label; not an application feature

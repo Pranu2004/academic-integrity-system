@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Integrity Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header>
+    <h1>Academic Integrity Management System</h1>
+    <p>Similarity review, evidence tracking and fair academic decisions</p>
+</header>
+
+<main>
+    <section class="stats">
+        <div class="stat-card">
+            <h3>Total Submissions</h3>
+            <strong>{{ stats.submissions }}</strong>
+        </div>
+        <div class="stat-card">
+            <h3>Similarity Reports</h3>
+            <strong>{{ stats.reports }}</strong>
+        </div>
+        <div class="stat-card">
+            <h3>Review Cases</h3>
+            <strong>{{ stats.cases }}</strong>
+        </div>
+        <div class="stat-card">
+            <h3>Appeals</h3>
+            <strong>{{ stats.appeals }}</strong>
+        </div>
+    </section>
+
+    <section class="notice">
+        <strong>Important:</strong> A similarity flag is only a trigger for human review.
+        It does not automatically establish academic misconduct.
+    </section>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        {% for message in messages %}
+          <p class="message">{{ message }}</p>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <section class="panel">
+        <h2>Academic Integrity Cases</h2>
+        <p>Showing the latest 50 cases.</p>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Case ID</th>
+                        <th>Learner</th>
+                        <th>Submission</th>
+                        <th>Similarity</th>
+                        <th>Status</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for case in cases %}
+                    <tr>
+                        <td>{{ case.case_id }}</td>
+                        <td>{{ case.learner_name }}</td>
+                        <td>{{ case.submission_id }}</td>
+                        <td>{{ case.similarity_score }}%</td>
+                        <td><span class="status">{{ case.status }}</span></td>
+                        <td>
+                            <a href="{{ url_for('case_detail', case_id=case.case_id) }}">
+                                View Case
+                            </a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>Academic Integrity System | Human Review & Due Process</p>
+</footer>
+</body>
+</html>

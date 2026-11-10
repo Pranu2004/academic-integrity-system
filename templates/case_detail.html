@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case Details</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header>
+    <h1>Case {{ case.case_id }}</h1>
+    <p>Academic Integrity Case Review</p>
+    <a href="/">← Back to Dashboard</a>
+</header>
+
+<main>
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        {% for message in messages %}
+          <p class="message">{{ message }}</p>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <section class="panel">
+        <h2>Submission Details</h2>
+        <p><strong>Learner:</strong> {{ case.learner_name }}</p>
+        <p><strong>Submission:</strong> {{ case.submission_id }}</p>
+        <p><strong>Similarity Score:</strong> {{ case.similarity_score }}%</p>
+        <p><strong>Status:</strong> {{ case.status }}</p>
+        <p><strong>Reason:</strong> {{ case.reason }}</p>
+        <p class="notice">A similarity score is not proof of misconduct. A human reviewer must evaluate the evidence.</p>
+        <h3>Submission Content</h3>
+        <pre>{{ case.content }}</pre>
+    </section>
+
+    <section class="panel">
+        <h2>Assigned Reviewers</h2>
+        {% for reviewer in reviewers %}
+            <p>{{ reviewer.name }} ({{ reviewer.reviewer_id }}) —
+            {% if reviewer.conflict_of_interest %}
+                <strong>Conflict detected</strong>
+            {% else %}
+                No conflict recorded
+            {% endif %}
+            </p>
+        {% else %}
+            <p>No reviewers assigned.</p>
+        {% endfor %}
+
+        <h3>Assign Reviewer</h3>
+        <form method="POST" action="{{ url_for('assign_reviewer', case_id=case.case_id) }}">
+            <label>Reviewer ID</label>
+            <input type="text" name="reviewer_id" placeholder="Example: REV-001" required>
+            <button type="submit">Assign Reviewer</button>
+        </form>
+    </section>
+
+    <section class="panel">
+        <h2>Evidence</h2>
+        {% for item in evidence %}
+            <div class="item">
+                <p><strong>{{ item.evidence_id }}</strong> — {{ item.evidence_type }}</p>
+                <p>{{ item.description }}</p>
+                <small>Added by {{ item.added_by }} at {{ item.added_at }}</small>
+            </div>
+        {% else %}
+            <p>No evidence recorded.</p>
+        {% endfor %}
+
+        <h3>Add New Evidence</h3>
+        <form method="POST" action="{{ url_for('add_evidence', case_id=case.case_id) }}">
+            <label>Description</label>
+            <textarea name="description" required></textarea>
+            <label>Evidence Type</label>
+            <select name="evidence_type" required>
+                <option value="Similarity Report">Similarity Report</option>
+                <option value="Submission">Submission</option>
+                <option value="Reference">Reference</option>
+                <option value="Other">Other</option>
+            </select>
+            <button type="submit">Add Evidence</button>
+        </form>
+    </section>
+
+    <section class="panel">
+        <h2>Human Decisions</h2>
+        {% for decision in decisions %}
+            <div class="item">
+                <p><strong>{{ decision.decision }}</strong></p>
+                <p>Reviewer: {{ decision.reviewer_name }}</p>
+                <p>Rationale: {{ decision.rationale }}</p>
+                <small>{{ decision.decided_at }}</small>
+            </div>
+        {% else %}
+            <p>No decision recorded yet.</p>
+        {% endfor %}
+
+        <h3>Record a Decision</h3>
+        <form method="POST" action="{{ url_for('add_decision', case_id=case.case_id) }}">
+            <label>Assigned Reviewer ID</label>
+            <input type="text" name="reviewer_id" placeholder="Example: REV-001" required>
+
+            <label>Decision</label>
+            <select name="decision" required>
+                <option value="No Violation">No Violation</option>
+                <option value="Violation Confirmed">Violation Confirmed</option>
+                <option value="Inconclusive">Inconclusive</option>
+                <option value="Warning">Warning</option>
+            </select>
+
+            <label>Reason / Rationale</label>
+            <textarea name="rationale" required></textarea>
+            <button type="submit">Record Human Decision</button>
+        </form>
+    </section>
+
+    <section class="panel">
+        <h2>Appeals</h2>
+        {% for appeal in appeals %}
+            <div class="item">
+                <p><strong>{{ appeal.appeal_id }}</strong></p>
+                <p>Status: {{ appeal.status }}</p>
+                <p>Reason: {{ appeal.reason }}</p>
+                <p>Independent Reviewer: {{ appeal.independent_reviewer or 'Pending assignment' }}</p>
+                <p>Outcome: {{ appeal.outcome_reason or 'Pending review' }}</p>
+
+                {% if appeal.reviewed_at %}
+                    <p><strong>Reviewed at:</strong> {{ appeal.reviewed_at }}</p>
+                {% endif %}
+
+                {% if appeal.status == 'Submitted' and not appeal.independent_reviewer_id %}
+                    <h3>Assign an Independent Appeal Reviewer</h3>
+                    <p class="notice">The original decision-maker and reviewers already assigned to this case cannot review this appeal.</p>
+                    <form method="POST" action="{{ url_for('assign_appeal_reviewer', appeal_id=appeal.appeal_id) }}">
+                        <label>Independent Reviewer</label>
+                        <select name="reviewer_id" required>
+                            <option value="">Select an available reviewer</option>
+                            {% for reviewer in available_reviewers %}
+                                <option value="{{ reviewer.reviewer_id }}">{{ reviewer.name }} ({{ reviewer.reviewer_id }})</option>
+                            {% endfor %}
+                        </select>
+                        <button type="submit">Assign Independent Reviewer</button>
+                    </form>
+                {% elif appeal.status == 'Submitted' and appeal.independent_reviewer_id %}
+                    <h3>Independent Appeal Review</h3>
+                    <p class="notice">The appeal must be reviewed independently with a written rationale.</p>
+                    <form method="POST" action="{{ url_for('review_appeal', appeal_id=appeal.appeal_id) }}">
+                        <label>Appeal Outcome</label>
+                        <select name="outcome" required>
+                            <option value="Appeal Upheld">Appeal Upheld</option>
+                            <option value="Appeal Rejected">Appeal Rejected</option>
+                        </select>
+                        <label>Review Rationale</label>
+                        <textarea name="rationale" required></textarea>
+                        <button type="submit">Record Appeal Review</button>
+                    </form>
+                {% endif %}
+            </div>
+        {% else %}
+            <p>No appeals submitted.</p>
+        {% endfor %}
+
+        <h3>Submit an Appeal</h3>
+        <form method="POST" action="{{ url_for('submit_appeal', case_id=case.case_id) }}">
+            <label>Appeal Reason</label>
+            <textarea name="reason" required></textarea>
+            <button type="submit">Submit Appeal</button>
+        </form>
+    </section>
+
+    <section class="panel">
+        <h2>Case Timeline</h2>
+        {% for event in events %}
+            <div class="item">
+                <p><strong>{{ event.action }}</strong></p>
+                <p>{{ event.details }}</p>
+                <small>{{ event.actor }} | {{ event.event_time }}</small>
+            </div>
+        {% else %}
+            <p>No timeline events available.</p>
+        {% endfor %}
+    </section>
+</main>
+
+<footer>
+    <p>Academic Integrity System | Fair Review & Due Process</p>
+</footer>
+</body>
+</html>
