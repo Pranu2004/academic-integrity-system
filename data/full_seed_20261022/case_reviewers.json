@@ -1,0 +1,3602 @@
+[
+  {
+    "case_id": "CASE-2026-000001",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-08-11T19:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000001",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-08-11T19:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000002",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-08-07T14:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000002",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-08-07T14:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000003",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-05-22T15:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000003",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-05-22T15:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000004",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-02-16T13:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000004",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-02-16T13:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000005",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-02-28T15:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000005",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-02-28T15:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000006",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-04-02T19:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000006",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-04-02T19:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000007",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-07-13T20:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000007",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-07-13T20:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000008",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-05-10T14:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000008",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-10T14:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000009",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-25T19:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000009",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-03-25T19:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000010",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-05-21T19:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000010",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-05-21T19:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000011",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-03-31T13:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000011",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-03-31T13:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000012",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-01-30T11:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000012",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-01-30T11:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000013",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-03-21T17:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000013",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-03-21T17:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000014",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-02-01T20:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000014",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-02-01T20:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000015",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-02-01T12:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000015",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-02-01T12:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000016",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-05-22T16:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000016",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-05-22T16:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000017",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-07-24T12:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000017",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-07-24T12:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000018",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-02-18T10:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000018",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-02-18T10:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000019",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-06-17T10:35:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000019",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-06-17T10:35:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000020",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-03-13T10:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000020",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-03-13T10:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000021",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-03-10T16:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000021",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-03-10T16:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000022",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-06-22T16:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000022",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-22T16:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000023",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-07-22T20:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000023",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-07-22T20:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000024",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-07-27T20:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000024",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-07-27T20:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000025",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-02-08T17:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000025",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-02-08T17:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000026",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-06-05T10:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000026",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-06-05T10:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000027",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-02-07T14:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000027",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-02-07T14:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000028",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-06-27T20:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000028",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-06-27T20:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000029",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-08-31T11:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000029",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-08-31T11:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000030",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-26T14:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000030",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-03-26T14:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000031",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-07-17T16:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000031",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-07-17T16:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000032",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-24T19:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000032",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-05-24T19:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000033",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-02-14T16:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000033",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-02-14T16:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000034",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-08-20T16:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000034",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-08-20T16:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000035",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-03-08T10:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000035",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-03-08T10:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000036",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-07-22T15:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000036",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-07-22T15:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000037",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-01-24T15:54:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000037",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-01-24T15:54:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000038",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-08-07T20:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000038",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-08-07T20:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000039",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-06-16T18:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000039",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-06-16T18:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000040",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-06-10T20:45:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000040",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-06-10T20:45:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000041",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-04-26T12:17:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000041",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-04-26T12:17:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000042",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-06-30T11:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000042",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-06-30T11:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000043",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-07-16T15:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000043",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-07-16T15:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000044",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-02-11T10:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000044",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-02-11T10:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000045",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-09-05T15:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000045",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-09-05T15:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000046",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-04-21T15:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000046",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-04-21T15:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000047",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-02-20T17:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000047",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-02-20T17:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000048",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-03-13T16:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000048",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-03-13T16:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000049",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-01-27T16:01:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000049",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-01-27T16:01:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000050",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-05-09T13:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000050",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-05-09T13:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000051",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-07-31T11:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000051",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-07-31T11:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000052",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-03-22T20:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000052",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-03-22T20:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000053",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-06-10T15:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000053",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-06-10T15:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000054",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-08-23T12:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000054",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-08-23T12:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000055",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-31T17:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000055",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-03-31T17:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000056",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-03-13T13:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000056",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-03-13T13:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000057",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-04-18T11:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000057",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-18T11:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000058",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-15T16:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000058",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-04-15T16:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000059",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-05-10T16:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000059",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-05-10T16:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000060",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-05-24T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000060",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-05-24T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000061",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-03-28T17:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000061",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-03-28T17:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000062",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-02-09T19:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000062",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-02-09T19:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000063",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-02-19T10:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000063",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-02-19T10:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000064",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-04-15T14:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000064",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-04-15T14:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000065",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-04-30T10:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000065",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-04-30T10:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000066",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-01-18T11:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000066",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-01-18T11:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000067",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-04-02T11:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000067",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-04-02T11:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000068",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-05-08T19:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000068",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-05-08T19:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000069",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-08-28T19:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000069",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-08-28T19:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000070",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-05-18T15:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000070",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-05-18T15:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000071",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-01-26T20:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000071",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-01-26T20:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000072",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-05-21T20:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000072",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-05-21T20:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000073",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-01-29T11:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000073",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-01-29T11:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000074",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-05-09T10:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000074",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-09T10:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000075",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-06-14T16:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000075",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-06-14T16:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000076",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-02-10T17:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000076",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-02-10T17:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000077",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-06-04T16:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000077",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-06-04T16:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000078",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-13T12:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000078",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-05-13T12:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000079",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-08-24T20:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000079",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-08-24T20:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000080",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-19T16:38:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000080",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-04-19T16:38:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000081",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-05-01T12:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000081",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-05-01T12:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000082",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-08-19T20:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000082",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-08-19T20:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000083",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-02-16T20:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000083",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-02-16T20:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000084",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-03-24T12:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000084",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-03-24T12:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000085",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-05-03T17:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000085",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-05-03T17:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000086",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-02-17T13:38:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000086",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-02-17T13:38:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000087",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-04-14T20:18:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000087",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-04-14T20:18:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000088",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-07-16T19:54:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000088",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-07-16T19:54:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000089",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-01-12T11:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000089",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-01-12T11:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000090",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-08-30T20:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000090",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-08-30T20:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000091",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-08-11T16:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000091",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-08-11T16:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000092",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-05-16T17:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000092",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-05-16T17:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000093",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-22T18:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000093",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-06-22T18:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000094",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-02-25T12:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000094",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-02-25T12:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000095",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-05-27T19:35:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000095",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-05-27T19:35:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000096",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-06-02T13:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000096",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-06-02T13:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000097",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-04-25T12:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000097",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-04-25T12:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000098",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-04-28T10:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000098",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-04-28T10:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000099",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-08-21T13:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000099",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-08-21T13:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000100",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-04-28T18:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000100",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-04-28T18:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000101",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-04-12T13:57:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000101",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-04-12T13:57:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000102",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-06-28T12:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000102",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-06-28T12:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000103",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-03-30T16:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000103",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-03-30T16:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000104",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-01-15T16:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000104",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-01-15T16:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000105",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-04-17T13:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000105",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-04-17T13:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000106",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-03-22T10:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000106",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-03-22T10:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000107",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-01-18T18:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000107",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-01-18T18:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000108",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-04-24T10:45:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000108",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-04-24T10:45:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000109",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-04-05T13:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000109",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-04-05T13:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000110",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-05-23T10:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000110",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-05-23T10:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000111",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-03-18T18:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000111",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-03-18T18:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000112",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-04-16T16:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000112",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-04-16T16:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000113",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-04-22T12:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000113",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-04-22T12:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000114",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-06-15T12:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000114",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-06-15T12:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000115",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-08-11T16:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000115",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-08-11T16:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000116",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-08-10T12:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000116",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-08-10T12:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000117",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-04-15T20:38:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000117",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-04-15T20:38:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000118",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-05-01T17:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000118",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-01T17:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000119",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-07-02T20:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000119",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-07-02T20:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000120",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-01-31T18:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000120",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-01-31T18:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000121",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-08-05T17:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000121",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-08-05T17:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000122",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-02-01T16:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000122",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-02-01T16:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000123",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-06-30T12:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000123",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-06-30T12:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000124",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-01-25T14:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000124",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-01-25T14:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000125",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-07-13T18:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000125",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-07-13T18:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000126",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-04-20T20:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000126",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-04-20T20:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000127",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-04-15T11:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000127",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-04-15T11:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000128",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-07-05T10:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000128",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-07-05T10:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000129",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-04-01T19:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000129",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-01T19:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000130",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-04-22T17:57:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000130",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-04-22T17:57:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000131",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-02-19T11:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000131",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-02-19T11:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000132",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-01-03T14:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000132",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-01-03T14:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000133",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-01-03T20:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000133",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-01-03T20:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000134",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-06-03T20:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000134",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-06-03T20:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000135",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-08-26T15:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000135",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-08-26T15:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000136",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-04-09T20:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000136",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-04-09T20:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000137",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-02-26T15:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000137",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-02-26T15:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000138",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-06-01T10:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000138",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-01T10:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000139",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-03-21T17:57:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000139",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-03-21T17:57:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000140",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-02-03T14:39:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000140",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-02-03T14:39:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000141",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-08-18T18:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000141",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-08-18T18:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000142",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-05-12T10:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000142",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-05-12T10:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000143",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-02-24T18:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000143",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-02-24T18:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000144",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-06-29T20:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000144",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-06-29T20:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000145",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-09-08T10:35:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000145",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-09-08T10:35:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000146",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-06-18T10:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000146",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-06-18T10:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000147",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-09-01T10:03:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000147",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-09-01T10:03:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000148",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-09-06T20:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000148",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-09-06T20:23:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000149",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-07-15T12:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000149",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-07-15T12:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000150",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-01-21T14:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000150",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-01-21T14:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000151",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-01-03T20:01:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000151",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-01-03T20:01:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000152",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-01-06T12:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000152",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-01-06T12:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000153",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-01-24T14:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000153",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-01-24T14:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000154",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-05-29T13:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000154",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-05-29T13:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000155",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-02T13:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000155",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-06-02T13:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000156",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-06-29T10:06:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000156",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-06-29T10:06:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000157",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-08-06T19:01:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000157",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-08-06T19:01:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000158",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-02-14T13:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000158",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-02-14T13:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000159",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-07-01T20:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000159",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-07-01T20:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000160",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-04-27T10:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000160",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-04-27T10:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000161",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-02-23T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000161",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-02-23T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000162",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-04-12T11:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000162",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-04-12T11:32:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000163",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-08-02T13:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000163",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-08-02T13:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000164",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-01-30T18:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000164",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-01-30T18:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000165",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-05-31T18:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000165",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-05-31T18:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000166",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-01-03T16:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000166",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-01-03T16:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000167",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-05-21T20:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000167",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-05-21T20:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000168",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-05-20T13:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000168",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-05-20T13:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000169",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-02-05T15:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000169",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-02-05T15:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000170",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-07-22T17:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000170",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-07-22T17:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000171",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-01-09T13:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000171",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-01-09T13:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000172",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-08-01T16:39:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000172",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-08-01T16:39:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000173",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-07-20T13:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000173",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-07-20T13:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000174",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-06-11T20:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000174",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-06-11T20:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000175",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-06-03T18:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000175",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-06-03T18:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000176",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-02-26T14:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000176",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-02-26T14:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000177",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-04-12T18:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000177",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-04-12T18:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000178",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-06-01T12:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000178",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-06-01T12:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000179",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-04-29T11:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000179",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-04-29T11:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000180",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-03-28T15:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000180",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-03-28T15:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000181",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-06-10T10:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000181",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-06-10T10:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000182",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-08-24T20:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000182",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-08-24T20:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000183",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-03-08T18:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000183",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-03-08T18:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000184",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-05-23T13:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000184",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-23T13:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000185",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-07-02T18:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000185",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-07-02T18:08:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000186",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-06-29T15:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000186",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-06-29T15:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000187",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-05-22T16:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000187",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-05-22T16:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000188",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-08-01T10:17:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000188",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-08-01T10:17:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000189",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-05-16T14:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000189",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-05-16T14:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000190",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-07-18T10:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000190",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-07-18T10:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000191",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-03-01T16:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000191",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-03-01T16:21:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000192",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-03-16T12:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000192",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-16T12:28:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000193",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-08-09T16:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000193",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-08-09T16:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000194",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-09-06T14:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000194",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-09-06T14:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000195",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-08-04T18:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000195",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-08-04T18:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000196",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-01-02T12:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000196",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-01-02T12:29:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000197",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-06-09T18:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000197",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-06-09T18:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000198",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-02-21T13:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000198",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-02-21T13:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000199",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-08-04T19:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000199",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-08-04T19:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000200",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-02-06T12:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000200",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-02-06T12:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000201",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-07-18T10:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000201",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-07-18T10:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000202",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-07-17T16:06:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000202",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-07-17T16:06:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000203",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-08-26T12:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000203",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-08-26T12:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000204",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-07-10T20:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000204",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-07-10T20:53:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000205",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-03-24T17:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000205",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-24T17:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000206",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-02-04T17:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000206",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-02-04T17:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000207",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-06-18T15:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000207",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-06-18T15:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000208",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-02-23T12:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000208",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-02-23T12:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000209",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-08-01T17:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000209",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-08-01T17:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000210",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-02-18T19:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000210",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-02-18T19:15:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000211",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-04-24T11:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000211",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-24T11:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000212",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-05-09T10:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000212",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-05-09T10:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000213",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-05-10T15:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000213",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-05-10T15:36:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000214",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-07-06T17:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000214",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-07-06T17:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000215",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-05-16T12:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000215",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-05-16T12:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000216",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-08-17T12:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000216",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-08-17T12:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000217",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-06-27T10:43:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000217",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-06-27T10:43:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000218",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-07-01T13:26:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000218",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-07-01T13:26:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000219",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-02-21T10:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000219",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-02-21T10:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000220",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-06-16T19:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000220",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-06-16T19:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000221",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-07-09T12:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000221",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-07-09T12:56:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000222",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-07-03T16:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000222",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-07-03T16:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000223",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-01-16T10:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000223",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-01-16T10:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000224",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-07-30T17:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000224",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-07-30T17:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000225",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-04-28T13:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000225",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-04-28T13:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000226",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-06-25T14:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000226",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-06-25T14:27:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000227",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-03-10T11:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000227",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-03-10T11:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000228",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-23T18:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000228",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-03-23T18:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000229",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-05-22T17:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000229",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-05-22T17:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000230",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-07-16T15:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000230",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-07-16T15:33:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000231",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-10T19:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000231",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-06-10T19:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000232",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-04-01T19:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000232",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-04-01T19:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000233",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-04-15T10:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000233",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-15T10:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000234",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-08-23T10:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000234",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-08-23T10:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000235",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-01-24T11:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000235",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-01-24T11:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000236",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-06-16T16:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000236",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-06-16T16:55:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000237",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-04-17T12:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000237",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-04-17T12:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000238",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-02-25T16:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000238",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-02-25T16:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000239",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-08-31T20:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000239",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-08-31T20:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000240",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-06-29T12:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000240",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-06-29T12:51:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000241",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-07-08T12:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000241",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-07-08T12:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000242",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-05-26T11:03:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000242",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-05-26T11:03:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000243",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-07-10T18:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000243",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-07-10T18:13:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000244",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-04-30T14:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000244",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-04-30T14:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000245",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-02-06T13:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000245",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-02-06T13:12:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000246",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-05-14T15:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000246",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-05-14T15:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000247",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-02-16T16:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000247",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-02-16T16:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000248",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-03-23T18:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000248",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-03-23T18:07:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000249",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-07-01T13:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000249",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-07-01T13:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000250",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-05-10T12:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000250",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-05-10T12:19:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000251",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-01-14T12:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000251",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-01-14T12:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000252",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-04-26T20:43:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000252",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-04-26T20:43:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000253",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-01-12T13:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000253",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-01-12T13:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000254",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-05-29T17:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000254",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-05-29T17:49:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000255",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-08-31T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000255",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-08-31T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000256",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-06-08T18:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000256",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-06-08T18:40:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000257",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-04-17T15:06:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000257",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-04-17T15:06:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000258",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-03-12T18:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000258",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-03-12T18:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000259",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-04-07T10:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000259",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-04-07T10:37:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000260",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-02-17T13:17:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000260",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-02-17T13:17:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000261",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-06-24T12:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000261",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-06-24T12:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000262",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-06-09T13:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000262",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-06-09T13:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000263",
+    "reviewer_id": "REV-028",
+    "assigned_at": "2026-08-08T16:26:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000263",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-08-08T16:26:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000264",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-05-09T11:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000264",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-05-09T11:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000265",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-10T11:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000265",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-06-10T11:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000266",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-05-23T11:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000266",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-05-23T11:22:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000267",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-07-28T12:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000267",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-07-28T12:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000268",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-02-28T14:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000268",
+    "reviewer_id": "REV-021",
+    "assigned_at": "2026-02-28T14:59:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000269",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-03-11T15:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000269",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-03-11T15:47:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000270",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-08-14T20:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000270",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-08-14T20:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000271",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-02-15T17:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000271",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-02-15T17:48:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000272",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-02-08T19:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000272",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-02-08T19:14:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000273",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-03-26T13:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000273",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-03-26T13:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000274",
+    "reviewer_id": "REV-027",
+    "assigned_at": "2026-03-21T12:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000274",
+    "reviewer_id": "REV-029",
+    "assigned_at": "2026-03-21T12:10:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000275",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-09-08T19:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000275",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-09-08T19:52:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000276",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-01-11T18:46:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000276",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-01-11T18:46:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000277",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-07-02T12:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000277",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-07-02T12:31:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000278",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-04-30T10:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000278",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-04-30T10:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000279",
+    "reviewer_id": "REV-004",
+    "assigned_at": "2026-01-31T13:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000279",
+    "reviewer_id": "REV-005",
+    "assigned_at": "2026-01-31T13:16:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000280",
+    "reviewer_id": "REV-022",
+    "assigned_at": "2026-07-29T13:54:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000280",
+    "reviewer_id": "REV-023",
+    "assigned_at": "2026-07-29T13:54:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000281",
+    "reviewer_id": "REV-006",
+    "assigned_at": "2026-01-13T14:34:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000281",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-01-13T14:34:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000282",
+    "reviewer_id": "REV-024",
+    "assigned_at": "2026-07-18T14:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000282",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-07-18T14:09:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000283",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-02-28T16:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000283",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-02-28T16:05:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000284",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-01-15T15:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000284",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-01-15T15:24:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000285",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-09-04T10:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000285",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-09-04T10:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000286",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-01-25T17:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000286",
+    "reviewer_id": "REV-014",
+    "assigned_at": "2026-01-25T17:42:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000287",
+    "reviewer_id": "REV-002",
+    "assigned_at": "2026-07-09T19:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000287",
+    "reviewer_id": "REV-003",
+    "assigned_at": "2026-07-09T19:00:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000288",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-03-16T14:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000288",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-03-16T14:02:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000289",
+    "reviewer_id": "REV-017",
+    "assigned_at": "2026-07-07T15:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000289",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-07-07T15:20:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000290",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-02-24T18:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000290",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-02-24T18:58:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000291",
+    "reviewer_id": "REV-007",
+    "assigned_at": "2026-01-11T14:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000291",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-01-11T14:04:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000292",
+    "reviewer_id": "REV-008",
+    "assigned_at": "2026-09-07T14:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000292",
+    "reviewer_id": "REV-010",
+    "assigned_at": "2026-09-07T14:11:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000293",
+    "reviewer_id": "REV-009",
+    "assigned_at": "2026-03-03T14:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000293",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-03-03T14:25:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000294",
+    "reviewer_id": "REV-011",
+    "assigned_at": "2026-01-14T18:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000294",
+    "reviewer_id": "REV-012",
+    "assigned_at": "2026-01-14T18:41:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000295",
+    "reviewer_id": "REV-025",
+    "assigned_at": "2026-03-17T12:39:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000295",
+    "reviewer_id": "REV-026",
+    "assigned_at": "2026-03-17T12:39:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000296",
+    "reviewer_id": "REV-013",
+    "assigned_at": "2026-01-23T16:26:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000296",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-01-23T16:26:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000297",
+    "reviewer_id": "REV-015",
+    "assigned_at": "2026-03-22T13:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000297",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-03-22T13:50:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000298",
+    "reviewer_id": "REV-016",
+    "assigned_at": "2026-06-15T12:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000298",
+    "reviewer_id": "REV-018",
+    "assigned_at": "2026-06-15T12:30:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000299",
+    "reviewer_id": "REV-030",
+    "assigned_at": "2026-06-14T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000299",
+    "reviewer_id": "REV-001",
+    "assigned_at": "2026-06-14T11:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000300",
+    "reviewer_id": "REV-019",
+    "assigned_at": "2026-01-10T13:44:00",
+    "conflict_of_interest": 0
+  },
+  {
+    "case_id": "CASE-2026-000300",
+    "reviewer_id": "REV-020",
+    "assigned_at": "2026-01-10T13:44:00",
+    "conflict_of_interest": 0
+  }
+]

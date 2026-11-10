@@ -1,0 +1,23 @@
+{
+  "scale": "full",
+  "seed": 20261022,
+  "database": "C:\\Users\\bojja\\OneDrive\\Documents\\Desktop\\academic-integrity-system\\full_test.db",
+  "counts": {
+    "learners": 2000,
+    "assessments": 20,
+    "integrity_rules": 3,
+    "reviewers": 30,
+    "submissions": 10000,
+    "similarity_reports": 1000,
+    "cases": 300,
+    "case_reviewers": 600,
+    "evidence_items": 600,
+    "decisions": 240,
+    "appeals": 30,
+    "case_events": 570,
+    "evidence_events": 600,
+    "audit_logs": 570
+  },
+  "ground_truth_rows": 300,
+  "label_policy": "documented_overlap => Violation; shared-template and legitimate-quotation scenarios => No Violation"
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "evidence_id": "EVD-CASE-2026-000001-001",
+    "case_id": "CASE-2026-000001",
+    "description": "Synthetic similarity report evidence for CASE-2026-000001",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000001-001.txt",
+    "added_by": "System",
+    "added_at": "2026-08-10T19:52:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000001-002",
+    "case_id": "CASE-2026-000001",
+    "description": "Synthetic submission evidence for CASE-2026-000001",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000001-002.txt",
+    "added_by": "System",
+    "added_at": "2026-08-10T19:53:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000002-001",
+    "case_id": "CASE-2026-000002",
+    "description": "Synthetic similarity report evidence for CASE-2026-000002",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000002-001.txt",
+    "added_by": "System",
+    "added_at": "2026-03-16T16:54:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000002-002",
+    "case_id": "CASE-2026-000002",
+    "description": "Synthetic submission evidence for CASE-2026-000002",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000002-002.txt",
+    "added_by": "System",
+    "added_at": "2026-03-16T16:55:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000002-003",
+    "case_id": "CASE-2026-000002",
+    "description": "Synthetic reference evidence for CASE-2026-000002",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000002-003.txt",
+    "added_by": "System",
+    "added_at": "2026-03-16T16:56:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000003-001",
+    "case_id": "CASE-2026-000003",
+    "description": "Synthetic similarity report evidence for CASE-2026-000003",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000003-001.txt",
+    "added_by": "System",
+    "added_at": "2026-07-24T13:36:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000004-001",
+    "case_id": "CASE-2026-000004",
+    "description": "Synthetic similarity report evidence for CASE-2026-000004",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000004-001.txt",
+    "added_by": "System",
+    "added_at": "2026-08-16T10:32:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000004-002",
+    "case_id": "CASE-2026-000004",
+    "description": "Synthetic submission evidence for CASE-2026-000004",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000004-002.txt",
+    "added_by": "System",
+    "added_at": "2026-08-16T10:33:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000005-001",
+    "case_id": "CASE-2026-000005",
+    "description": "Synthetic similarity report evidence for CASE-2026-000005",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000005-001.txt",
+    "added_by": "System",
+    "added_at": "2026-03-03T19:19:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000005-002",
+    "case_id": "CASE-2026-000005",
+    "description": "Synthetic submission evidence for CASE-2026-000005",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000005-002.txt",
+    "added_by": "System",
+    "added_at": "2026-03-03T19:20:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000005-003",
+    "case_id": "CASE-2026-000005",
+    "description": "Synthetic reference evidence for CASE-2026-000005",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000005-003.txt",
+    "added_by": "System",
+    "added_at": "2026-03-03T19:21:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000006-001",
+    "case_id": "CASE-2026-000006",
+    "description": "Synthetic similarity report evidence for CASE-2026-000006",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000006-001.txt",
+    "added_by": "System",
+    "added_at": "2026-07-06T13:56:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000007-001",
+    "case_id": "CASE-2026-000007",
+    "description": "Synthetic similarity report evidence for CASE-2026-000007",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000007-001.txt",
+    "added_by": "System",
+    "added_at": "2026-08-08T13:50:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000007-002",
+    "case_id": "CASE-2026-000007",
+    "description": "Synthetic submission evidence for CASE-2026-000007",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000007-002.txt",
+    "added_by": "System",
+    "added_at": "2026-08-08T13:51:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000008-001",
+    "case_id": "CASE-2026-000008",
+    "description": "Synthetic similarity report evidence for CASE-2026-000008",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000008-001.txt",
+    "added_by": "System",
+    "added_at": "2026-02-04T12:11:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000008-002",
+    "case_id": "CASE-2026-000008",
+    "description": "Synthetic submission evidence for CASE-2026-000008",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000008-002.txt",
+    "added_by": "System",
+    "added_at": "2026-02-04T12:12:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000008-003",
+    "case_id": "CASE-2026-000008",
+    "description": "Synthetic reference evidence for CASE-2026-000008",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000008-003.txt",
+    "added_by": "System",
+    "added_at": "2026-02-04T12:13:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000009-001",
+    "case_id": "CASE-2026-000009",
+    "description": "Synthetic similarity report evidence for CASE-2026-000009",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000009-001.txt",
+    "added_by": "System",
+    "added_at": "2026-08-04T17:11:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000010-001",
+    "case_id": "CASE-2026-000010",
+    "description": "Synthetic similarity report evidence for CASE-2026-000010",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000010-001.txt",
+    "added_by": "System",
+    "added_at": "2026-04-15T12:07:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000010-002",
+    "case_id": "CASE-2026-000010",
+    "description": "Synthetic submission evidence for CASE-2026-000010",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000010-002.txt",
+    "added_by": "System",
+    "added_at": "2026-04-15T12:08:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000011-001",
+    "case_id": "CASE-2026-000011",
+    "description": "Synthetic similarity report evidence for CASE-2026-000011",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000011-001.txt",
+    "added_by": "System",
+    "added_at": "2026-01-01T15:16:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000011-002",
+    "case_id": "CASE-2026-000011",
+    "description": "Synthetic submission evidence for CASE-2026-000011",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000011-002.txt",
+    "added_by": "System",
+    "added_at": "2026-01-01T15:17:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000011-003",
+    "case_id": "CASE-2026-000011",
+    "description": "Synthetic reference evidence for CASE-2026-000011",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000011-003.txt",
+    "added_by": "System",
+    "added_at": "2026-01-01T15:18:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000012-001",
+    "case_id": "CASE-2026-000012",
+    "description": "Synthetic similarity report evidence for CASE-2026-000012",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000012-001.txt",
+    "added_by": "System",
+    "added_at": "2026-03-06T10:35:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000013-001",
+    "case_id": "CASE-2026-000013",
+    "description": "Synthetic similarity report evidence for CASE-2026-000013",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000013-001.txt",
+    "added_by": "System",
+    "added_at": "2026-02-02T10:06:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000013-002",
+    "case_id": "CASE-2026-000013",
+    "description": "Synthetic submission evidence for CASE-2026-000013",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000013-002.txt",
+    "added_by": "System",
+    "added_at": "2026-02-02T10:07:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000014-001",
+    "case_id": "CASE-2026-000014",
+    "description": "Synthetic similarity report evidence for CASE-2026-000014",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000014-001.txt",
+    "added_by": "System",
+    "added_at": "2026-07-06T10:19:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000014-002",
+    "case_id": "CASE-2026-000014",
+    "description": "Synthetic submission evidence for CASE-2026-000014",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000014-002.txt",
+    "added_by": "System",
+    "added_at": "2026-07-06T10:20:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000014-003",
+    "case_id": "CASE-2026-000014",
+    "description": "Synthetic reference evidence for CASE-2026-000014",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000014-003.txt",
+    "added_by": "System",
+    "added_at": "2026-07-06T10:21:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000015-001",
+    "case_id": "CASE-2026-000015",
+    "description": "Synthetic similarity report evidence for CASE-2026-000015",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000015-001.txt",
+    "added_by": "System",
+    "added_at": "2026-01-23T13:54:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000016-001",
+    "case_id": "CASE-2026-000016",
+    "description": "Synthetic similarity report evidence for CASE-2026-000016",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000016-001.txt",
+    "added_by": "System",
+    "added_at": "2026-08-20T14:10:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000016-002",
+    "case_id": "CASE-2026-000016",
+    "description": "Synthetic submission evidence for CASE-2026-000016",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000016-002.txt",
+    "added_by": "System",
+    "added_at": "2026-08-20T14:11:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000017-001",
+    "case_id": "CASE-2026-000017",
+    "description": "Synthetic similarity report evidence for CASE-2026-000017",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000017-001.txt",
+    "added_by": "System",
+    "added_at": "2026-01-16T19:40:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000017-002",
+    "case_id": "CASE-2026-000017",
+    "description": "Synthetic submission evidence for CASE-2026-000017",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000017-002.txt",
+    "added_by": "System",
+    "added_at": "2026-01-16T19:41:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000017-003",
+    "case_id": "CASE-2026-000017",
+    "description": "Synthetic reference evidence for CASE-2026-000017",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000017-003.txt",
+    "added_by": "System",
+    "added_at": "2026-01-16T19:42:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000018-001",
+    "case_id": "CASE-2026-000018",
+    "description": "Synthetic similarity report evidence for CASE-2026-000018",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000018-001.txt",
+    "added_by": "System",
+    "added_at": "2026-07-26T11:50:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000019-001",
+    "case_id": "CASE-2026-000019",
+    "description": "Synthetic similarity report evidence for CASE-2026-000019",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000019-001.txt",
+    "added_by": "System",
+    "added_at": "2026-09-01T12:56:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000019-002",
+    "case_id": "CASE-2026-000019",
+    "description": "Synthetic submission evidence for CASE-2026-000019",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000019-002.txt",
+    "added_by": "System",
+    "added_at": "2026-09-01T12:57:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000020-001",
+    "case_id": "CASE-2026-000020",
+    "description": "Synthetic similarity report evidence for CASE-2026-000020",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000020-001.txt",
+    "added_by": "System",
+    "added_at": "2026-07-24T17:53:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000020-002",
+    "case_id": "CASE-2026-000020",
+    "description": "Synthetic submission evidence for CASE-2026-000020",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000020-002.txt",
+    "added_by": "System",
+    "added_at": "2026-07-24T17:54:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000020-003",
+    "case_id": "CASE-2026-000020",
+    "description": "Synthetic reference evidence for CASE-2026-000020",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000020-003.txt",
+    "added_by": "System",
+    "added_at": "2026-07-24T17:55:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000021-001",
+    "case_id": "CASE-2026-000021",
+    "description": "Synthetic similarity report evidence for CASE-2026-000021",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000021-001.txt",
+    "added_by": "System",
+    "added_at": "2026-04-16T12:30:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000022-001",
+    "case_id": "CASE-2026-000022",
+    "description": "Synthetic similarity report evidence for CASE-2026-000022",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000022-001.txt",
+    "added_by": "System",
+    "added_at": "2026-04-15T15:12:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000022-002",
+    "case_id": "CASE-2026-000022",
+    "description": "Synthetic submission evidence for CASE-2026-000022",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000022-002.txt",
+    "added_by": "System",
+    "added_at": "2026-04-15T15:13:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000023-001",
+    "case_id": "CASE-2026-000023",
+    "description": "Synthetic similarity report evidence for CASE-2026-000023",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000023-001.txt",
+    "added_by": "System",
+    "added_at": "2026-05-31T14:46:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000023-002",
+    "case_id": "CASE-2026-000023",
+    "description": "Synthetic submission evidence for CASE-2026-000023",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000023-002.txt",
+    "added_by": "System",
+    "added_at": "2026-05-31T14:47:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000023-003",
+    "case_id": "CASE-2026-000023",
+    "description": "Synthetic reference evidence for CASE-2026-000023",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000023-003.txt",
+    "added_by": "System",
+    "added_at": "2026-05-31T14:48:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000024-001",
+    "case_id": "CASE-2026-000024",
+    "description": "Synthetic similarity report evidence for CASE-2026-000024",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000024-001.txt",
+    "added_by": "System",
+    "added_at": "2026-03-13T12:16:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000025-001",
+    "case_id": "CASE-2026-000025",
+    "description": "Synthetic similarity report evidence for CASE-2026-000025",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000025-001.txt",
+    "added_by": "System",
+    "added_at": "2026-02-06T19:54:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000025-002",
+    "case_id": "CASE-2026-000025",
+    "description": "Synthetic submission evidence for CASE-2026-000025",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000025-002.txt",
+    "added_by": "System",
+    "added_at": "2026-02-06T19:55:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000026-001",
+    "case_id": "CASE-2026-000026",
+    "description": "Synthetic similarity report evidence for CASE-2026-000026",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000026-001.txt",
+    "added_by": "System",
+    "added_at": "2026-04-03T13:01:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000026-002",
+    "case_id": "CASE-2026-000026",
+    "description": "Synthetic submission evidence for CASE-2026-000026",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000026-002.txt",
+    "added_by": "System",
+    "added_at": "2026-04-03T13:02:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000026-003",
+    "case_id": "CASE-2026-000026",
+    "description": "Synthetic reference evidence for CASE-2026-000026",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000026-003.txt",
+    "added_by": "System",
+    "added_at": "2026-04-03T13:03:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000027-001",
+    "case_id": "CASE-2026-000027",
+    "description": "Synthetic similarity report evidence for CASE-2026-000027",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000027-001.txt",
+    "added_by": "System",
+    "added_at": "2026-01-28T19:05:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000028-001",
+    "case_id": "CASE-2026-000028",
+    "description": "Synthetic similarity report evidence for CASE-2026-000028",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000028-001.txt",
+    "added_by": "System",
+    "added_at": "2026-08-14T13:56:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000028-002",
+    "case_id": "CASE-2026-000028",
+    "description": "Synthetic submission evidence for CASE-2026-000028",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000028-002.txt",
+    "added_by": "System",
+    "added_at": "2026-08-14T13:57:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000029-001",
+    "case_id": "CASE-2026-000029",
+    "description": "Synthetic similarity report evidence for CASE-2026-000029",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000029-001.txt",
+    "added_by": "System",
+    "added_at": "2026-02-22T17:01:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000029-002",
+    "case_id": "CASE-2026-000029",
+    "description": "Synthetic submission evidence for CASE-2026-000029",
+    "evidence_type": "Submission",
+    "reference": "evidence/EVD-CASE-2026-000029-002.txt",
+    "added_by": "System",
+    "added_at": "2026-02-22T17:02:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000029-003",
+    "case_id": "CASE-2026-000029",
+    "description": "Synthetic reference evidence for CASE-2026-000029",
+    "evidence_type": "Reference",
+    "reference": "evidence/EVD-CASE-2026-000029-003.txt",
+    "added_by": "System",
+    "added_at": "2026-02-22T17:03:00"
+  },
+  {
+    "evidence_id": "EVD-CASE-2026-000030-001",
+    "case_id": "CASE-2026-000030",
+    "description": "Synthetic similarity report evidence for CASE-2026-000030",
+    "evidence_type": "Similarity Report",
+    "reference": "evidence/EVD-CASE-2026-000030-001.txt",
+    "added_by": "System",
+    "added_at": "2026-07-21T19:23:00"
+  }
+]

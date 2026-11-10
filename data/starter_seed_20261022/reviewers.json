@@ -1,0 +1,44 @@
+[
+  {
+    "reviewer_id": "REV-001",
+    "name": "Reviewer 1",
+    "role": "Instructor",
+    "department": "CSE",
+    "available": 1
+  },
+  {
+    "reviewer_id": "REV-002",
+    "name": "Reviewer 2",
+    "role": "Administrator",
+    "department": "AIML",
+    "available": 1
+  },
+  {
+    "reviewer_id": "REV-003",
+    "name": "Reviewer 3",
+    "role": "Support",
+    "department": "ECE",
+    "available": 1
+  },
+  {
+    "reviewer_id": "REV-004",
+    "name": "Reviewer 4",
+    "role": "Instructor",
+    "department": "IT",
+    "available": 1
+  },
+  {
+    "reviewer_id": "REV-005",
+    "name": "Reviewer 5",
+    "role": "Administrator",
+    "department": "CSE",
+    "available": 1
+  },
+  {
+    "reviewer_id": "REV-006",
+    "name": "Reviewer 6",
+    "role": "Support",
+    "department": "AIML",
+    "available": 1
+  }
+]

@@ -1,0 +1,5132 @@
+[
+  {
+    "log_id": 1,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000001",
+    "details": "Case created for human review",
+    "created_at": "2026-08-11T19:29:00"
+  },
+  {
+    "log_id": 2,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000002",
+    "details": "Case created for human review",
+    "created_at": "2026-08-07T14:12:00"
+  },
+  {
+    "log_id": 3,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000003",
+    "details": "Case created for human review",
+    "created_at": "2026-05-22T15:15:00"
+  },
+  {
+    "log_id": 4,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000004",
+    "details": "Case created for human review",
+    "created_at": "2026-02-16T13:02:00"
+  },
+  {
+    "log_id": 5,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000005",
+    "details": "Case created for human review",
+    "created_at": "2026-02-28T15:33:00"
+  },
+  {
+    "log_id": 6,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000006",
+    "details": "Case created for human review",
+    "created_at": "2026-04-02T19:52:00"
+  },
+  {
+    "log_id": 7,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000007",
+    "details": "Case created for human review",
+    "created_at": "2026-07-13T20:31:00"
+  },
+  {
+    "log_id": 8,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000008",
+    "details": "Case created for human review",
+    "created_at": "2026-05-10T14:31:00"
+  },
+  {
+    "log_id": 9,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000009",
+    "details": "Case created for human review",
+    "created_at": "2026-03-25T19:47:00"
+  },
+  {
+    "log_id": 10,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000010",
+    "details": "Case created for human review",
+    "created_at": "2026-05-21T19:20:00"
+  },
+  {
+    "log_id": 11,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000011",
+    "details": "Case created for human review",
+    "created_at": "2026-03-31T13:56:00"
+  },
+  {
+    "log_id": 12,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000012",
+    "details": "Case created for human review",
+    "created_at": "2026-01-30T11:29:00"
+  },
+  {
+    "log_id": 13,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000013",
+    "details": "Case created for human review",
+    "created_at": "2026-03-21T17:25:00"
+  },
+  {
+    "log_id": 14,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000014",
+    "details": "Case created for human review",
+    "created_at": "2026-02-01T20:10:00"
+  },
+  {
+    "log_id": 15,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000015",
+    "details": "Case created for human review",
+    "created_at": "2026-02-01T12:07:00"
+  },
+  {
+    "log_id": 16,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000016",
+    "details": "Case created for human review",
+    "created_at": "2026-05-22T16:48:00"
+  },
+  {
+    "log_id": 17,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000017",
+    "details": "Case created for human review",
+    "created_at": "2026-07-24T12:36:00"
+  },
+  {
+    "log_id": 18,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000018",
+    "details": "Case created for human review",
+    "created_at": "2026-02-18T10:48:00"
+  },
+  {
+    "log_id": 19,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000019",
+    "details": "Case created for human review",
+    "created_at": "2026-06-17T10:35:00"
+  },
+  {
+    "log_id": 20,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000020",
+    "details": "Case created for human review",
+    "created_at": "2026-03-13T10:44:00"
+  },
+  {
+    "log_id": 21,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000021",
+    "details": "Case created for human review",
+    "created_at": "2026-03-10T16:40:00"
+  },
+  {
+    "log_id": 22,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000022",
+    "details": "Case created for human review",
+    "created_at": "2026-06-22T16:56:00"
+  },
+  {
+    "log_id": 23,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000023",
+    "details": "Case created for human review",
+    "created_at": "2026-07-22T20:40:00"
+  },
+  {
+    "log_id": 24,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000024",
+    "details": "Case created for human review",
+    "created_at": "2026-07-27T20:58:00"
+  },
+  {
+    "log_id": 25,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000025",
+    "details": "Case created for human review",
+    "created_at": "2026-02-08T17:24:00"
+  },
+  {
+    "log_id": 26,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000026",
+    "details": "Case created for human review",
+    "created_at": "2026-06-05T10:32:00"
+  },
+  {
+    "log_id": 27,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000027",
+    "details": "Case created for human review",
+    "created_at": "2026-02-07T14:16:00"
+  },
+  {
+    "log_id": 28,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000028",
+    "details": "Case created for human review",
+    "created_at": "2026-06-27T20:02:00"
+  },
+  {
+    "log_id": 29,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000029",
+    "details": "Case created for human review",
+    "created_at": "2026-08-31T11:10:00"
+  },
+  {
+    "log_id": 30,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000030",
+    "details": "Case created for human review",
+    "created_at": "2026-03-26T14:50:00"
+  },
+  {
+    "log_id": 31,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000031",
+    "details": "Case created for human review",
+    "created_at": "2026-07-17T16:08:00"
+  },
+  {
+    "log_id": 32,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000032",
+    "details": "Case created for human review",
+    "created_at": "2026-05-24T19:25:00"
+  },
+  {
+    "log_id": 33,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000033",
+    "details": "Case created for human review",
+    "created_at": "2026-02-14T16:58:00"
+  },
+  {
+    "log_id": 34,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000034",
+    "details": "Case created for human review",
+    "created_at": "2026-08-20T16:59:00"
+  },
+  {
+    "log_id": 35,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000035",
+    "details": "Case created for human review",
+    "created_at": "2026-03-08T10:30:00"
+  },
+  {
+    "log_id": 36,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000036",
+    "details": "Case created for human review",
+    "created_at": "2026-07-22T15:04:00"
+  },
+  {
+    "log_id": 37,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000037",
+    "details": "Case created for human review",
+    "created_at": "2026-01-24T15:54:00"
+  },
+  {
+    "log_id": 38,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000038",
+    "details": "Case created for human review",
+    "created_at": "2026-08-07T20:30:00"
+  },
+  {
+    "log_id": 39,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000039",
+    "details": "Case created for human review",
+    "created_at": "2026-06-16T18:42:00"
+  },
+  {
+    "log_id": 40,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000040",
+    "details": "Case created for human review",
+    "created_at": "2026-06-10T20:45:00"
+  },
+  {
+    "log_id": 41,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000041",
+    "details": "Case created for human review",
+    "created_at": "2026-04-26T12:17:00"
+  },
+  {
+    "log_id": 42,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000042",
+    "details": "Case created for human review",
+    "created_at": "2026-06-30T11:15:00"
+  },
+  {
+    "log_id": 43,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000043",
+    "details": "Case created for human review",
+    "created_at": "2026-07-16T15:28:00"
+  },
+  {
+    "log_id": 44,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000044",
+    "details": "Case created for human review",
+    "created_at": "2026-02-11T10:33:00"
+  },
+  {
+    "log_id": 45,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000045",
+    "details": "Case created for human review",
+    "created_at": "2026-09-05T15:44:00"
+  },
+  {
+    "log_id": 46,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000046",
+    "details": "Case created for human review",
+    "created_at": "2026-04-21T15:11:00"
+  },
+  {
+    "log_id": 47,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000047",
+    "details": "Case created for human review",
+    "created_at": "2026-02-20T17:44:00"
+  },
+  {
+    "log_id": 48,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000048",
+    "details": "Case created for human review",
+    "created_at": "2026-03-13T16:59:00"
+  },
+  {
+    "log_id": 49,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000049",
+    "details": "Case created for human review",
+    "created_at": "2026-01-27T16:01:00"
+  },
+  {
+    "log_id": 50,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000050",
+    "details": "Case created for human review",
+    "created_at": "2026-05-09T13:02:00"
+  },
+  {
+    "log_id": 51,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000051",
+    "details": "Case created for human review",
+    "created_at": "2026-07-31T11:27:00"
+  },
+  {
+    "log_id": 52,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000052",
+    "details": "Case created for human review",
+    "created_at": "2026-03-22T20:10:00"
+  },
+  {
+    "log_id": 53,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000053",
+    "details": "Case created for human review",
+    "created_at": "2026-06-10T15:07:00"
+  },
+  {
+    "log_id": 54,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000054",
+    "details": "Case created for human review",
+    "created_at": "2026-08-23T12:36:00"
+  },
+  {
+    "log_id": 55,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000055",
+    "details": "Case created for human review",
+    "created_at": "2026-03-31T17:02:00"
+  },
+  {
+    "log_id": 56,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000056",
+    "details": "Case created for human review",
+    "created_at": "2026-03-13T13:11:00"
+  },
+  {
+    "log_id": 57,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000057",
+    "details": "Case created for human review",
+    "created_at": "2026-04-18T11:29:00"
+  },
+  {
+    "log_id": 58,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000058",
+    "details": "Case created for human review",
+    "created_at": "2026-04-15T16:52:00"
+  },
+  {
+    "log_id": 59,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000059",
+    "details": "Case created for human review",
+    "created_at": "2026-05-10T16:27:00"
+  },
+  {
+    "log_id": 60,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000060",
+    "details": "Case created for human review",
+    "created_at": "2026-05-24T11:44:00"
+  },
+  {
+    "log_id": 61,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000061",
+    "details": "Case created for human review",
+    "created_at": "2026-03-28T17:29:00"
+  },
+  {
+    "log_id": 62,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000062",
+    "details": "Case created for human review",
+    "created_at": "2026-02-09T19:14:00"
+  },
+  {
+    "log_id": 63,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000063",
+    "details": "Case created for human review",
+    "created_at": "2026-02-19T10:10:00"
+  },
+  {
+    "log_id": 64,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000064",
+    "details": "Case created for human review",
+    "created_at": "2026-04-15T14:22:00"
+  },
+  {
+    "log_id": 65,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000065",
+    "details": "Case created for human review",
+    "created_at": "2026-04-30T10:27:00"
+  },
+  {
+    "log_id": 66,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000066",
+    "details": "Case created for human review",
+    "created_at": "2026-01-18T11:50:00"
+  },
+  {
+    "log_id": 67,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000067",
+    "details": "Case created for human review",
+    "created_at": "2026-04-02T11:51:00"
+  },
+  {
+    "log_id": 68,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000068",
+    "details": "Case created for human review",
+    "created_at": "2026-05-08T19:25:00"
+  },
+  {
+    "log_id": 69,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000069",
+    "details": "Case created for human review",
+    "created_at": "2026-08-28T19:41:00"
+  },
+  {
+    "log_id": 70,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000070",
+    "details": "Case created for human review",
+    "created_at": "2026-05-18T15:21:00"
+  },
+  {
+    "log_id": 71,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000071",
+    "details": "Case created for human review",
+    "created_at": "2026-01-26T20:33:00"
+  },
+  {
+    "log_id": 72,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000072",
+    "details": "Case created for human review",
+    "created_at": "2026-05-21T20:08:00"
+  },
+  {
+    "log_id": 73,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000073",
+    "details": "Case created for human review",
+    "created_at": "2026-01-29T11:28:00"
+  },
+  {
+    "log_id": 74,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000074",
+    "details": "Case created for human review",
+    "created_at": "2026-05-09T10:24:00"
+  },
+  {
+    "log_id": 75,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000075",
+    "details": "Case created for human review",
+    "created_at": "2026-06-14T16:23:00"
+  },
+  {
+    "log_id": 76,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000076",
+    "details": "Case created for human review",
+    "created_at": "2026-02-10T17:13:00"
+  },
+  {
+    "log_id": 77,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000077",
+    "details": "Case created for human review",
+    "created_at": "2026-06-04T16:56:00"
+  },
+  {
+    "log_id": 78,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000078",
+    "details": "Case created for human review",
+    "created_at": "2026-05-13T12:52:00"
+  },
+  {
+    "log_id": 79,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000079",
+    "details": "Case created for human review",
+    "created_at": "2026-08-24T20:11:00"
+  },
+  {
+    "log_id": 80,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000080",
+    "details": "Case created for human review",
+    "created_at": "2026-04-19T16:38:00"
+  },
+  {
+    "log_id": 81,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000081",
+    "details": "Case created for human review",
+    "created_at": "2026-05-01T12:23:00"
+  },
+  {
+    "log_id": 82,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000082",
+    "details": "Case created for human review",
+    "created_at": "2026-08-19T20:16:00"
+  },
+  {
+    "log_id": 83,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000083",
+    "details": "Case created for human review",
+    "created_at": "2026-02-16T20:08:00"
+  },
+  {
+    "log_id": 84,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000084",
+    "details": "Case created for human review",
+    "created_at": "2026-03-24T12:28:00"
+  },
+  {
+    "log_id": 85,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000085",
+    "details": "Case created for human review",
+    "created_at": "2026-05-03T17:07:00"
+  },
+  {
+    "log_id": 86,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000086",
+    "details": "Case created for human review",
+    "created_at": "2026-02-17T13:38:00"
+  },
+  {
+    "log_id": 87,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000087",
+    "details": "Case created for human review",
+    "created_at": "2026-04-14T20:18:00"
+  },
+  {
+    "log_id": 88,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000088",
+    "details": "Case created for human review",
+    "created_at": "2026-07-16T19:54:00"
+  },
+  {
+    "log_id": 89,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000089",
+    "details": "Case created for human review",
+    "created_at": "2026-01-12T11:00:00"
+  },
+  {
+    "log_id": 90,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000090",
+    "details": "Case created for human review",
+    "created_at": "2026-08-30T20:41:00"
+  },
+  {
+    "log_id": 91,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000091",
+    "details": "Case created for human review",
+    "created_at": "2026-08-11T16:16:00"
+  },
+  {
+    "log_id": 92,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000092",
+    "details": "Case created for human review",
+    "created_at": "2026-05-16T17:00:00"
+  },
+  {
+    "log_id": 93,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000093",
+    "details": "Case created for human review",
+    "created_at": "2026-06-22T18:19:00"
+  },
+  {
+    "log_id": 94,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000094",
+    "details": "Case created for human review",
+    "created_at": "2026-02-25T12:04:00"
+  },
+  {
+    "log_id": 95,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000095",
+    "details": "Case created for human review",
+    "created_at": "2026-05-27T19:35:00"
+  },
+  {
+    "log_id": 96,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000096",
+    "details": "Case created for human review",
+    "created_at": "2026-06-02T13:44:00"
+  },
+  {
+    "log_id": 97,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000097",
+    "details": "Case created for human review",
+    "created_at": "2026-04-25T12:33:00"
+  },
+  {
+    "log_id": 98,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000098",
+    "details": "Case created for human review",
+    "created_at": "2026-04-28T10:50:00"
+  },
+  {
+    "log_id": 99,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000099",
+    "details": "Case created for human review",
+    "created_at": "2026-08-21T13:53:00"
+  },
+  {
+    "log_id": 100,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000100",
+    "details": "Case created for human review",
+    "created_at": "2026-04-28T18:37:00"
+  },
+  {
+    "log_id": 101,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000101",
+    "details": "Case created for human review",
+    "created_at": "2026-04-12T13:57:00"
+  },
+  {
+    "log_id": 102,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000102",
+    "details": "Case created for human review",
+    "created_at": "2026-06-28T12:09:00"
+  },
+  {
+    "log_id": 103,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000103",
+    "details": "Case created for human review",
+    "created_at": "2026-03-30T16:48:00"
+  },
+  {
+    "log_id": 104,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000104",
+    "details": "Case created for human review",
+    "created_at": "2026-01-15T16:56:00"
+  },
+  {
+    "log_id": 105,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000105",
+    "details": "Case created for human review",
+    "created_at": "2026-04-17T13:12:00"
+  },
+  {
+    "log_id": 106,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000106",
+    "details": "Case created for human review",
+    "created_at": "2026-03-22T10:12:00"
+  },
+  {
+    "log_id": 107,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000107",
+    "details": "Case created for human review",
+    "created_at": "2026-01-18T18:37:00"
+  },
+  {
+    "log_id": 108,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000108",
+    "details": "Case created for human review",
+    "created_at": "2026-04-24T10:45:00"
+  },
+  {
+    "log_id": 109,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000109",
+    "details": "Case created for human review",
+    "created_at": "2026-04-05T13:16:00"
+  },
+  {
+    "log_id": 110,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000110",
+    "details": "Case created for human review",
+    "created_at": "2026-05-23T10:55:00"
+  },
+  {
+    "log_id": 111,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000111",
+    "details": "Case created for human review",
+    "created_at": "2026-03-18T18:49:00"
+  },
+  {
+    "log_id": 112,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000112",
+    "details": "Case created for human review",
+    "created_at": "2026-04-16T16:42:00"
+  },
+  {
+    "log_id": 113,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000113",
+    "details": "Case created for human review",
+    "created_at": "2026-04-22T12:51:00"
+  },
+  {
+    "log_id": 114,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000114",
+    "details": "Case created for human review",
+    "created_at": "2026-06-15T12:49:00"
+  },
+  {
+    "log_id": 115,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000115",
+    "details": "Case created for human review",
+    "created_at": "2026-08-11T16:23:00"
+  },
+  {
+    "log_id": 116,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000116",
+    "details": "Case created for human review",
+    "created_at": "2026-08-10T12:27:00"
+  },
+  {
+    "log_id": 117,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000117",
+    "details": "Case created for human review",
+    "created_at": "2026-04-15T20:38:00"
+  },
+  {
+    "log_id": 118,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000118",
+    "details": "Case created for human review",
+    "created_at": "2026-05-01T17:41:00"
+  },
+  {
+    "log_id": 119,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000119",
+    "details": "Case created for human review",
+    "created_at": "2026-07-02T20:56:00"
+  },
+  {
+    "log_id": 120,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000120",
+    "details": "Case created for human review",
+    "created_at": "2026-01-31T18:05:00"
+  },
+  {
+    "log_id": 121,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000121",
+    "details": "Case created for human review",
+    "created_at": "2026-08-05T17:13:00"
+  },
+  {
+    "log_id": 122,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000122",
+    "details": "Case created for human review",
+    "created_at": "2026-02-01T16:28:00"
+  },
+  {
+    "log_id": 123,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000123",
+    "details": "Case created for human review",
+    "created_at": "2026-06-30T12:55:00"
+  },
+  {
+    "log_id": 124,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000124",
+    "details": "Case created for human review",
+    "created_at": "2026-01-25T14:29:00"
+  },
+  {
+    "log_id": 125,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000125",
+    "details": "Case created for human review",
+    "created_at": "2026-07-13T18:53:00"
+  },
+  {
+    "log_id": 126,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000126",
+    "details": "Case created for human review",
+    "created_at": "2026-04-20T20:37:00"
+  },
+  {
+    "log_id": 127,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000127",
+    "details": "Case created for human review",
+    "created_at": "2026-04-15T11:05:00"
+  },
+  {
+    "log_id": 128,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000128",
+    "details": "Case created for human review",
+    "created_at": "2026-07-05T10:13:00"
+  },
+  {
+    "log_id": 129,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000129",
+    "details": "Case created for human review",
+    "created_at": "2026-04-01T19:31:00"
+  },
+  {
+    "log_id": 130,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000130",
+    "details": "Case created for human review",
+    "created_at": "2026-04-22T17:57:00"
+  },
+  {
+    "log_id": 131,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000131",
+    "details": "Case created for human review",
+    "created_at": "2026-02-19T11:11:00"
+  },
+  {
+    "log_id": 132,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000132",
+    "details": "Case created for human review",
+    "created_at": "2026-01-03T14:10:00"
+  },
+  {
+    "log_id": 133,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000133",
+    "details": "Case created for human review",
+    "created_at": "2026-01-03T20:10:00"
+  },
+  {
+    "log_id": 134,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000134",
+    "details": "Case created for human review",
+    "created_at": "2026-06-03T20:28:00"
+  },
+  {
+    "log_id": 135,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000135",
+    "details": "Case created for human review",
+    "created_at": "2026-08-26T15:22:00"
+  },
+  {
+    "log_id": 136,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000136",
+    "details": "Case created for human review",
+    "created_at": "2026-04-09T20:56:00"
+  },
+  {
+    "log_id": 137,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000137",
+    "details": "Case created for human review",
+    "created_at": "2026-02-26T15:32:00"
+  },
+  {
+    "log_id": 138,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000138",
+    "details": "Case created for human review",
+    "created_at": "2026-06-01T10:56:00"
+  },
+  {
+    "log_id": 139,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000139",
+    "details": "Case created for human review",
+    "created_at": "2026-03-21T17:57:00"
+  },
+  {
+    "log_id": 140,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000140",
+    "details": "Case created for human review",
+    "created_at": "2026-02-03T14:39:00"
+  },
+  {
+    "log_id": 141,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000141",
+    "details": "Case created for human review",
+    "created_at": "2026-08-18T18:36:00"
+  },
+  {
+    "log_id": 142,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000142",
+    "details": "Case created for human review",
+    "created_at": "2026-05-12T10:12:00"
+  },
+  {
+    "log_id": 143,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000143",
+    "details": "Case created for human review",
+    "created_at": "2026-02-24T18:32:00"
+  },
+  {
+    "log_id": 144,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000144",
+    "details": "Case created for human review",
+    "created_at": "2026-06-29T20:09:00"
+  },
+  {
+    "log_id": 145,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000145",
+    "details": "Case created for human review",
+    "created_at": "2026-09-08T10:35:00"
+  },
+  {
+    "log_id": 146,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000146",
+    "details": "Case created for human review",
+    "created_at": "2026-06-18T10:04:00"
+  },
+  {
+    "log_id": 147,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000147",
+    "details": "Case created for human review",
+    "created_at": "2026-09-01T10:03:00"
+  },
+  {
+    "log_id": 148,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000148",
+    "details": "Case created for human review",
+    "created_at": "2026-09-06T20:23:00"
+  },
+  {
+    "log_id": 149,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000149",
+    "details": "Case created for human review",
+    "created_at": "2026-07-15T12:08:00"
+  },
+  {
+    "log_id": 150,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000150",
+    "details": "Case created for human review",
+    "created_at": "2026-01-21T14:29:00"
+  },
+  {
+    "log_id": 151,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000151",
+    "details": "Case created for human review",
+    "created_at": "2026-01-03T20:01:00"
+  },
+  {
+    "log_id": 152,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000152",
+    "details": "Case created for human review",
+    "created_at": "2026-01-06T12:19:00"
+  },
+  {
+    "log_id": 153,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000153",
+    "details": "Case created for human review",
+    "created_at": "2026-01-24T14:53:00"
+  },
+  {
+    "log_id": 154,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000154",
+    "details": "Case created for human review",
+    "created_at": "2026-05-29T13:41:00"
+  },
+  {
+    "log_id": 155,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000155",
+    "details": "Case created for human review",
+    "created_at": "2026-06-02T13:49:00"
+  },
+  {
+    "log_id": 156,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000156",
+    "details": "Case created for human review",
+    "created_at": "2026-06-29T10:06:00"
+  },
+  {
+    "log_id": 157,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000157",
+    "details": "Case created for human review",
+    "created_at": "2026-08-06T19:01:00"
+  },
+  {
+    "log_id": 158,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000158",
+    "details": "Case created for human review",
+    "created_at": "2026-02-14T13:25:00"
+  },
+  {
+    "log_id": 159,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000159",
+    "details": "Case created for human review",
+    "created_at": "2026-07-01T20:58:00"
+  },
+  {
+    "log_id": 160,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000160",
+    "details": "Case created for human review",
+    "created_at": "2026-04-27T10:09:00"
+  },
+  {
+    "log_id": 161,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000161",
+    "details": "Case created for human review",
+    "created_at": "2026-02-23T11:44:00"
+  },
+  {
+    "log_id": 162,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000162",
+    "details": "Case created for human review",
+    "created_at": "2026-04-12T11:32:00"
+  },
+  {
+    "log_id": 163,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000163",
+    "details": "Case created for human review",
+    "created_at": "2026-08-02T13:29:00"
+  },
+  {
+    "log_id": 164,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000164",
+    "details": "Case created for human review",
+    "created_at": "2026-01-30T18:42:00"
+  },
+  {
+    "log_id": 165,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000165",
+    "details": "Case created for human review",
+    "created_at": "2026-05-31T18:08:00"
+  },
+  {
+    "log_id": 166,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000166",
+    "details": "Case created for human review",
+    "created_at": "2026-01-03T16:55:00"
+  },
+  {
+    "log_id": 167,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000167",
+    "details": "Case created for human review",
+    "created_at": "2026-05-21T20:50:00"
+  },
+  {
+    "log_id": 168,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000168",
+    "details": "Case created for human review",
+    "created_at": "2026-05-20T13:40:00"
+  },
+  {
+    "log_id": 169,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000169",
+    "details": "Case created for human review",
+    "created_at": "2026-02-05T15:50:00"
+  },
+  {
+    "log_id": 170,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000170",
+    "details": "Case created for human review",
+    "created_at": "2026-07-22T17:21:00"
+  },
+  {
+    "log_id": 171,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000171",
+    "details": "Case created for human review",
+    "created_at": "2026-01-09T13:08:00"
+  },
+  {
+    "log_id": 172,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000172",
+    "details": "Case created for human review",
+    "created_at": "2026-08-01T16:39:00"
+  },
+  {
+    "log_id": 173,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000173",
+    "details": "Case created for human review",
+    "created_at": "2026-07-20T13:37:00"
+  },
+  {
+    "log_id": 174,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000174",
+    "details": "Case created for human review",
+    "created_at": "2026-06-11T20:22:00"
+  },
+  {
+    "log_id": 175,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000175",
+    "details": "Case created for human review",
+    "created_at": "2026-06-03T18:52:00"
+  },
+  {
+    "log_id": 176,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000176",
+    "details": "Case created for human review",
+    "created_at": "2026-02-26T14:19:00"
+  },
+  {
+    "log_id": 177,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000177",
+    "details": "Case created for human review",
+    "created_at": "2026-04-12T18:15:00"
+  },
+  {
+    "log_id": 178,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000178",
+    "details": "Case created for human review",
+    "created_at": "2026-06-01T12:14:00"
+  },
+  {
+    "log_id": 179,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000179",
+    "details": "Case created for human review",
+    "created_at": "2026-04-29T11:21:00"
+  },
+  {
+    "log_id": 180,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000180",
+    "details": "Case created for human review",
+    "created_at": "2026-03-28T15:33:00"
+  },
+  {
+    "log_id": 181,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000181",
+    "details": "Case created for human review",
+    "created_at": "2026-06-10T10:44:00"
+  },
+  {
+    "log_id": 182,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000182",
+    "details": "Case created for human review",
+    "created_at": "2026-08-24T20:21:00"
+  },
+  {
+    "log_id": 183,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000183",
+    "details": "Case created for human review",
+    "created_at": "2026-03-08T18:59:00"
+  },
+  {
+    "log_id": 184,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000184",
+    "details": "Case created for human review",
+    "created_at": "2026-05-23T13:59:00"
+  },
+  {
+    "log_id": 185,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000185",
+    "details": "Case created for human review",
+    "created_at": "2026-07-02T18:08:00"
+  },
+  {
+    "log_id": 186,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000186",
+    "details": "Case created for human review",
+    "created_at": "2026-06-29T15:15:00"
+  },
+  {
+    "log_id": 187,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000187",
+    "details": "Case created for human review",
+    "created_at": "2026-05-22T16:21:00"
+  },
+  {
+    "log_id": 188,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000188",
+    "details": "Case created for human review",
+    "created_at": "2026-08-01T10:17:00"
+  },
+  {
+    "log_id": 189,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000189",
+    "details": "Case created for human review",
+    "created_at": "2026-05-16T14:47:00"
+  },
+  {
+    "log_id": 190,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000190",
+    "details": "Case created for human review",
+    "created_at": "2026-07-18T10:24:00"
+  },
+  {
+    "log_id": 191,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000191",
+    "details": "Case created for human review",
+    "created_at": "2026-03-01T16:21:00"
+  },
+  {
+    "log_id": 192,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000192",
+    "details": "Case created for human review",
+    "created_at": "2026-03-16T12:28:00"
+  },
+  {
+    "log_id": 193,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000193",
+    "details": "Case created for human review",
+    "created_at": "2026-08-09T16:42:00"
+  },
+  {
+    "log_id": 194,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000194",
+    "details": "Case created for human review",
+    "created_at": "2026-09-06T14:02:00"
+  },
+  {
+    "log_id": 195,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000195",
+    "details": "Case created for human review",
+    "created_at": "2026-08-04T18:58:00"
+  },
+  {
+    "log_id": 196,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000196",
+    "details": "Case created for human review",
+    "created_at": "2026-01-02T12:29:00"
+  },
+  {
+    "log_id": 197,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000197",
+    "details": "Case created for human review",
+    "created_at": "2026-06-09T18:58:00"
+  },
+  {
+    "log_id": 198,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000198",
+    "details": "Case created for human review",
+    "created_at": "2026-02-21T13:55:00"
+  },
+  {
+    "log_id": 199,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000199",
+    "details": "Case created for human review",
+    "created_at": "2026-08-04T19:16:00"
+  },
+  {
+    "log_id": 200,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000200",
+    "details": "Case created for human review",
+    "created_at": "2026-02-06T12:12:00"
+  },
+  {
+    "log_id": 201,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000201",
+    "details": "Case created for human review",
+    "created_at": "2026-07-18T10:42:00"
+  },
+  {
+    "log_id": 202,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000202",
+    "details": "Case created for human review",
+    "created_at": "2026-07-17T16:06:00"
+  },
+  {
+    "log_id": 203,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000203",
+    "details": "Case created for human review",
+    "created_at": "2026-08-26T12:00:00"
+  },
+  {
+    "log_id": 204,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000204",
+    "details": "Case created for human review",
+    "created_at": "2026-07-10T20:53:00"
+  },
+  {
+    "log_id": 205,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000205",
+    "details": "Case created for human review",
+    "created_at": "2026-03-24T17:10:00"
+  },
+  {
+    "log_id": 206,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000206",
+    "details": "Case created for human review",
+    "created_at": "2026-02-04T17:14:00"
+  },
+  {
+    "log_id": 207,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000207",
+    "details": "Case created for human review",
+    "created_at": "2026-06-18T15:20:00"
+  },
+  {
+    "log_id": 208,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000208",
+    "details": "Case created for human review",
+    "created_at": "2026-02-23T12:44:00"
+  },
+  {
+    "log_id": 209,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000209",
+    "details": "Case created for human review",
+    "created_at": "2026-08-01T17:33:00"
+  },
+  {
+    "log_id": 210,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000210",
+    "details": "Case created for human review",
+    "created_at": "2026-02-18T19:15:00"
+  },
+  {
+    "log_id": 211,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000211",
+    "details": "Case created for human review",
+    "created_at": "2026-04-24T11:30:00"
+  },
+  {
+    "log_id": 212,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000212",
+    "details": "Case created for human review",
+    "created_at": "2026-05-09T10:30:00"
+  },
+  {
+    "log_id": 213,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000213",
+    "details": "Case created for human review",
+    "created_at": "2026-05-10T15:36:00"
+  },
+  {
+    "log_id": 214,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000214",
+    "details": "Case created for human review",
+    "created_at": "2026-07-06T17:49:00"
+  },
+  {
+    "log_id": 215,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000215",
+    "details": "Case created for human review",
+    "created_at": "2026-05-16T12:59:00"
+  },
+  {
+    "log_id": 216,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000216",
+    "details": "Case created for human review",
+    "created_at": "2026-08-17T12:12:00"
+  },
+  {
+    "log_id": 217,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000217",
+    "details": "Case created for human review",
+    "created_at": "2026-06-27T10:43:00"
+  },
+  {
+    "log_id": 218,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000218",
+    "details": "Case created for human review",
+    "created_at": "2026-07-01T13:26:00"
+  },
+  {
+    "log_id": 219,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000219",
+    "details": "Case created for human review",
+    "created_at": "2026-02-21T10:37:00"
+  },
+  {
+    "log_id": 220,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000220",
+    "details": "Case created for human review",
+    "created_at": "2026-06-16T19:55:00"
+  },
+  {
+    "log_id": 221,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000221",
+    "details": "Case created for human review",
+    "created_at": "2026-07-09T12:56:00"
+  },
+  {
+    "log_id": 222,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000222",
+    "details": "Case created for human review",
+    "created_at": "2026-07-03T16:55:00"
+  },
+  {
+    "log_id": 223,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000223",
+    "details": "Case created for human review",
+    "created_at": "2026-01-16T10:52:00"
+  },
+  {
+    "log_id": 224,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000224",
+    "details": "Case created for human review",
+    "created_at": "2026-07-30T17:24:00"
+  },
+  {
+    "log_id": 225,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000225",
+    "details": "Case created for human review",
+    "created_at": "2026-04-28T13:20:00"
+  },
+  {
+    "log_id": 226,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000226",
+    "details": "Case created for human review",
+    "created_at": "2026-06-25T14:27:00"
+  },
+  {
+    "log_id": 227,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000227",
+    "details": "Case created for human review",
+    "created_at": "2026-03-10T11:12:00"
+  },
+  {
+    "log_id": 228,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000228",
+    "details": "Case created for human review",
+    "created_at": "2026-03-23T18:50:00"
+  },
+  {
+    "log_id": 229,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000229",
+    "details": "Case created for human review",
+    "created_at": "2026-05-22T17:11:00"
+  },
+  {
+    "log_id": 230,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000230",
+    "details": "Case created for human review",
+    "created_at": "2026-07-16T15:33:00"
+  },
+  {
+    "log_id": 231,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000231",
+    "details": "Case created for human review",
+    "created_at": "2026-06-10T19:55:00"
+  },
+  {
+    "log_id": 232,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000232",
+    "details": "Case created for human review",
+    "created_at": "2026-04-01T19:10:00"
+  },
+  {
+    "log_id": 233,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000233",
+    "details": "Case created for human review",
+    "created_at": "2026-04-15T10:12:00"
+  },
+  {
+    "log_id": 234,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000234",
+    "details": "Case created for human review",
+    "created_at": "2026-08-23T10:44:00"
+  },
+  {
+    "log_id": 235,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000235",
+    "details": "Case created for human review",
+    "created_at": "2026-01-24T11:51:00"
+  },
+  {
+    "log_id": 236,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000236",
+    "details": "Case created for human review",
+    "created_at": "2026-06-16T16:55:00"
+  },
+  {
+    "log_id": 237,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000237",
+    "details": "Case created for human review",
+    "created_at": "2026-04-17T12:31:00"
+  },
+  {
+    "log_id": 238,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000238",
+    "details": "Case created for human review",
+    "created_at": "2026-02-25T16:25:00"
+  },
+  {
+    "log_id": 239,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000239",
+    "details": "Case created for human review",
+    "created_at": "2026-08-31T20:22:00"
+  },
+  {
+    "log_id": 240,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000240",
+    "details": "Case created for human review",
+    "created_at": "2026-06-29T12:51:00"
+  },
+  {
+    "log_id": 241,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000241",
+    "details": "Case created for human review",
+    "created_at": "2026-07-08T12:05:00"
+  },
+  {
+    "log_id": 242,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000242",
+    "details": "Case created for human review",
+    "created_at": "2026-05-26T11:03:00"
+  },
+  {
+    "log_id": 243,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000243",
+    "details": "Case created for human review",
+    "created_at": "2026-07-10T18:13:00"
+  },
+  {
+    "log_id": 244,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000244",
+    "details": "Case created for human review",
+    "created_at": "2026-04-30T14:40:00"
+  },
+  {
+    "log_id": 245,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000245",
+    "details": "Case created for human review",
+    "created_at": "2026-02-06T13:12:00"
+  },
+  {
+    "log_id": 246,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000246",
+    "details": "Case created for human review",
+    "created_at": "2026-05-14T15:50:00"
+  },
+  {
+    "log_id": 247,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000247",
+    "details": "Case created for human review",
+    "created_at": "2026-02-16T16:00:00"
+  },
+  {
+    "log_id": 248,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000248",
+    "details": "Case created for human review",
+    "created_at": "2026-03-23T18:07:00"
+  },
+  {
+    "log_id": 249,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000249",
+    "details": "Case created for human review",
+    "created_at": "2026-07-01T13:31:00"
+  },
+  {
+    "log_id": 250,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000250",
+    "details": "Case created for human review",
+    "created_at": "2026-05-10T12:19:00"
+  },
+  {
+    "log_id": 251,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000251",
+    "details": "Case created for human review",
+    "created_at": "2026-01-14T12:11:00"
+  },
+  {
+    "log_id": 252,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000252",
+    "details": "Case created for human review",
+    "created_at": "2026-04-26T20:43:00"
+  },
+  {
+    "log_id": 253,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000253",
+    "details": "Case created for human review",
+    "created_at": "2026-01-12T13:25:00"
+  },
+  {
+    "log_id": 254,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000254",
+    "details": "Case created for human review",
+    "created_at": "2026-05-29T17:49:00"
+  },
+  {
+    "log_id": 255,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000255",
+    "details": "Case created for human review",
+    "created_at": "2026-08-31T11:44:00"
+  },
+  {
+    "log_id": 256,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000256",
+    "details": "Case created for human review",
+    "created_at": "2026-06-08T18:40:00"
+  },
+  {
+    "log_id": 257,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000257",
+    "details": "Case created for human review",
+    "created_at": "2026-04-17T15:06:00"
+  },
+  {
+    "log_id": 258,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000258",
+    "details": "Case created for human review",
+    "created_at": "2026-03-12T18:47:00"
+  },
+  {
+    "log_id": 259,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000259",
+    "details": "Case created for human review",
+    "created_at": "2026-04-07T10:37:00"
+  },
+  {
+    "log_id": 260,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000260",
+    "details": "Case created for human review",
+    "created_at": "2026-02-17T13:17:00"
+  },
+  {
+    "log_id": 261,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000261",
+    "details": "Case created for human review",
+    "created_at": "2026-06-24T12:25:00"
+  },
+  {
+    "log_id": 262,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000262",
+    "details": "Case created for human review",
+    "created_at": "2026-06-09T13:16:00"
+  },
+  {
+    "log_id": 263,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000263",
+    "details": "Case created for human review",
+    "created_at": "2026-08-08T16:26:00"
+  },
+  {
+    "log_id": 264,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000264",
+    "details": "Case created for human review",
+    "created_at": "2026-05-09T11:48:00"
+  },
+  {
+    "log_id": 265,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000265",
+    "details": "Case created for human review",
+    "created_at": "2026-06-10T11:24:00"
+  },
+  {
+    "log_id": 266,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000266",
+    "details": "Case created for human review",
+    "created_at": "2026-05-23T11:22:00"
+  },
+  {
+    "log_id": 267,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000267",
+    "details": "Case created for human review",
+    "created_at": "2026-07-28T12:44:00"
+  },
+  {
+    "log_id": 268,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000268",
+    "details": "Case created for human review",
+    "created_at": "2026-02-28T14:59:00"
+  },
+  {
+    "log_id": 269,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000269",
+    "details": "Case created for human review",
+    "created_at": "2026-03-11T15:47:00"
+  },
+  {
+    "log_id": 270,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000270",
+    "details": "Case created for human review",
+    "created_at": "2026-08-14T20:48:00"
+  },
+  {
+    "log_id": 271,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000271",
+    "details": "Case created for human review",
+    "created_at": "2026-02-15T17:48:00"
+  },
+  {
+    "log_id": 272,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000272",
+    "details": "Case created for human review",
+    "created_at": "2026-02-08T19:14:00"
+  },
+  {
+    "log_id": 273,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000273",
+    "details": "Case created for human review",
+    "created_at": "2026-03-26T13:00:00"
+  },
+  {
+    "log_id": 274,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000274",
+    "details": "Case created for human review",
+    "created_at": "2026-03-21T12:10:00"
+  },
+  {
+    "log_id": 275,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000275",
+    "details": "Case created for human review",
+    "created_at": "2026-09-08T19:52:00"
+  },
+  {
+    "log_id": 276,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000276",
+    "details": "Case created for human review",
+    "created_at": "2026-01-11T18:46:00"
+  },
+  {
+    "log_id": 277,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000277",
+    "details": "Case created for human review",
+    "created_at": "2026-07-02T12:31:00"
+  },
+  {
+    "log_id": 278,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000278",
+    "details": "Case created for human review",
+    "created_at": "2026-04-30T10:41:00"
+  },
+  {
+    "log_id": 279,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000279",
+    "details": "Case created for human review",
+    "created_at": "2026-01-31T13:16:00"
+  },
+  {
+    "log_id": 280,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000280",
+    "details": "Case created for human review",
+    "created_at": "2026-07-29T13:54:00"
+  },
+  {
+    "log_id": 281,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000281",
+    "details": "Case created for human review",
+    "created_at": "2026-01-13T14:34:00"
+  },
+  {
+    "log_id": 282,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000282",
+    "details": "Case created for human review",
+    "created_at": "2026-07-18T14:09:00"
+  },
+  {
+    "log_id": 283,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000283",
+    "details": "Case created for human review",
+    "created_at": "2026-02-28T16:05:00"
+  },
+  {
+    "log_id": 284,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000284",
+    "details": "Case created for human review",
+    "created_at": "2026-01-15T15:24:00"
+  },
+  {
+    "log_id": 285,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000285",
+    "details": "Case created for human review",
+    "created_at": "2026-09-04T10:02:00"
+  },
+  {
+    "log_id": 286,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000286",
+    "details": "Case created for human review",
+    "created_at": "2026-01-25T17:42:00"
+  },
+  {
+    "log_id": 287,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000287",
+    "details": "Case created for human review",
+    "created_at": "2026-07-09T19:00:00"
+  },
+  {
+    "log_id": 288,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000288",
+    "details": "Case created for human review",
+    "created_at": "2026-03-16T14:02:00"
+  },
+  {
+    "log_id": 289,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000289",
+    "details": "Case created for human review",
+    "created_at": "2026-07-07T15:20:00"
+  },
+  {
+    "log_id": 290,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000290",
+    "details": "Case created for human review",
+    "created_at": "2026-02-24T18:58:00"
+  },
+  {
+    "log_id": 291,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000291",
+    "details": "Case created for human review",
+    "created_at": "2026-01-11T14:04:00"
+  },
+  {
+    "log_id": 292,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000292",
+    "details": "Case created for human review",
+    "created_at": "2026-09-07T14:11:00"
+  },
+  {
+    "log_id": 293,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000293",
+    "details": "Case created for human review",
+    "created_at": "2026-03-03T14:25:00"
+  },
+  {
+    "log_id": 294,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000294",
+    "details": "Case created for human review",
+    "created_at": "2026-01-14T18:41:00"
+  },
+  {
+    "log_id": 295,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000295",
+    "details": "Case created for human review",
+    "created_at": "2026-03-17T12:39:00"
+  },
+  {
+    "log_id": 296,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000296",
+    "details": "Case created for human review",
+    "created_at": "2026-01-23T16:26:00"
+  },
+  {
+    "log_id": 297,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000297",
+    "details": "Case created for human review",
+    "created_at": "2026-03-22T13:50:00"
+  },
+  {
+    "log_id": 298,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000298",
+    "details": "Case created for human review",
+    "created_at": "2026-06-15T12:30:00"
+  },
+  {
+    "log_id": 299,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000299",
+    "details": "Case created for human review",
+    "created_at": "2026-06-14T11:44:00"
+  },
+  {
+    "log_id": 300,
+    "actor": "System",
+    "action": "Case Created",
+    "entity_type": "Case",
+    "entity_id": "CASE-2026-000300",
+    "details": "Case created for human review",
+    "created_at": "2026-01-10T13:44:00"
+  },
+  {
+    "log_id": 301,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000001",
+    "details": "Decision recorded for CASE-2026-000001",
+    "created_at": "2026-08-11T20:29:00"
+  },
+  {
+    "log_id": 302,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000002",
+    "details": "Decision recorded for CASE-2026-000002",
+    "created_at": "2026-08-07T15:12:00"
+  },
+  {
+    "log_id": 303,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000003",
+    "details": "Decision recorded for CASE-2026-000003",
+    "created_at": "2026-05-22T16:15:00"
+  },
+  {
+    "log_id": 304,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000004",
+    "details": "Decision recorded for CASE-2026-000004",
+    "created_at": "2026-02-16T14:02:00"
+  },
+  {
+    "log_id": 305,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000005",
+    "details": "Decision recorded for CASE-2026-000005",
+    "created_at": "2026-02-28T16:33:00"
+  },
+  {
+    "log_id": 306,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000006",
+    "details": "Decision recorded for CASE-2026-000006",
+    "created_at": "2026-04-02T20:52:00"
+  },
+  {
+    "log_id": 307,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000007",
+    "details": "Decision recorded for CASE-2026-000007",
+    "created_at": "2026-07-13T21:31:00"
+  },
+  {
+    "log_id": 308,
+    "actor": "REV-010",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000008",
+    "details": "Decision recorded for CASE-2026-000008",
+    "created_at": "2026-05-10T15:31:00"
+  },
+  {
+    "log_id": 309,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000009",
+    "details": "Decision recorded for CASE-2026-000009",
+    "created_at": "2026-03-25T20:47:00"
+  },
+  {
+    "log_id": 310,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000010",
+    "details": "Decision recorded for CASE-2026-000010",
+    "created_at": "2026-05-21T20:20:00"
+  },
+  {
+    "log_id": 311,
+    "actor": "REV-014",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000011",
+    "details": "Decision recorded for CASE-2026-000011",
+    "created_at": "2026-03-31T14:56:00"
+  },
+  {
+    "log_id": 312,
+    "actor": "REV-016",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000012",
+    "details": "Decision recorded for CASE-2026-000012",
+    "created_at": "2026-01-30T12:29:00"
+  },
+  {
+    "log_id": 313,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000013",
+    "details": "Decision recorded for CASE-2026-000013",
+    "created_at": "2026-03-21T18:25:00"
+  },
+  {
+    "log_id": 314,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000014",
+    "details": "Decision recorded for CASE-2026-000014",
+    "created_at": "2026-02-01T21:10:00"
+  },
+  {
+    "log_id": 315,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000015",
+    "details": "Decision recorded for CASE-2026-000015",
+    "created_at": "2026-02-01T13:07:00"
+  },
+  {
+    "log_id": 316,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000016",
+    "details": "Decision recorded for CASE-2026-000016",
+    "created_at": "2026-05-22T17:48:00"
+  },
+  {
+    "log_id": 317,
+    "actor": "REV-022",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000017",
+    "details": "Decision recorded for CASE-2026-000017",
+    "created_at": "2026-07-24T13:36:00"
+  },
+  {
+    "log_id": 318,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000018",
+    "details": "Decision recorded for CASE-2026-000018",
+    "created_at": "2026-02-18T11:48:00"
+  },
+  {
+    "log_id": 319,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000019",
+    "details": "Decision recorded for CASE-2026-000019",
+    "created_at": "2026-06-17T11:35:00"
+  },
+  {
+    "log_id": 320,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000020",
+    "details": "Decision recorded for CASE-2026-000020",
+    "created_at": "2026-03-13T11:44:00"
+  },
+  {
+    "log_id": 321,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000021",
+    "details": "Decision recorded for CASE-2026-000021",
+    "created_at": "2026-03-10T17:40:00"
+  },
+  {
+    "log_id": 322,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000022",
+    "details": "Decision recorded for CASE-2026-000022",
+    "created_at": "2026-06-22T17:56:00"
+  },
+  {
+    "log_id": 323,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000023",
+    "details": "Decision recorded for CASE-2026-000023",
+    "created_at": "2026-07-22T21:40:00"
+  },
+  {
+    "log_id": 324,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000024",
+    "details": "Decision recorded for CASE-2026-000024",
+    "created_at": "2026-07-27T21:58:00"
+  },
+  {
+    "log_id": 325,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000025",
+    "details": "Decision recorded for CASE-2026-000025",
+    "created_at": "2026-02-08T18:24:00"
+  },
+  {
+    "log_id": 326,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000026",
+    "details": "Decision recorded for CASE-2026-000026",
+    "created_at": "2026-06-05T11:32:00"
+  },
+  {
+    "log_id": 327,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000027",
+    "details": "Decision recorded for CASE-2026-000027",
+    "created_at": "2026-02-07T15:16:00"
+  },
+  {
+    "log_id": 328,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000028",
+    "details": "Decision recorded for CASE-2026-000028",
+    "created_at": "2026-06-27T21:02:00"
+  },
+  {
+    "log_id": 329,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000029",
+    "details": "Decision recorded for CASE-2026-000029",
+    "created_at": "2026-08-31T12:10:00"
+  },
+  {
+    "log_id": 330,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000030",
+    "details": "Decision recorded for CASE-2026-000030",
+    "created_at": "2026-03-26T15:50:00"
+  },
+  {
+    "log_id": 331,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000031",
+    "details": "Decision recorded for CASE-2026-000031",
+    "created_at": "2026-07-17T17:08:00"
+  },
+  {
+    "log_id": 332,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000032",
+    "details": "Decision recorded for CASE-2026-000032",
+    "created_at": "2026-05-24T20:25:00"
+  },
+  {
+    "log_id": 333,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000033",
+    "details": "Decision recorded for CASE-2026-000033",
+    "created_at": "2026-02-14T17:58:00"
+  },
+  {
+    "log_id": 334,
+    "actor": "REV-016",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000034",
+    "details": "Decision recorded for CASE-2026-000034",
+    "created_at": "2026-08-20T17:59:00"
+  },
+  {
+    "log_id": 335,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000035",
+    "details": "Decision recorded for CASE-2026-000035",
+    "created_at": "2026-03-08T11:30:00"
+  },
+  {
+    "log_id": 336,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000036",
+    "details": "Decision recorded for CASE-2026-000036",
+    "created_at": "2026-07-22T16:04:00"
+  },
+  {
+    "log_id": 337,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000037",
+    "details": "Decision recorded for CASE-2026-000037",
+    "created_at": "2026-01-24T16:54:00"
+  },
+  {
+    "log_id": 338,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000038",
+    "details": "Decision recorded for CASE-2026-000038",
+    "created_at": "2026-08-07T21:30:00"
+  },
+  {
+    "log_id": 339,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000039",
+    "details": "Decision recorded for CASE-2026-000039",
+    "created_at": "2026-06-16T19:42:00"
+  },
+  {
+    "log_id": 340,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000040",
+    "details": "Decision recorded for CASE-2026-000040",
+    "created_at": "2026-06-10T21:45:00"
+  },
+  {
+    "log_id": 341,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000041",
+    "details": "Decision recorded for CASE-2026-000041",
+    "created_at": "2026-04-26T13:17:00"
+  },
+  {
+    "log_id": 342,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000042",
+    "details": "Decision recorded for CASE-2026-000042",
+    "created_at": "2026-06-30T12:15:00"
+  },
+  {
+    "log_id": 343,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000043",
+    "details": "Decision recorded for CASE-2026-000043",
+    "created_at": "2026-07-16T16:28:00"
+  },
+  {
+    "log_id": 344,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000044",
+    "details": "Decision recorded for CASE-2026-000044",
+    "created_at": "2026-02-11T11:33:00"
+  },
+  {
+    "log_id": 345,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000045",
+    "details": "Decision recorded for CASE-2026-000045",
+    "created_at": "2026-09-05T16:44:00"
+  },
+  {
+    "log_id": 346,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000046",
+    "details": "Decision recorded for CASE-2026-000046",
+    "created_at": "2026-04-21T16:11:00"
+  },
+  {
+    "log_id": 347,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000047",
+    "details": "Decision recorded for CASE-2026-000047",
+    "created_at": "2026-02-20T18:44:00"
+  },
+  {
+    "log_id": 348,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000048",
+    "details": "Decision recorded for CASE-2026-000048",
+    "created_at": "2026-03-13T17:59:00"
+  },
+  {
+    "log_id": 349,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000049",
+    "details": "Decision recorded for CASE-2026-000049",
+    "created_at": "2026-01-27T17:01:00"
+  },
+  {
+    "log_id": 350,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000050",
+    "details": "Decision recorded for CASE-2026-000050",
+    "created_at": "2026-05-09T14:02:00"
+  },
+  {
+    "log_id": 351,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000051",
+    "details": "Decision recorded for CASE-2026-000051",
+    "created_at": "2026-07-31T12:27:00"
+  },
+  {
+    "log_id": 352,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000052",
+    "details": "Decision recorded for CASE-2026-000052",
+    "created_at": "2026-03-22T21:10:00"
+  },
+  {
+    "log_id": 353,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000053",
+    "details": "Decision recorded for CASE-2026-000053",
+    "created_at": "2026-06-10T16:07:00"
+  },
+  {
+    "log_id": 354,
+    "actor": "REV-014",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000054",
+    "details": "Decision recorded for CASE-2026-000054",
+    "created_at": "2026-08-23T13:36:00"
+  },
+  {
+    "log_id": 355,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000055",
+    "details": "Decision recorded for CASE-2026-000055",
+    "created_at": "2026-03-31T18:02:00"
+  },
+  {
+    "log_id": 356,
+    "actor": "REV-016",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000056",
+    "details": "Decision recorded for CASE-2026-000056",
+    "created_at": "2026-03-13T14:11:00"
+  },
+  {
+    "log_id": 357,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000057",
+    "details": "Decision recorded for CASE-2026-000057",
+    "created_at": "2026-04-18T12:29:00"
+  },
+  {
+    "log_id": 358,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000058",
+    "details": "Decision recorded for CASE-2026-000058",
+    "created_at": "2026-04-15T17:52:00"
+  },
+  {
+    "log_id": 359,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000059",
+    "details": "Decision recorded for CASE-2026-000059",
+    "created_at": "2026-05-10T17:27:00"
+  },
+  {
+    "log_id": 360,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000060",
+    "details": "Decision recorded for CASE-2026-000060",
+    "created_at": "2026-05-24T12:44:00"
+  },
+  {
+    "log_id": 361,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000061",
+    "details": "Decision recorded for CASE-2026-000061",
+    "created_at": "2026-03-28T18:29:00"
+  },
+  {
+    "log_id": 362,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000062",
+    "details": "Decision recorded for CASE-2026-000062",
+    "created_at": "2026-02-09T20:14:00"
+  },
+  {
+    "log_id": 363,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000063",
+    "details": "Decision recorded for CASE-2026-000063",
+    "created_at": "2026-02-19T11:10:00"
+  },
+  {
+    "log_id": 364,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000064",
+    "details": "Decision recorded for CASE-2026-000064",
+    "created_at": "2026-04-15T15:22:00"
+  },
+  {
+    "log_id": 365,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000065",
+    "details": "Decision recorded for CASE-2026-000065",
+    "created_at": "2026-04-30T11:27:00"
+  },
+  {
+    "log_id": 366,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000066",
+    "details": "Decision recorded for CASE-2026-000066",
+    "created_at": "2026-01-18T12:50:00"
+  },
+  {
+    "log_id": 367,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000067",
+    "details": "Decision recorded for CASE-2026-000067",
+    "created_at": "2026-04-02T12:51:00"
+  },
+  {
+    "log_id": 368,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000068",
+    "details": "Decision recorded for CASE-2026-000068",
+    "created_at": "2026-05-08T20:25:00"
+  },
+  {
+    "log_id": 369,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000069",
+    "details": "Decision recorded for CASE-2026-000069",
+    "created_at": "2026-08-28T20:41:00"
+  },
+  {
+    "log_id": 370,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000070",
+    "details": "Decision recorded for CASE-2026-000070",
+    "created_at": "2026-05-18T16:21:00"
+  },
+  {
+    "log_id": 371,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000071",
+    "details": "Decision recorded for CASE-2026-000071",
+    "created_at": "2026-01-26T21:33:00"
+  },
+  {
+    "log_id": 372,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000072",
+    "details": "Decision recorded for CASE-2026-000072",
+    "created_at": "2026-05-21T21:08:00"
+  },
+  {
+    "log_id": 373,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000073",
+    "details": "Decision recorded for CASE-2026-000073",
+    "created_at": "2026-01-29T12:28:00"
+  },
+  {
+    "log_id": 374,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000074",
+    "details": "Decision recorded for CASE-2026-000074",
+    "created_at": "2026-05-09T11:24:00"
+  },
+  {
+    "log_id": 375,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000075",
+    "details": "Decision recorded for CASE-2026-000075",
+    "created_at": "2026-06-14T17:23:00"
+  },
+  {
+    "log_id": 376,
+    "actor": "REV-014",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000076",
+    "details": "Decision recorded for CASE-2026-000076",
+    "created_at": "2026-02-10T18:13:00"
+  },
+  {
+    "log_id": 377,
+    "actor": "REV-010",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000077",
+    "details": "Decision recorded for CASE-2026-000077",
+    "created_at": "2026-06-04T17:56:00"
+  },
+  {
+    "log_id": 378,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000078",
+    "details": "Decision recorded for CASE-2026-000078",
+    "created_at": "2026-05-13T13:52:00"
+  },
+  {
+    "log_id": 379,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000079",
+    "details": "Decision recorded for CASE-2026-000079",
+    "created_at": "2026-08-24T21:11:00"
+  },
+  {
+    "log_id": 380,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000080",
+    "details": "Decision recorded for CASE-2026-000080",
+    "created_at": "2026-04-19T17:38:00"
+  },
+  {
+    "log_id": 381,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000081",
+    "details": "Decision recorded for CASE-2026-000081",
+    "created_at": "2026-05-01T13:23:00"
+  },
+  {
+    "log_id": 382,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000082",
+    "details": "Decision recorded for CASE-2026-000082",
+    "created_at": "2026-08-19T21:16:00"
+  },
+  {
+    "log_id": 383,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000083",
+    "details": "Decision recorded for CASE-2026-000083",
+    "created_at": "2026-02-16T21:08:00"
+  },
+  {
+    "log_id": 384,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000084",
+    "details": "Decision recorded for CASE-2026-000084",
+    "created_at": "2026-03-24T13:28:00"
+  },
+  {
+    "log_id": 385,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000085",
+    "details": "Decision recorded for CASE-2026-000085",
+    "created_at": "2026-05-03T18:07:00"
+  },
+  {
+    "log_id": 386,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000086",
+    "details": "Decision recorded for CASE-2026-000086",
+    "created_at": "2026-02-17T14:38:00"
+  },
+  {
+    "log_id": 387,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000087",
+    "details": "Decision recorded for CASE-2026-000087",
+    "created_at": "2026-04-14T21:18:00"
+  },
+  {
+    "log_id": 388,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000088",
+    "details": "Decision recorded for CASE-2026-000088",
+    "created_at": "2026-07-16T20:54:00"
+  },
+  {
+    "log_id": 389,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000089",
+    "details": "Decision recorded for CASE-2026-000089",
+    "created_at": "2026-01-12T12:00:00"
+  },
+  {
+    "log_id": 390,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000090",
+    "details": "Decision recorded for CASE-2026-000090",
+    "created_at": "2026-08-30T21:41:00"
+  },
+  {
+    "log_id": 391,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000091",
+    "details": "Decision recorded for CASE-2026-000091",
+    "created_at": "2026-08-11T17:16:00"
+  },
+  {
+    "log_id": 392,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000092",
+    "details": "Decision recorded for CASE-2026-000092",
+    "created_at": "2026-05-16T18:00:00"
+  },
+  {
+    "log_id": 393,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000093",
+    "details": "Decision recorded for CASE-2026-000093",
+    "created_at": "2026-06-22T19:19:00"
+  },
+  {
+    "log_id": 394,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000094",
+    "details": "Decision recorded for CASE-2026-000094",
+    "created_at": "2026-02-25T13:04:00"
+  },
+  {
+    "log_id": 395,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000095",
+    "details": "Decision recorded for CASE-2026-000095",
+    "created_at": "2026-05-27T20:35:00"
+  },
+  {
+    "log_id": 396,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000096",
+    "details": "Decision recorded for CASE-2026-000096",
+    "created_at": "2026-06-02T14:44:00"
+  },
+  {
+    "log_id": 397,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000097",
+    "details": "Decision recorded for CASE-2026-000097",
+    "created_at": "2026-04-25T13:33:00"
+  },
+  {
+    "log_id": 398,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000098",
+    "details": "Decision recorded for CASE-2026-000098",
+    "created_at": "2026-04-28T11:50:00"
+  },
+  {
+    "log_id": 399,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000099",
+    "details": "Decision recorded for CASE-2026-000099",
+    "created_at": "2026-08-21T14:53:00"
+  },
+  {
+    "log_id": 400,
+    "actor": "REV-016",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000100",
+    "details": "Decision recorded for CASE-2026-000100",
+    "created_at": "2026-04-28T19:37:00"
+  },
+  {
+    "log_id": 401,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000101",
+    "details": "Decision recorded for CASE-2026-000101",
+    "created_at": "2026-04-12T14:57:00"
+  },
+  {
+    "log_id": 402,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000102",
+    "details": "Decision recorded for CASE-2026-000102",
+    "created_at": "2026-06-28T13:09:00"
+  },
+  {
+    "log_id": 403,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000103",
+    "details": "Decision recorded for CASE-2026-000103",
+    "created_at": "2026-03-30T17:48:00"
+  },
+  {
+    "log_id": 404,
+    "actor": "REV-022",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000104",
+    "details": "Decision recorded for CASE-2026-000104",
+    "created_at": "2026-01-15T17:56:00"
+  },
+  {
+    "log_id": 405,
+    "actor": "REV-023",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000105",
+    "details": "Decision recorded for CASE-2026-000105",
+    "created_at": "2026-04-17T14:12:00"
+  },
+  {
+    "log_id": 406,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000106",
+    "details": "Decision recorded for CASE-2026-000106",
+    "created_at": "2026-03-22T11:12:00"
+  },
+  {
+    "log_id": 407,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000107",
+    "details": "Decision recorded for CASE-2026-000107",
+    "created_at": "2026-01-18T19:37:00"
+  },
+  {
+    "log_id": 408,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000108",
+    "details": "Decision recorded for CASE-2026-000108",
+    "created_at": "2026-04-24T11:45:00"
+  },
+  {
+    "log_id": 409,
+    "actor": "REV-022",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000109",
+    "details": "Decision recorded for CASE-2026-000109",
+    "created_at": "2026-04-05T14:16:00"
+  },
+  {
+    "log_id": 410,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000110",
+    "details": "Decision recorded for CASE-2026-000110",
+    "created_at": "2026-05-23T11:55:00"
+  },
+  {
+    "log_id": 411,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000111",
+    "details": "Decision recorded for CASE-2026-000111",
+    "created_at": "2026-03-18T19:49:00"
+  },
+  {
+    "log_id": 412,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000112",
+    "details": "Decision recorded for CASE-2026-000112",
+    "created_at": "2026-04-16T17:42:00"
+  },
+  {
+    "log_id": 413,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000113",
+    "details": "Decision recorded for CASE-2026-000113",
+    "created_at": "2026-04-22T13:51:00"
+  },
+  {
+    "log_id": 414,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000114",
+    "details": "Decision recorded for CASE-2026-000114",
+    "created_at": "2026-06-15T13:49:00"
+  },
+  {
+    "log_id": 415,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000115",
+    "details": "Decision recorded for CASE-2026-000115",
+    "created_at": "2026-08-11T17:23:00"
+  },
+  {
+    "log_id": 416,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000116",
+    "details": "Decision recorded for CASE-2026-000116",
+    "created_at": "2026-08-10T13:27:00"
+  },
+  {
+    "log_id": 417,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000117",
+    "details": "Decision recorded for CASE-2026-000117",
+    "created_at": "2026-04-15T21:38:00"
+  },
+  {
+    "log_id": 418,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000118",
+    "details": "Decision recorded for CASE-2026-000118",
+    "created_at": "2026-05-01T18:41:00"
+  },
+  {
+    "log_id": 419,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000119",
+    "details": "Decision recorded for CASE-2026-000119",
+    "created_at": "2026-07-02T21:56:00"
+  },
+  {
+    "log_id": 420,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000120",
+    "details": "Decision recorded for CASE-2026-000120",
+    "created_at": "2026-01-31T19:05:00"
+  },
+  {
+    "log_id": 421,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000121",
+    "details": "Decision recorded for CASE-2026-000121",
+    "created_at": "2026-08-05T18:13:00"
+  },
+  {
+    "log_id": 422,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000122",
+    "details": "Decision recorded for CASE-2026-000122",
+    "created_at": "2026-02-01T17:28:00"
+  },
+  {
+    "log_id": 423,
+    "actor": "REV-010",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000123",
+    "details": "Decision recorded for CASE-2026-000123",
+    "created_at": "2026-06-30T13:55:00"
+  },
+  {
+    "log_id": 424,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000124",
+    "details": "Decision recorded for CASE-2026-000124",
+    "created_at": "2026-01-25T15:29:00"
+  },
+  {
+    "log_id": 425,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000125",
+    "details": "Decision recorded for CASE-2026-000125",
+    "created_at": "2026-07-13T19:53:00"
+  },
+  {
+    "log_id": 426,
+    "actor": "REV-014",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000126",
+    "details": "Decision recorded for CASE-2026-000126",
+    "created_at": "2026-04-20T21:37:00"
+  },
+  {
+    "log_id": 427,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000127",
+    "details": "Decision recorded for CASE-2026-000127",
+    "created_at": "2026-04-15T12:05:00"
+  },
+  {
+    "log_id": 428,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000128",
+    "details": "Decision recorded for CASE-2026-000128",
+    "created_at": "2026-07-05T11:13:00"
+  },
+  {
+    "log_id": 429,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000129",
+    "details": "Decision recorded for CASE-2026-000129",
+    "created_at": "2026-04-01T20:31:00"
+  },
+  {
+    "log_id": 430,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000130",
+    "details": "Decision recorded for CASE-2026-000130",
+    "created_at": "2026-04-22T18:57:00"
+  },
+  {
+    "log_id": 431,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000131",
+    "details": "Decision recorded for CASE-2026-000131",
+    "created_at": "2026-02-19T12:11:00"
+  },
+  {
+    "log_id": 432,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000132",
+    "details": "Decision recorded for CASE-2026-000132",
+    "created_at": "2026-01-03T15:10:00"
+  },
+  {
+    "log_id": 433,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000133",
+    "details": "Decision recorded for CASE-2026-000133",
+    "created_at": "2026-01-03T21:10:00"
+  },
+  {
+    "log_id": 434,
+    "actor": "REV-025",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000134",
+    "details": "Decision recorded for CASE-2026-000134",
+    "created_at": "2026-06-03T21:28:00"
+  },
+  {
+    "log_id": 435,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000135",
+    "details": "Decision recorded for CASE-2026-000135",
+    "created_at": "2026-08-26T16:22:00"
+  },
+  {
+    "log_id": 436,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000136",
+    "details": "Decision recorded for CASE-2026-000136",
+    "created_at": "2026-04-09T21:56:00"
+  },
+  {
+    "log_id": 437,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000137",
+    "details": "Decision recorded for CASE-2026-000137",
+    "created_at": "2026-02-26T16:32:00"
+  },
+  {
+    "log_id": 438,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000138",
+    "details": "Decision recorded for CASE-2026-000138",
+    "created_at": "2026-06-01T11:56:00"
+  },
+  {
+    "log_id": 439,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000139",
+    "details": "Decision recorded for CASE-2026-000139",
+    "created_at": "2026-03-21T18:57:00"
+  },
+  {
+    "log_id": 440,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000140",
+    "details": "Decision recorded for CASE-2026-000140",
+    "created_at": "2026-02-03T15:39:00"
+  },
+  {
+    "log_id": 441,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000141",
+    "details": "Decision recorded for CASE-2026-000141",
+    "created_at": "2026-08-18T19:36:00"
+  },
+  {
+    "log_id": 442,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000142",
+    "details": "Decision recorded for CASE-2026-000142",
+    "created_at": "2026-05-12T11:12:00"
+  },
+  {
+    "log_id": 443,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000143",
+    "details": "Decision recorded for CASE-2026-000143",
+    "created_at": "2026-02-24T19:32:00"
+  },
+  {
+    "log_id": 444,
+    "actor": "REV-016",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000144",
+    "details": "Decision recorded for CASE-2026-000144",
+    "created_at": "2026-06-29T21:09:00"
+  },
+  {
+    "log_id": 445,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000145",
+    "details": "Decision recorded for CASE-2026-000145",
+    "created_at": "2026-09-08T11:35:00"
+  },
+  {
+    "log_id": 446,
+    "actor": "REV-010",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000146",
+    "details": "Decision recorded for CASE-2026-000146",
+    "created_at": "2026-06-18T11:04:00"
+  },
+  {
+    "log_id": 447,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000147",
+    "details": "Decision recorded for CASE-2026-000147",
+    "created_at": "2026-09-01T11:03:00"
+  },
+  {
+    "log_id": 448,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000148",
+    "details": "Decision recorded for CASE-2026-000148",
+    "created_at": "2026-09-06T21:23:00"
+  },
+  {
+    "log_id": 449,
+    "actor": "REV-014",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000149",
+    "details": "Decision recorded for CASE-2026-000149",
+    "created_at": "2026-07-15T13:08:00"
+  },
+  {
+    "log_id": 450,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000150",
+    "details": "Decision recorded for CASE-2026-000150",
+    "created_at": "2026-01-21T15:29:00"
+  },
+  {
+    "log_id": 451,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000151",
+    "details": "Decision recorded for CASE-2026-000151",
+    "created_at": "2026-01-03T21:01:00"
+  },
+  {
+    "log_id": 452,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000152",
+    "details": "Decision recorded for CASE-2026-000152",
+    "created_at": "2026-01-06T13:19:00"
+  },
+  {
+    "log_id": 453,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000153",
+    "details": "Decision recorded for CASE-2026-000153",
+    "created_at": "2026-01-24T15:53:00"
+  },
+  {
+    "log_id": 454,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000154",
+    "details": "Decision recorded for CASE-2026-000154",
+    "created_at": "2026-05-29T14:41:00"
+  },
+  {
+    "log_id": 455,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000155",
+    "details": "Decision recorded for CASE-2026-000155",
+    "created_at": "2026-06-02T14:49:00"
+  },
+  {
+    "log_id": 456,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000156",
+    "details": "Decision recorded for CASE-2026-000156",
+    "created_at": "2026-06-29T11:06:00"
+  },
+  {
+    "log_id": 457,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000157",
+    "details": "Decision recorded for CASE-2026-000157",
+    "created_at": "2026-08-06T20:01:00"
+  },
+  {
+    "log_id": 458,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000158",
+    "details": "Decision recorded for CASE-2026-000158",
+    "created_at": "2026-02-14T14:25:00"
+  },
+  {
+    "log_id": 459,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000159",
+    "details": "Decision recorded for CASE-2026-000159",
+    "created_at": "2026-07-01T21:58:00"
+  },
+  {
+    "log_id": 460,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000160",
+    "details": "Decision recorded for CASE-2026-000160",
+    "created_at": "2026-04-27T11:09:00"
+  },
+  {
+    "log_id": 461,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000161",
+    "details": "Decision recorded for CASE-2026-000161",
+    "created_at": "2026-02-23T12:44:00"
+  },
+  {
+    "log_id": 462,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000162",
+    "details": "Decision recorded for CASE-2026-000162",
+    "created_at": "2026-04-12T12:32:00"
+  },
+  {
+    "log_id": 463,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000163",
+    "details": "Decision recorded for CASE-2026-000163",
+    "created_at": "2026-08-02T14:29:00"
+  },
+  {
+    "log_id": 464,
+    "actor": "REV-003",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000164",
+    "details": "Decision recorded for CASE-2026-000164",
+    "created_at": "2026-01-30T19:42:00"
+  },
+  {
+    "log_id": 465,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000165",
+    "details": "Decision recorded for CASE-2026-000165",
+    "created_at": "2026-05-31T19:08:00"
+  },
+  {
+    "log_id": 466,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000166",
+    "details": "Decision recorded for CASE-2026-000166",
+    "created_at": "2026-01-03T17:55:00"
+  },
+  {
+    "log_id": 467,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000167",
+    "details": "Decision recorded for CASE-2026-000167",
+    "created_at": "2026-05-21T21:50:00"
+  },
+  {
+    "log_id": 468,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000168",
+    "details": "Decision recorded for CASE-2026-000168",
+    "created_at": "2026-05-20T14:40:00"
+  },
+  {
+    "log_id": 469,
+    "actor": "REV-010",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000169",
+    "details": "Decision recorded for CASE-2026-000169",
+    "created_at": "2026-02-05T16:50:00"
+  },
+  {
+    "log_id": 470,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000170",
+    "details": "Decision recorded for CASE-2026-000170",
+    "created_at": "2026-07-22T18:21:00"
+  },
+  {
+    "log_id": 471,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000171",
+    "details": "Decision recorded for CASE-2026-000171",
+    "created_at": "2026-01-09T14:08:00"
+  },
+  {
+    "log_id": 472,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000172",
+    "details": "Decision recorded for CASE-2026-000172",
+    "created_at": "2026-08-01T17:39:00"
+  },
+  {
+    "log_id": 473,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000173",
+    "details": "Decision recorded for CASE-2026-000173",
+    "created_at": "2026-07-20T14:37:00"
+  },
+  {
+    "log_id": 474,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000174",
+    "details": "Decision recorded for CASE-2026-000174",
+    "created_at": "2026-06-11T21:22:00"
+  },
+  {
+    "log_id": 475,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000175",
+    "details": "Decision recorded for CASE-2026-000175",
+    "created_at": "2026-06-03T19:52:00"
+  },
+  {
+    "log_id": 476,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000176",
+    "details": "Decision recorded for CASE-2026-000176",
+    "created_at": "2026-02-26T15:19:00"
+  },
+  {
+    "log_id": 477,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000177",
+    "details": "Decision recorded for CASE-2026-000177",
+    "created_at": "2026-04-12T19:15:00"
+  },
+  {
+    "log_id": 478,
+    "actor": "REV-022",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000178",
+    "details": "Decision recorded for CASE-2026-000178",
+    "created_at": "2026-06-01T13:14:00"
+  },
+  {
+    "log_id": 479,
+    "actor": "REV-023",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000179",
+    "details": "Decision recorded for CASE-2026-000179",
+    "created_at": "2026-04-29T12:21:00"
+  },
+  {
+    "log_id": 480,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000180",
+    "details": "Decision recorded for CASE-2026-000180",
+    "created_at": "2026-03-28T16:33:00"
+  },
+  {
+    "log_id": 481,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000181",
+    "details": "Decision recorded for CASE-2026-000181",
+    "created_at": "2026-06-10T11:44:00"
+  },
+  {
+    "log_id": 482,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000182",
+    "details": "Decision recorded for CASE-2026-000182",
+    "created_at": "2026-08-24T21:21:00"
+  },
+  {
+    "log_id": 483,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000183",
+    "details": "Decision recorded for CASE-2026-000183",
+    "created_at": "2026-03-08T19:59:00"
+  },
+  {
+    "log_id": 484,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000184",
+    "details": "Decision recorded for CASE-2026-000184",
+    "created_at": "2026-05-23T14:59:00"
+  },
+  {
+    "log_id": 485,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000185",
+    "details": "Decision recorded for CASE-2026-000185",
+    "created_at": "2026-07-02T19:08:00"
+  },
+  {
+    "log_id": 486,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000186",
+    "details": "Decision recorded for CASE-2026-000186",
+    "created_at": "2026-06-29T16:15:00"
+  },
+  {
+    "log_id": 487,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000187",
+    "details": "Decision recorded for CASE-2026-000187",
+    "created_at": "2026-05-22T17:21:00"
+  },
+  {
+    "log_id": 488,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000188",
+    "details": "Decision recorded for CASE-2026-000188",
+    "created_at": "2026-08-01T11:17:00"
+  },
+  {
+    "log_id": 489,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000189",
+    "details": "Decision recorded for CASE-2026-000189",
+    "created_at": "2026-05-16T15:47:00"
+  },
+  {
+    "log_id": 490,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000190",
+    "details": "Decision recorded for CASE-2026-000190",
+    "created_at": "2026-07-18T11:24:00"
+  },
+  {
+    "log_id": 491,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000191",
+    "details": "Decision recorded for CASE-2026-000191",
+    "created_at": "2026-03-01T17:21:00"
+  },
+  {
+    "log_id": 492,
+    "actor": "REV-010",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000192",
+    "details": "Decision recorded for CASE-2026-000192",
+    "created_at": "2026-03-16T13:28:00"
+  },
+  {
+    "log_id": 493,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000193",
+    "details": "Decision recorded for CASE-2026-000193",
+    "created_at": "2026-08-09T17:42:00"
+  },
+  {
+    "log_id": 494,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000194",
+    "details": "Decision recorded for CASE-2026-000194",
+    "created_at": "2026-09-06T15:02:00"
+  },
+  {
+    "log_id": 495,
+    "actor": "REV-014",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000195",
+    "details": "Decision recorded for CASE-2026-000195",
+    "created_at": "2026-08-04T19:58:00"
+  },
+  {
+    "log_id": 496,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000196",
+    "details": "Decision recorded for CASE-2026-000196",
+    "created_at": "2026-01-02T13:29:00"
+  },
+  {
+    "log_id": 497,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000197",
+    "details": "Decision recorded for CASE-2026-000197",
+    "created_at": "2026-06-09T19:58:00"
+  },
+  {
+    "log_id": 498,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000198",
+    "details": "Decision recorded for CASE-2026-000198",
+    "created_at": "2026-02-21T14:55:00"
+  },
+  {
+    "log_id": 499,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000199",
+    "details": "Decision recorded for CASE-2026-000199",
+    "created_at": "2026-08-04T20:16:00"
+  },
+  {
+    "log_id": 500,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000200",
+    "details": "Decision recorded for CASE-2026-000200",
+    "created_at": "2026-02-06T13:12:00"
+  },
+  {
+    "log_id": 501,
+    "actor": "REV-022",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000201",
+    "details": "Decision recorded for CASE-2026-000201",
+    "created_at": "2026-07-18T11:42:00"
+  },
+  {
+    "log_id": 502,
+    "actor": "REV-023",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000202",
+    "details": "Decision recorded for CASE-2026-000202",
+    "created_at": "2026-07-17T17:06:00"
+  },
+  {
+    "log_id": 503,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000203",
+    "details": "Decision recorded for CASE-2026-000203",
+    "created_at": "2026-08-26T13:00:00"
+  },
+  {
+    "log_id": 504,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000204",
+    "details": "Decision recorded for CASE-2026-000204",
+    "created_at": "2026-07-10T21:53:00"
+  },
+  {
+    "log_id": 505,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000205",
+    "details": "Decision recorded for CASE-2026-000205",
+    "created_at": "2026-03-24T18:10:00"
+  },
+  {
+    "log_id": 506,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000206",
+    "details": "Decision recorded for CASE-2026-000206",
+    "created_at": "2026-02-04T18:14:00"
+  },
+  {
+    "log_id": 507,
+    "actor": "REV-012",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000207",
+    "details": "Decision recorded for CASE-2026-000207",
+    "created_at": "2026-06-18T16:20:00"
+  },
+  {
+    "log_id": 508,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000208",
+    "details": "Decision recorded for CASE-2026-000208",
+    "created_at": "2026-02-23T13:44:00"
+  },
+  {
+    "log_id": 509,
+    "actor": "REV-015",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000209",
+    "details": "Decision recorded for CASE-2026-000209",
+    "created_at": "2026-08-01T18:33:00"
+  },
+  {
+    "log_id": 510,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000210",
+    "details": "Decision recorded for CASE-2026-000210",
+    "created_at": "2026-02-18T20:15:00"
+  },
+  {
+    "log_id": 511,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000211",
+    "details": "Decision recorded for CASE-2026-000211",
+    "created_at": "2026-04-24T12:30:00"
+  },
+  {
+    "log_id": 512,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000212",
+    "details": "Decision recorded for CASE-2026-000212",
+    "created_at": "2026-05-09T11:30:00"
+  },
+  {
+    "log_id": 513,
+    "actor": "REV-020",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000213",
+    "details": "Decision recorded for CASE-2026-000213",
+    "created_at": "2026-05-10T16:36:00"
+  },
+  {
+    "log_id": 514,
+    "actor": "REV-021",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000214",
+    "details": "Decision recorded for CASE-2026-000214",
+    "created_at": "2026-07-06T18:49:00"
+  },
+  {
+    "log_id": 515,
+    "actor": "REV-023",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000215",
+    "details": "Decision recorded for CASE-2026-000215",
+    "created_at": "2026-05-16T13:59:00"
+  },
+  {
+    "log_id": 516,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000216",
+    "details": "Decision recorded for CASE-2026-000216",
+    "created_at": "2026-08-17T13:12:00"
+  },
+  {
+    "log_id": 517,
+    "actor": "REV-013",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000217",
+    "details": "Decision recorded for CASE-2026-000217",
+    "created_at": "2026-06-27T11:43:00"
+  },
+  {
+    "log_id": 518,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000218",
+    "details": "Decision recorded for CASE-2026-000218",
+    "created_at": "2026-07-01T14:26:00"
+  },
+  {
+    "log_id": 519,
+    "actor": "REV-028",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000219",
+    "details": "Decision recorded for CASE-2026-000219",
+    "created_at": "2026-02-21T11:37:00"
+  },
+  {
+    "log_id": 520,
+    "actor": "REV-017",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000220",
+    "details": "Decision recorded for CASE-2026-000220",
+    "created_at": "2026-06-16T20:55:00"
+  },
+  {
+    "log_id": 521,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000221",
+    "details": "Decision recorded for CASE-2026-000221",
+    "created_at": "2026-07-09T13:56:00"
+  },
+  {
+    "log_id": 522,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000222",
+    "details": "Decision recorded for CASE-2026-000222",
+    "created_at": "2026-07-03T17:55:00"
+  },
+  {
+    "log_id": 523,
+    "actor": "REV-004",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000223",
+    "details": "Decision recorded for CASE-2026-000223",
+    "created_at": "2026-01-16T11:52:00"
+  },
+  {
+    "log_id": 524,
+    "actor": "REV-005",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000224",
+    "details": "Decision recorded for CASE-2026-000224",
+    "created_at": "2026-07-30T18:24:00"
+  },
+  {
+    "log_id": 525,
+    "actor": "REV-023",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000225",
+    "details": "Decision recorded for CASE-2026-000225",
+    "created_at": "2026-04-28T14:20:00"
+  },
+  {
+    "log_id": 526,
+    "actor": "REV-008",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000226",
+    "details": "Decision recorded for CASE-2026-000226",
+    "created_at": "2026-06-25T15:27:00"
+  },
+  {
+    "log_id": 527,
+    "actor": "REV-026",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000227",
+    "details": "Decision recorded for CASE-2026-000227",
+    "created_at": "2026-03-10T12:12:00"
+  },
+  {
+    "log_id": 528,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000228",
+    "details": "Decision recorded for CASE-2026-000228",
+    "created_at": "2026-03-23T19:50:00"
+  },
+  {
+    "log_id": 529,
+    "actor": "REV-029",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000229",
+    "details": "Decision recorded for CASE-2026-000229",
+    "created_at": "2026-05-22T18:11:00"
+  },
+  {
+    "log_id": 530,
+    "actor": "REV-030",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000230",
+    "details": "Decision recorded for CASE-2026-000230",
+    "created_at": "2026-07-16T16:33:00"
+  },
+  {
+    "log_id": 531,
+    "actor": "REV-001",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000231",
+    "details": "Decision recorded for CASE-2026-000231",
+    "created_at": "2026-06-10T20:55:00"
+  },
+  {
+    "log_id": 532,
+    "actor": "REV-002",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000232",
+    "details": "Decision recorded for CASE-2026-000232",
+    "created_at": "2026-04-01T20:10:00"
+  },
+  {
+    "log_id": 533,
+    "actor": "REV-018",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000233",
+    "details": "Decision recorded for CASE-2026-000233",
+    "created_at": "2026-04-15T11:12:00"
+  },
+  {
+    "log_id": 534,
+    "actor": "REV-019",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000234",
+    "details": "Decision recorded for CASE-2026-000234",
+    "created_at": "2026-08-23T11:44:00"
+  },
+  {
+    "log_id": 535,
+    "actor": "REV-006",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000235",
+    "details": "Decision recorded for CASE-2026-000235",
+    "created_at": "2026-01-24T12:51:00"
+  },
+  {
+    "log_id": 536,
+    "actor": "REV-007",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000236",
+    "details": "Decision recorded for CASE-2026-000236",
+    "created_at": "2026-06-16T17:55:00"
+  },
+  {
+    "log_id": 537,
+    "actor": "REV-009",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000237",
+    "details": "Decision recorded for CASE-2026-000237",
+    "created_at": "2026-04-17T13:31:00"
+  },
+  {
+    "log_id": 538,
+    "actor": "REV-024",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000238",
+    "details": "Decision recorded for CASE-2026-000238",
+    "created_at": "2026-02-25T17:25:00"
+  },
+  {
+    "log_id": 539,
+    "actor": "REV-011",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000239",
+    "details": "Decision recorded for CASE-2026-000239",
+    "created_at": "2026-08-31T21:22:00"
+  },
+  {
+    "log_id": 540,
+    "actor": "REV-027",
+    "action": "Decision Recorded",
+    "entity_type": "Decision",
+    "entity_id": "DEC-2026-000240",
+    "details": "Decision recorded for CASE-2026-000240",
+    "created_at": "2026-06-29T13:51:00"
+  },
+  {
+    "log_id": 541,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000001-01",
+    "details": "Appeal recorded for CASE-2026-000001: Accepted",
+    "created_at": "2026-08-11T21:29:00"
+  },
+  {
+    "log_id": 542,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000002-01",
+    "details": "Appeal recorded for CASE-2026-000002: Rejected",
+    "created_at": "2026-08-07T16:12:00"
+  },
+  {
+    "log_id": 543,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000003-01",
+    "details": "Appeal recorded for CASE-2026-000003: Rejected",
+    "created_at": "2026-05-22T17:15:00"
+  },
+  {
+    "log_id": 544,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000004-01",
+    "details": "Appeal recorded for CASE-2026-000004: Rejected",
+    "created_at": "2026-02-16T15:02:00"
+  },
+  {
+    "log_id": 545,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000005-01",
+    "details": "Appeal recorded for CASE-2026-000005: Rejected",
+    "created_at": "2026-02-28T17:33:00"
+  },
+  {
+    "log_id": 546,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000006-01",
+    "details": "Appeal recorded for CASE-2026-000006: Rejected",
+    "created_at": "2026-04-02T21:52:00"
+  },
+  {
+    "log_id": 547,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000007-01",
+    "details": "Appeal recorded for CASE-2026-000007: Accepted",
+    "created_at": "2026-07-13T22:31:00"
+  },
+  {
+    "log_id": 548,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000008-01",
+    "details": "Appeal recorded for CASE-2026-000008: Rejected",
+    "created_at": "2026-05-10T16:31:00"
+  },
+  {
+    "log_id": 549,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000009-01",
+    "details": "Appeal recorded for CASE-2026-000009: Rejected",
+    "created_at": "2026-03-25T21:47:00"
+  },
+  {
+    "log_id": 550,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000010-01",
+    "details": "Appeal recorded for CASE-2026-000010: Rejected",
+    "created_at": "2026-05-21T21:20:00"
+  },
+  {
+    "log_id": 551,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000011-01",
+    "details": "Appeal recorded for CASE-2026-000011: Rejected",
+    "created_at": "2026-03-31T15:56:00"
+  },
+  {
+    "log_id": 552,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000012-01",
+    "details": "Appeal recorded for CASE-2026-000012: Rejected",
+    "created_at": "2026-01-30T13:29:00"
+  },
+  {
+    "log_id": 553,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000013-01",
+    "details": "Appeal recorded for CASE-2026-000013: Accepted",
+    "created_at": "2026-03-21T19:25:00"
+  },
+  {
+    "log_id": 554,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000014-01",
+    "details": "Appeal recorded for CASE-2026-000014: Rejected",
+    "created_at": "2026-02-01T22:10:00"
+  },
+  {
+    "log_id": 555,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000015-01",
+    "details": "Appeal recorded for CASE-2026-000015: Rejected",
+    "created_at": "2026-02-01T14:07:00"
+  },
+  {
+    "log_id": 556,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000016-01",
+    "details": "Appeal recorded for CASE-2026-000016: Rejected",
+    "created_at": "2026-05-22T18:48:00"
+  },
+  {
+    "log_id": 557,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000017-01",
+    "details": "Appeal recorded for CASE-2026-000017: Rejected",
+    "created_at": "2026-07-24T14:36:00"
+  },
+  {
+    "log_id": 558,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000018-01",
+    "details": "Appeal recorded for CASE-2026-000018: Rejected",
+    "created_at": "2026-02-18T12:48:00"
+  },
+  {
+    "log_id": 559,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000019-01",
+    "details": "Appeal recorded for CASE-2026-000019: Accepted",
+    "created_at": "2026-06-17T12:35:00"
+  },
+  {
+    "log_id": 560,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000020-01",
+    "details": "Appeal recorded for CASE-2026-000020: Rejected",
+    "created_at": "2026-03-13T12:44:00"
+  },
+  {
+    "log_id": 561,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000021-01",
+    "details": "Appeal recorded for CASE-2026-000021: Rejected",
+    "created_at": "2026-03-10T18:40:00"
+  },
+  {
+    "log_id": 562,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000022-01",
+    "details": "Appeal recorded for CASE-2026-000022: Rejected",
+    "created_at": "2026-06-22T18:56:00"
+  },
+  {
+    "log_id": 563,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000023-01",
+    "details": "Appeal recorded for CASE-2026-000023: Rejected",
+    "created_at": "2026-07-22T22:40:00"
+  },
+  {
+    "log_id": 564,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000024-01",
+    "details": "Appeal recorded for CASE-2026-000024: Rejected",
+    "created_at": "2026-07-27T22:58:00"
+  },
+  {
+    "log_id": 565,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000025-01",
+    "details": "Appeal recorded for CASE-2026-000025: Accepted",
+    "created_at": "2026-02-08T19:24:00"
+  },
+  {
+    "log_id": 566,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000026-01",
+    "details": "Appeal recorded for CASE-2026-000026: Rejected",
+    "created_at": "2026-06-05T12:32:00"
+  },
+  {
+    "log_id": 567,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000027-01",
+    "details": "Appeal recorded for CASE-2026-000027: Rejected",
+    "created_at": "2026-02-07T16:16:00"
+  },
+  {
+    "log_id": 568,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000028-01",
+    "details": "Appeal recorded for CASE-2026-000028: Rejected",
+    "created_at": "2026-06-27T22:02:00"
+  },
+  {
+    "log_id": 569,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000029-01",
+    "details": "Appeal recorded for CASE-2026-000029: Rejected",
+    "created_at": "2026-08-31T13:10:00"
+  },
+  {
+    "log_id": 570,
+    "actor": "System",
+    "action": "Appeal Recorded",
+    "entity_type": "Appeal",
+    "entity_id": "APL-CASE-2026-000030-01",
+    "details": "Appeal recorded for CASE-2026-000030: Rejected",
+    "created_at": "2026-03-26T16:50:00"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "report_id": "SIM-SUB-2026-000001-01",
+    "submission_id": "SUB-2026-000001",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 51.0,
+    "matched_reference": "Reference-001",
+    "report_date": "2026-08-10T18:51:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000002-01",
+    "submission_id": "SUB-2026-000002",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 57.0,
+    "matched_reference": "Reference-002",
+    "report_date": "2026-03-16T15:53:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000003-01",
+    "submission_id": "SUB-2026-000003",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 48.0,
+    "matched_reference": "Reference-003",
+    "report_date": "2026-07-24T12:35:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000004-01",
+    "submission_id": "SUB-2026-000004",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 54.0,
+    "matched_reference": "Reference-004",
+    "report_date": "2026-08-16T09:31:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000005-01",
+    "submission_id": "SUB-2026-000005",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 60.0,
+    "matched_reference": "Reference-005",
+    "report_date": "2026-03-03T18:18:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000006-01",
+    "submission_id": "SUB-2026-000006",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 51.0,
+    "matched_reference": "Reference-006",
+    "report_date": "2026-07-06T12:55:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000007-01",
+    "submission_id": "SUB-2026-000007",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 57.0,
+    "matched_reference": "Reference-007",
+    "report_date": "2026-08-08T12:49:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000008-01",
+    "submission_id": "SUB-2026-000008",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 63.0,
+    "matched_reference": "Reference-008",
+    "report_date": "2026-02-04T11:10:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000009-01",
+    "submission_id": "SUB-2026-000009",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 54.0,
+    "matched_reference": "Reference-009",
+    "report_date": "2026-08-04T16:10:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000010-01",
+    "submission_id": "SUB-2026-000010",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 60.0,
+    "matched_reference": "Reference-010",
+    "report_date": "2026-04-15T11:06:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000011-01",
+    "submission_id": "SUB-2026-000011",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 66.0,
+    "matched_reference": "Reference-011",
+    "report_date": "2026-01-01T14:15:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000012-01",
+    "submission_id": "SUB-2026-000012",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 57.0,
+    "matched_reference": "Reference-012",
+    "report_date": "2026-03-06T09:34:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000013-01",
+    "submission_id": "SUB-2026-000013",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 63.0,
+    "matched_reference": "Reference-013",
+    "report_date": "2026-02-02T09:05:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000014-01",
+    "submission_id": "SUB-2026-000014",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 69.0,
+    "matched_reference": "Reference-014",
+    "report_date": "2026-07-06T09:18:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000015-01",
+    "submission_id": "SUB-2026-000015",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 60.0,
+    "matched_reference": "Reference-015",
+    "report_date": "2026-01-23T12:53:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000016-01",
+    "submission_id": "SUB-2026-000016",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 66.0,
+    "matched_reference": "Reference-016",
+    "report_date": "2026-08-20T13:09:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000017-01",
+    "submission_id": "SUB-2026-000017",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 55.0,
+    "matched_reference": "Reference-017",
+    "report_date": "2026-01-16T18:39:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000018-01",
+    "submission_id": "SUB-2026-000018",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 46.0,
+    "matched_reference": "Reference-018",
+    "report_date": "2026-07-26T10:49:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000019-01",
+    "submission_id": "SUB-2026-000019",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 52.0,
+    "matched_reference": "Reference-019",
+    "report_date": "2026-09-01T11:55:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000020-01",
+    "submission_id": "SUB-2026-000020",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 58.0,
+    "matched_reference": "Reference-020",
+    "report_date": "2026-07-24T16:52:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000021-01",
+    "submission_id": "SUB-2026-000021",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 49.0,
+    "matched_reference": "Reference-021",
+    "report_date": "2026-04-16T11:29:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000022-01",
+    "submission_id": "SUB-2026-000022",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 55.0,
+    "matched_reference": "Reference-022",
+    "report_date": "2026-04-15T14:11:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000023-01",
+    "submission_id": "SUB-2026-000023",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 61.0,
+    "matched_reference": "Reference-023",
+    "report_date": "2026-05-31T13:45:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000024-01",
+    "submission_id": "SUB-2026-000024",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 52.0,
+    "matched_reference": "Reference-024",
+    "report_date": "2026-03-13T11:15:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000025-01",
+    "submission_id": "SUB-2026-000025",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 58.0,
+    "matched_reference": "Reference-025",
+    "report_date": "2026-02-06T18:53:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000026-01",
+    "submission_id": "SUB-2026-000026",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 64.0,
+    "matched_reference": "Reference-026",
+    "report_date": "2026-04-03T12:00:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000027-01",
+    "submission_id": "SUB-2026-000027",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 55.0,
+    "matched_reference": "Reference-027",
+    "report_date": "2026-01-28T18:04:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000028-01",
+    "submission_id": "SUB-2026-000028",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 61.0,
+    "matched_reference": "Reference-028",
+    "report_date": "2026-08-14T12:55:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000029-01",
+    "submission_id": "SUB-2026-000029",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 67.0,
+    "matched_reference": "Reference-029",
+    "report_date": "2026-02-22T16:00:00",
+    "flag_status": "Review Required"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000030-01",
+    "submission_id": "SUB-2026-000030",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 58.0,
+    "matched_reference": "Reference-030",
+    "report_date": "2026-07-21T18:22:00",
+    "flag_status": "High Priority"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000031-01",
+    "submission_id": "SUB-2026-000031",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 28.0,
+    "matched_reference": "Reference-031",
+    "report_date": "2026-06-27T14:58:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000032-01",
+    "submission_id": "SUB-2026-000032",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 32.0,
+    "matched_reference": "Reference-032",
+    "report_date": "2026-07-18T13:11:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000033-01",
+    "submission_id": "SUB-2026-000033",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 21.0,
+    "matched_reference": "Reference-033",
+    "report_date": "2026-06-02T16:58:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000034-01",
+    "submission_id": "SUB-2026-000034",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 25.0,
+    "matched_reference": "Reference-034",
+    "report_date": "2026-06-30T09:09:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000035-01",
+    "submission_id": "SUB-2026-000035",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 29.0,
+    "matched_reference": "Reference-035",
+    "report_date": "2026-06-06T09:55:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000036-01",
+    "submission_id": "SUB-2026-000036",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 18.0,
+    "matched_reference": "Reference-036",
+    "report_date": "2026-07-09T09:46:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000037-01",
+    "submission_id": "SUB-2026-000037",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 22.0,
+    "matched_reference": "Reference-037",
+    "report_date": "2026-06-23T11:04:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000038-01",
+    "submission_id": "SUB-2026-000038",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 26.0,
+    "matched_reference": "Reference-038",
+    "report_date": "2026-01-20T15:55:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000039-01",
+    "submission_id": "SUB-2026-000039",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 15.0,
+    "matched_reference": "Reference-039",
+    "report_date": "2026-05-26T15:56:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000040-01",
+    "submission_id": "SUB-2026-000040",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 19.0,
+    "matched_reference": "Reference-040",
+    "report_date": "2026-05-25T11:44:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000041-01",
+    "submission_id": "SUB-2026-000041",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 23.0,
+    "matched_reference": "Reference-041",
+    "report_date": "2026-05-10T16:09:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000042-01",
+    "submission_id": "SUB-2026-000042",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 12.0,
+    "matched_reference": "Reference-042",
+    "report_date": "2026-02-07T11:41:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000043-01",
+    "submission_id": "SUB-2026-000043",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 16.0,
+    "matched_reference": "Reference-043",
+    "report_date": "2026-07-07T09:29:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000044-01",
+    "submission_id": "SUB-2026-000044",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 20.0,
+    "matched_reference": "Reference-044",
+    "report_date": "2026-01-06T17:44:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000045-01",
+    "submission_id": "SUB-2026-000045",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 24.0,
+    "matched_reference": "Reference-045",
+    "report_date": "2026-02-18T16:20:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000046-01",
+    "submission_id": "SUB-2026-000046",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 28.0,
+    "matched_reference": "Reference-046",
+    "report_date": "2026-08-19T11:01:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000047-01",
+    "submission_id": "SUB-2026-000047",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 32.0,
+    "matched_reference": "Reference-047",
+    "report_date": "2026-04-08T19:33:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000048-01",
+    "submission_id": "SUB-2026-000048",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 21.0,
+    "matched_reference": "Reference-048",
+    "report_date": "2026-08-16T10:55:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000049-01",
+    "submission_id": "SUB-2026-000049",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 25.0,
+    "matched_reference": "Reference-049",
+    "report_date": "2026-08-24T14:06:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000050-01",
+    "submission_id": "SUB-2026-000050",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 29.0,
+    "matched_reference": "Reference-050",
+    "report_date": "2026-02-13T09:35:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000051-01",
+    "submission_id": "SUB-2026-000051",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 18.0,
+    "matched_reference": "Reference-001",
+    "report_date": "2026-01-25T18:39:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000052-01",
+    "submission_id": "SUB-2026-000052",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 22.0,
+    "matched_reference": "Reference-002",
+    "report_date": "2026-06-24T09:41:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000053-01",
+    "submission_id": "SUB-2026-000053",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 26.0,
+    "matched_reference": "Reference-003",
+    "report_date": "2026-07-12T18:03:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000054-01",
+    "submission_id": "SUB-2026-000054",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 15.0,
+    "matched_reference": "Reference-004",
+    "report_date": "2026-04-08T13:37:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000055-01",
+    "submission_id": "SUB-2026-000055",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 19.0,
+    "matched_reference": "Reference-005",
+    "report_date": "2026-06-18T16:48:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000056-01",
+    "submission_id": "SUB-2026-000056",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 23.0,
+    "matched_reference": "Reference-006",
+    "report_date": "2026-04-19T10:06:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000057-01",
+    "submission_id": "SUB-2026-000057",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 12.0,
+    "matched_reference": "Reference-007",
+    "report_date": "2026-03-29T18:37:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000058-01",
+    "submission_id": "SUB-2026-000058",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 16.0,
+    "matched_reference": "Reference-008",
+    "report_date": "2026-01-17T12:24:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000059-01",
+    "submission_id": "SUB-2026-000059",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 20.0,
+    "matched_reference": "Reference-009",
+    "report_date": "2026-04-18T12:27:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000060-01",
+    "submission_id": "SUB-2026-000060",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 24.0,
+    "matched_reference": "Reference-010",
+    "report_date": "2026-07-07T16:06:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000061-01",
+    "submission_id": "SUB-2026-000061",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 28.0,
+    "matched_reference": "Reference-011",
+    "report_date": "2026-03-03T18:31:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000062-01",
+    "submission_id": "SUB-2026-000062",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 32.0,
+    "matched_reference": "Reference-012",
+    "report_date": "2026-06-08T13:31:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000063-01",
+    "submission_id": "SUB-2026-000063",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 21.0,
+    "matched_reference": "Reference-013",
+    "report_date": "2026-04-24T18:34:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000064-01",
+    "submission_id": "SUB-2026-000064",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 25.0,
+    "matched_reference": "Reference-014",
+    "report_date": "2026-04-26T12:20:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000065-01",
+    "submission_id": "SUB-2026-000065",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 29.0,
+    "matched_reference": "Reference-015",
+    "report_date": "2026-05-20T19:07:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000066-01",
+    "submission_id": "SUB-2026-000066",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 18.0,
+    "matched_reference": "Reference-016",
+    "report_date": "2026-02-18T16:21:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000067-01",
+    "submission_id": "SUB-2026-000067",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 22.0,
+    "matched_reference": "Reference-017",
+    "report_date": "2026-04-08T12:16:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000068-01",
+    "submission_id": "SUB-2026-000068",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 26.0,
+    "matched_reference": "Reference-018",
+    "report_date": "2026-07-31T17:51:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000069-01",
+    "submission_id": "SUB-2026-000069",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 15.0,
+    "matched_reference": "Reference-019",
+    "report_date": "2026-01-01T19:35:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000070-01",
+    "submission_id": "SUB-2026-000070",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 19.0,
+    "matched_reference": "Reference-020",
+    "report_date": "2026-07-28T17:40:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000071-01",
+    "submission_id": "SUB-2026-000071",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 23.0,
+    "matched_reference": "Reference-021",
+    "report_date": "2026-06-07T19:41:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000072-01",
+    "submission_id": "SUB-2026-000072",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 12.0,
+    "matched_reference": "Reference-022",
+    "report_date": "2026-01-26T18:42:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000073-01",
+    "submission_id": "SUB-2026-000073",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 16.0,
+    "matched_reference": "Reference-023",
+    "report_date": "2026-04-02T14:57:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000074-01",
+    "submission_id": "SUB-2026-000074",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 20.0,
+    "matched_reference": "Reference-024",
+    "report_date": "2026-06-03T15:27:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000075-01",
+    "submission_id": "SUB-2026-000075",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 24.0,
+    "matched_reference": "Reference-025",
+    "report_date": "2026-08-19T15:15:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000076-01",
+    "submission_id": "SUB-2026-000076",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 28.0,
+    "matched_reference": "Reference-026",
+    "report_date": "2026-06-20T17:52:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000077-01",
+    "submission_id": "SUB-2026-000077",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 32.0,
+    "matched_reference": "Reference-027",
+    "report_date": "2026-08-09T10:11:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000078-01",
+    "submission_id": "SUB-2026-000078",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 21.0,
+    "matched_reference": "Reference-028",
+    "report_date": "2026-08-04T11:27:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000079-01",
+    "submission_id": "SUB-2026-000079",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 25.0,
+    "matched_reference": "Reference-029",
+    "report_date": "2026-05-02T12:43:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000080-01",
+    "submission_id": "SUB-2026-000080",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 29.0,
+    "matched_reference": "Reference-030",
+    "report_date": "2026-03-13T12:17:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000081-01",
+    "submission_id": "SUB-2026-000081",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 18.0,
+    "matched_reference": "Reference-031",
+    "report_date": "2026-07-08T09:36:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000082-01",
+    "submission_id": "SUB-2026-000082",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 22.0,
+    "matched_reference": "Reference-032",
+    "report_date": "2026-02-15T19:55:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000083-01",
+    "submission_id": "SUB-2026-000083",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 26.0,
+    "matched_reference": "Reference-033",
+    "report_date": "2026-08-06T11:31:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000084-01",
+    "submission_id": "SUB-2026-000084",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 15.0,
+    "matched_reference": "Reference-034",
+    "report_date": "2026-03-01T15:12:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000085-01",
+    "submission_id": "SUB-2026-000085",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 19.0,
+    "matched_reference": "Reference-035",
+    "report_date": "2026-02-02T16:15:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000086-01",
+    "submission_id": "SUB-2026-000086",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 23.0,
+    "matched_reference": "Reference-036",
+    "report_date": "2026-08-15T12:04:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000087-01",
+    "submission_id": "SUB-2026-000087",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 12.0,
+    "matched_reference": "Reference-037",
+    "report_date": "2026-08-03T12:47:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000088-01",
+    "submission_id": "SUB-2026-000088",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 16.0,
+    "matched_reference": "Reference-038",
+    "report_date": "2026-04-28T17:03:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000089-01",
+    "submission_id": "SUB-2026-000089",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 20.0,
+    "matched_reference": "Reference-039",
+    "report_date": "2026-08-27T10:16:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000090-01",
+    "submission_id": "SUB-2026-000090",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 24.0,
+    "matched_reference": "Reference-040",
+    "report_date": "2026-01-01T13:01:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000091-01",
+    "submission_id": "SUB-2026-000091",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 28.0,
+    "matched_reference": "Reference-041",
+    "report_date": "2026-01-09T10:56:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000092-01",
+    "submission_id": "SUB-2026-000092",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 32.0,
+    "matched_reference": "Reference-042",
+    "report_date": "2026-08-28T11:00:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000093-01",
+    "submission_id": "SUB-2026-000093",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 21.0,
+    "matched_reference": "Reference-043",
+    "report_date": "2026-05-28T09:09:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000094-01",
+    "submission_id": "SUB-2026-000094",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 25.0,
+    "matched_reference": "Reference-044",
+    "report_date": "2026-06-07T16:03:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000095-01",
+    "submission_id": "SUB-2026-000095",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 29.0,
+    "matched_reference": "Reference-045",
+    "report_date": "2026-05-17T18:54:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000096-01",
+    "submission_id": "SUB-2026-000096",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 18.0,
+    "matched_reference": "Reference-046",
+    "report_date": "2026-02-09T16:15:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000097-01",
+    "submission_id": "SUB-2026-000097",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 22.0,
+    "matched_reference": "Reference-047",
+    "report_date": "2026-06-22T18:01:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000098-01",
+    "submission_id": "SUB-2026-000098",
+    "rule_id": "INT-2026-000002",
+    "similarity_score": 26.0,
+    "matched_reference": "Reference-048",
+    "report_date": "2026-06-21T19:42:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000099-01",
+    "submission_id": "SUB-2026-000099",
+    "rule_id": "INT-2026-000003",
+    "similarity_score": 15.0,
+    "matched_reference": "Reference-049",
+    "report_date": "2026-06-25T11:12:00",
+    "flag_status": "Not Flagged"
+  },
+  {
+    "report_id": "SIM-SUB-2026-000100-01",
+    "submission_id": "SUB-2026-000100",
+    "rule_id": "INT-2026-000001",
+    "similarity_score": 19.0,
+    "matched_reference": "Reference-050",
+    "report_date": "2026-03-03T19:15:00",
+    "flag_status": "Not Flagged"
+  }
+]

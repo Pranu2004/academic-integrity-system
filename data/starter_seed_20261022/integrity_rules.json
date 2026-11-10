@@ -1,0 +1,26 @@
+[
+  {
+    "rule_id": "INT-2026-000001",
+    "rule_name": "Standard Similarity Review",
+    "review_threshold": 30.0,
+    "high_priority_threshold": 60.0,
+    "effective_from": "2026-01-01",
+    "active": 1
+  },
+  {
+    "rule_id": "INT-2026-000002",
+    "rule_name": "Programming Similarity Review",
+    "review_threshold": 35.0,
+    "high_priority_threshold": 70.0,
+    "effective_from": "2026-01-01",
+    "active": 1
+  },
+  {
+    "rule_id": "INT-2026-000003",
+    "rule_name": "Written Assignment Review",
+    "review_threshold": 25.0,
+    "high_priority_threshold": 55.0,
+    "effective_from": "2026-01-01",
+    "active": 1
+  }
+]

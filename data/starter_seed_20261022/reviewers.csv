@@ -1,0 +1,7 @@
+reviewer_id,name,role,department,available
+REV-001,Reviewer 1,Instructor,CSE,1
+REV-002,Reviewer 2,Administrator,AIML,1
+REV-003,Reviewer 3,Support,ECE,1
+REV-004,Reviewer 4,Instructor,IT,1
+REV-005,Reviewer 5,Administrator,CSE,1
+REV-006,Reviewer 6,Support,AIML,1

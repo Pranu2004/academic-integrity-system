@@ -1,0 +1,142 @@
+[
+  {
+    "assessment_id": "ASM-001",
+    "title": "Assessment 1",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 2"
+  },
+  {
+    "assessment_id": "ASM-002",
+    "title": "Assessment 2",
+    "subject": "Networks",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 3"
+  },
+  {
+    "assessment_id": "ASM-003",
+    "title": "Assessment 3",
+    "subject": "Python",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 4"
+  },
+  {
+    "assessment_id": "ASM-004",
+    "title": "Assessment 4",
+    "subject": "Networks",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 5"
+  },
+  {
+    "assessment_id": "ASM-005",
+    "title": "Assessment 5",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 6"
+  },
+  {
+    "assessment_id": "ASM-006",
+    "title": "Assessment 6",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 7"
+  },
+  {
+    "assessment_id": "ASM-007",
+    "title": "Assessment 7",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 8"
+  },
+  {
+    "assessment_id": "ASM-008",
+    "title": "Assessment 8",
+    "subject": "Networks",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 9"
+  },
+  {
+    "assessment_id": "ASM-009",
+    "title": "Assessment 9",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 10"
+  },
+  {
+    "assessment_id": "ASM-010",
+    "title": "Assessment 10",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 1"
+  },
+  {
+    "assessment_id": "ASM-011",
+    "title": "Assessment 11",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 2"
+  },
+  {
+    "assessment_id": "ASM-012",
+    "title": "Assessment 12",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 3"
+  },
+  {
+    "assessment_id": "ASM-013",
+    "title": "Assessment 13",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 4"
+  },
+  {
+    "assessment_id": "ASM-014",
+    "title": "Assessment 14",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 5"
+  },
+  {
+    "assessment_id": "ASM-015",
+    "title": "Assessment 15",
+    "subject": "Networks",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 6"
+  },
+  {
+    "assessment_id": "ASM-016",
+    "title": "Assessment 16",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 7"
+  },
+  {
+    "assessment_id": "ASM-017",
+    "title": "Assessment 17",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 8"
+  },
+  {
+    "assessment_id": "ASM-018",
+    "title": "Assessment 18",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 9"
+  },
+  {
+    "assessment_id": "ASM-019",
+    "title": "Assessment 19",
+    "subject": "Networks",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 10"
+  },
+  {
+    "assessment_id": "ASM-020",
+    "title": "Assessment 20",
+    "subject": "Python",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 1"
+  }
+]

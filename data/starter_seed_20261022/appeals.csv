@@ -1,0 +1,4 @@
+appeal_id,case_id,original_decision_id,independent_reviewer_id,reason,status,outcome_reason,submitted_at,reviewed_at
+APL-CASE-2026-000001-01,CASE-2026-000001,DEC-2026-000001,REV-001,Synthetic appeal requesting independent review,Accepted,Independent reviewer evaluated the recorded evidence and rationale.,2026-08-10T21:51:00,2026-08-10T22:51:00
+APL-CASE-2026-000002-01,CASE-2026-000002,DEC-2026-000002,REV-004,Synthetic appeal requesting independent review,Rejected,Independent reviewer evaluated the recorded evidence and rationale.,2026-03-16T18:53:00,2026-03-16T19:53:00
+APL-CASE-2026-000003-01,CASE-2026-000003,DEC-2026-000003,REV-003,Synthetic appeal requesting independent review,Rejected,Independent reviewer evaluated the recorded evidence and rationale.,2026-07-24T15:35:00,2026-07-24T16:35:00

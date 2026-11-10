@@ -1,0 +1,1922 @@
+[
+  {
+    "decision_id": "DEC-2026-000001",
+    "case_id": "CASE-2026-000001",
+    "reviewer_id": "REV-002",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-11T20:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000002",
+    "case_id": "CASE-2026-000002",
+    "reviewer_id": "REV-002",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-07T15:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000003",
+    "case_id": "CASE-2026-000003",
+    "reviewer_id": "REV-003",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-22T16:15:00"
+  },
+  {
+    "decision_id": "DEC-2026-000004",
+    "case_id": "CASE-2026-000004",
+    "reviewer_id": "REV-006",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-16T14:02:00"
+  },
+  {
+    "decision_id": "DEC-2026-000005",
+    "case_id": "CASE-2026-000005",
+    "reviewer_id": "REV-007",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-28T16:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000006",
+    "case_id": "CASE-2026-000006",
+    "reviewer_id": "REV-008",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-02T20:52:00"
+  },
+  {
+    "decision_id": "DEC-2026-000007",
+    "case_id": "CASE-2026-000007",
+    "reviewer_id": "REV-009",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-13T21:31:00"
+  },
+  {
+    "decision_id": "DEC-2026-000008",
+    "case_id": "CASE-2026-000008",
+    "reviewer_id": "REV-010",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-10T15:31:00"
+  },
+  {
+    "decision_id": "DEC-2026-000009",
+    "case_id": "CASE-2026-000009",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-25T20:47:00"
+  },
+  {
+    "decision_id": "DEC-2026-000010",
+    "case_id": "CASE-2026-000010",
+    "reviewer_id": "REV-013",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-21T20:20:00"
+  },
+  {
+    "decision_id": "DEC-2026-000011",
+    "case_id": "CASE-2026-000011",
+    "reviewer_id": "REV-014",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-31T14:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000012",
+    "case_id": "CASE-2026-000012",
+    "reviewer_id": "REV-016",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-30T12:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000013",
+    "case_id": "CASE-2026-000013",
+    "reviewer_id": "REV-017",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-21T18:25:00"
+  },
+  {
+    "decision_id": "DEC-2026-000014",
+    "case_id": "CASE-2026-000014",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-01T21:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000015",
+    "case_id": "CASE-2026-000015",
+    "reviewer_id": "REV-020",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-01T13:07:00"
+  },
+  {
+    "decision_id": "DEC-2026-000016",
+    "case_id": "CASE-2026-000016",
+    "reviewer_id": "REV-021",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-22T17:48:00"
+  },
+  {
+    "decision_id": "DEC-2026-000017",
+    "case_id": "CASE-2026-000017",
+    "reviewer_id": "REV-022",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-24T13:36:00"
+  },
+  {
+    "decision_id": "DEC-2026-000018",
+    "case_id": "CASE-2026-000018",
+    "reviewer_id": "REV-024",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-18T11:48:00"
+  },
+  {
+    "decision_id": "DEC-2026-000019",
+    "case_id": "CASE-2026-000019",
+    "reviewer_id": "REV-025",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-17T11:35:00"
+  },
+  {
+    "decision_id": "DEC-2026-000020",
+    "case_id": "CASE-2026-000020",
+    "reviewer_id": "REV-027",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-13T11:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000021",
+    "case_id": "CASE-2026-000021",
+    "reviewer_id": "REV-028",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-10T17:40:00"
+  },
+  {
+    "decision_id": "DEC-2026-000022",
+    "case_id": "CASE-2026-000022",
+    "reviewer_id": "REV-029",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-22T17:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000023",
+    "case_id": "CASE-2026-000023",
+    "reviewer_id": "REV-030",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-22T21:40:00"
+  },
+  {
+    "decision_id": "DEC-2026-000024",
+    "case_id": "CASE-2026-000024",
+    "reviewer_id": "REV-003",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-27T21:58:00"
+  },
+  {
+    "decision_id": "DEC-2026-000025",
+    "case_id": "CASE-2026-000025",
+    "reviewer_id": "REV-004",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-08T18:24:00"
+  },
+  {
+    "decision_id": "DEC-2026-000026",
+    "case_id": "CASE-2026-000026",
+    "reviewer_id": "REV-006",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-05T11:32:00"
+  },
+  {
+    "decision_id": "DEC-2026-000027",
+    "case_id": "CASE-2026-000027",
+    "reviewer_id": "REV-007",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-07T15:16:00"
+  },
+  {
+    "decision_id": "DEC-2026-000028",
+    "case_id": "CASE-2026-000028",
+    "reviewer_id": "REV-006",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-27T21:02:00"
+  },
+  {
+    "decision_id": "DEC-2026-000029",
+    "case_id": "CASE-2026-000029",
+    "reviewer_id": "REV-009",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-31T12:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000030",
+    "case_id": "CASE-2026-000030",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-26T15:50:00"
+  },
+  {
+    "decision_id": "DEC-2026-000031",
+    "case_id": "CASE-2026-000031",
+    "reviewer_id": "REV-012",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-17T17:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000032",
+    "case_id": "CASE-2026-000032",
+    "reviewer_id": "REV-012",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-24T20:25:00"
+  },
+  {
+    "decision_id": "DEC-2026-000033",
+    "case_id": "CASE-2026-000033",
+    "reviewer_id": "REV-015",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-14T17:58:00"
+  },
+  {
+    "decision_id": "DEC-2026-000034",
+    "case_id": "CASE-2026-000034",
+    "reviewer_id": "REV-016",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-20T17:59:00"
+  },
+  {
+    "decision_id": "DEC-2026-000035",
+    "case_id": "CASE-2026-000035",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-08T11:30:00"
+  },
+  {
+    "decision_id": "DEC-2026-000036",
+    "case_id": "CASE-2026-000036",
+    "reviewer_id": "REV-017",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-22T16:04:00"
+  },
+  {
+    "decision_id": "DEC-2026-000037",
+    "case_id": "CASE-2026-000037",
+    "reviewer_id": "REV-018",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-24T16:54:00"
+  },
+  {
+    "decision_id": "DEC-2026-000038",
+    "case_id": "CASE-2026-000038",
+    "reviewer_id": "REV-021",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-07T21:30:00"
+  },
+  {
+    "decision_id": "DEC-2026-000039",
+    "case_id": "CASE-2026-000039",
+    "reviewer_id": "REV-021",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-16T19:42:00"
+  },
+  {
+    "decision_id": "DEC-2026-000040",
+    "case_id": "CASE-2026-000040",
+    "reviewer_id": "REV-024",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-10T21:45:00"
+  },
+  {
+    "decision_id": "DEC-2026-000041",
+    "case_id": "CASE-2026-000041",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-26T13:17:00"
+  },
+  {
+    "decision_id": "DEC-2026-000042",
+    "case_id": "CASE-2026-000042",
+    "reviewer_id": "REV-025",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-30T12:15:00"
+  },
+  {
+    "decision_id": "DEC-2026-000043",
+    "case_id": "CASE-2026-000043",
+    "reviewer_id": "REV-026",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-16T16:28:00"
+  },
+  {
+    "decision_id": "DEC-2026-000044",
+    "case_id": "CASE-2026-000044",
+    "reviewer_id": "REV-027",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-11T11:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000045",
+    "case_id": "CASE-2026-000045",
+    "reviewer_id": "REV-029",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-09-05T16:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000046",
+    "case_id": "CASE-2026-000046",
+    "reviewer_id": "REV-003",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-21T16:11:00"
+  },
+  {
+    "decision_id": "DEC-2026-000047",
+    "case_id": "CASE-2026-000047",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-20T18:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000048",
+    "case_id": "CASE-2026-000048",
+    "reviewer_id": "REV-006",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-13T17:59:00"
+  },
+  {
+    "decision_id": "DEC-2026-000049",
+    "case_id": "CASE-2026-000049",
+    "reviewer_id": "REV-004",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-27T17:01:00"
+  },
+  {
+    "decision_id": "DEC-2026-000050",
+    "case_id": "CASE-2026-000050",
+    "reviewer_id": "REV-008",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-09T14:02:00"
+  },
+  {
+    "decision_id": "DEC-2026-000051",
+    "case_id": "CASE-2026-000051",
+    "reviewer_id": "REV-009",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-31T12:27:00"
+  },
+  {
+    "decision_id": "DEC-2026-000052",
+    "case_id": "CASE-2026-000052",
+    "reviewer_id": "REV-007",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-22T21:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000053",
+    "case_id": "CASE-2026-000053",
+    "reviewer_id": "REV-012",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-10T16:07:00"
+  },
+  {
+    "decision_id": "DEC-2026-000054",
+    "case_id": "CASE-2026-000054",
+    "reviewer_id": "REV-014",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-23T13:36:00"
+  },
+  {
+    "decision_id": "DEC-2026-000055",
+    "case_id": "CASE-2026-000055",
+    "reviewer_id": "REV-011",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-31T18:02:00"
+  },
+  {
+    "decision_id": "DEC-2026-000056",
+    "case_id": "CASE-2026-000056",
+    "reviewer_id": "REV-016",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-13T14:11:00"
+  },
+  {
+    "decision_id": "DEC-2026-000057",
+    "case_id": "CASE-2026-000057",
+    "reviewer_id": "REV-017",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-18T12:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000058",
+    "case_id": "CASE-2026-000058",
+    "reviewer_id": "REV-019",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-15T17:52:00"
+  },
+  {
+    "decision_id": "DEC-2026-000059",
+    "case_id": "CASE-2026-000059",
+    "reviewer_id": "REV-020",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-10T17:27:00"
+  },
+  {
+    "decision_id": "DEC-2026-000060",
+    "case_id": "CASE-2026-000060",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-24T12:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000061",
+    "case_id": "CASE-2026-000061",
+    "reviewer_id": "REV-020",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-28T18:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000062",
+    "case_id": "CASE-2026-000062",
+    "reviewer_id": "REV-021",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-09T20:14:00"
+  },
+  {
+    "decision_id": "DEC-2026-000063",
+    "case_id": "CASE-2026-000063",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-19T11:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000064",
+    "case_id": "CASE-2026-000064",
+    "reviewer_id": "REV-027",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-15T15:22:00"
+  },
+  {
+    "decision_id": "DEC-2026-000065",
+    "case_id": "CASE-2026-000065",
+    "reviewer_id": "REV-025",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-30T11:27:00"
+  },
+  {
+    "decision_id": "DEC-2026-000066",
+    "case_id": "CASE-2026-000066",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-18T12:50:00"
+  },
+  {
+    "decision_id": "DEC-2026-000067",
+    "case_id": "CASE-2026-000067",
+    "reviewer_id": "REV-028",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-02T12:51:00"
+  },
+  {
+    "decision_id": "DEC-2026-000068",
+    "case_id": "CASE-2026-000068",
+    "reviewer_id": "REV-003",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-08T20:25:00"
+  },
+  {
+    "decision_id": "DEC-2026-000069",
+    "case_id": "CASE-2026-000069",
+    "reviewer_id": "REV-030",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-28T20:41:00"
+  },
+  {
+    "decision_id": "DEC-2026-000070",
+    "case_id": "CASE-2026-000070",
+    "reviewer_id": "REV-005",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-18T16:21:00"
+  },
+  {
+    "decision_id": "DEC-2026-000071",
+    "case_id": "CASE-2026-000071",
+    "reviewer_id": "REV-002",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-26T21:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000072",
+    "case_id": "CASE-2026-000072",
+    "reviewer_id": "REV-008",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-21T21:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000073",
+    "case_id": "CASE-2026-000073",
+    "reviewer_id": "REV-009",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-29T12:28:00"
+  },
+  {
+    "decision_id": "DEC-2026-000074",
+    "case_id": "CASE-2026-000074",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-09T11:24:00"
+  },
+  {
+    "decision_id": "DEC-2026-000075",
+    "case_id": "CASE-2026-000075",
+    "reviewer_id": "REV-012",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-14T17:23:00"
+  },
+  {
+    "decision_id": "DEC-2026-000076",
+    "case_id": "CASE-2026-000076",
+    "reviewer_id": "REV-014",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-10T18:13:00"
+  },
+  {
+    "decision_id": "DEC-2026-000077",
+    "case_id": "CASE-2026-000077",
+    "reviewer_id": "REV-010",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-04T17:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000078",
+    "case_id": "CASE-2026-000078",
+    "reviewer_id": "REV-012",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-13T13:52:00"
+  },
+  {
+    "decision_id": "DEC-2026-000079",
+    "case_id": "CASE-2026-000079",
+    "reviewer_id": "REV-018",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-24T21:11:00"
+  },
+  {
+    "decision_id": "DEC-2026-000080",
+    "case_id": "CASE-2026-000080",
+    "reviewer_id": "REV-019",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-19T17:38:00"
+  },
+  {
+    "decision_id": "DEC-2026-000081",
+    "case_id": "CASE-2026-000081",
+    "reviewer_id": "REV-020",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-01T13:23:00"
+  },
+  {
+    "decision_id": "DEC-2026-000082",
+    "case_id": "CASE-2026-000082",
+    "reviewer_id": "REV-017",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-19T21:16:00"
+  },
+  {
+    "decision_id": "DEC-2026-000083",
+    "case_id": "CASE-2026-000083",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-16T21:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000084",
+    "case_id": "CASE-2026-000084",
+    "reviewer_id": "REV-019",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-24T13:28:00"
+  },
+  {
+    "decision_id": "DEC-2026-000085",
+    "case_id": "CASE-2026-000085",
+    "reviewer_id": "REV-025",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-03T18:07:00"
+  },
+  {
+    "decision_id": "DEC-2026-000086",
+    "case_id": "CASE-2026-000086",
+    "reviewer_id": "REV-027",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-17T14:38:00"
+  },
+  {
+    "decision_id": "DEC-2026-000087",
+    "case_id": "CASE-2026-000087",
+    "reviewer_id": "REV-028",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-14T21:18:00"
+  },
+  {
+    "decision_id": "DEC-2026-000088",
+    "case_id": "CASE-2026-000088",
+    "reviewer_id": "REV-025",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-16T20:54:00"
+  },
+  {
+    "decision_id": "DEC-2026-000089",
+    "case_id": "CASE-2026-000089",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-12T12:00:00"
+  },
+  {
+    "decision_id": "DEC-2026-000090",
+    "case_id": "CASE-2026-000090",
+    "reviewer_id": "REV-028",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-30T21:41:00"
+  },
+  {
+    "decision_id": "DEC-2026-000091",
+    "case_id": "CASE-2026-000091",
+    "reviewer_id": "REV-029",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-11T17:16:00"
+  },
+  {
+    "decision_id": "DEC-2026-000092",
+    "case_id": "CASE-2026-000092",
+    "reviewer_id": "REV-006",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-16T18:00:00"
+  },
+  {
+    "decision_id": "DEC-2026-000093",
+    "case_id": "CASE-2026-000093",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-22T19:19:00"
+  },
+  {
+    "decision_id": "DEC-2026-000094",
+    "case_id": "CASE-2026-000094",
+    "reviewer_id": "REV-008",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-25T13:04:00"
+  },
+  {
+    "decision_id": "DEC-2026-000095",
+    "case_id": "CASE-2026-000095",
+    "reviewer_id": "REV-009",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-27T20:35:00"
+  },
+  {
+    "decision_id": "DEC-2026-000096",
+    "case_id": "CASE-2026-000096",
+    "reviewer_id": "REV-005",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-02T14:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000097",
+    "case_id": "CASE-2026-000097",
+    "reviewer_id": "REV-012",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-25T13:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000098",
+    "case_id": "CASE-2026-000098",
+    "reviewer_id": "REV-007",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-28T11:50:00"
+  },
+  {
+    "decision_id": "DEC-2026-000099",
+    "case_id": "CASE-2026-000099",
+    "reviewer_id": "REV-015",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-21T14:53:00"
+  },
+  {
+    "decision_id": "DEC-2026-000100",
+    "case_id": "CASE-2026-000100",
+    "reviewer_id": "REV-016",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-28T19:37:00"
+  },
+  {
+    "decision_id": "DEC-2026-000101",
+    "case_id": "CASE-2026-000101",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-12T14:57:00"
+  },
+  {
+    "decision_id": "DEC-2026-000102",
+    "case_id": "CASE-2026-000102",
+    "reviewer_id": "REV-013",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-28T13:09:00"
+  },
+  {
+    "decision_id": "DEC-2026-000103",
+    "case_id": "CASE-2026-000103",
+    "reviewer_id": "REV-020",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-30T17:48:00"
+  },
+  {
+    "decision_id": "DEC-2026-000104",
+    "case_id": "CASE-2026-000104",
+    "reviewer_id": "REV-022",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-15T17:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000105",
+    "case_id": "CASE-2026-000105",
+    "reviewer_id": "REV-023",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-17T14:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000106",
+    "case_id": "CASE-2026-000106",
+    "reviewer_id": "REV-024",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-22T11:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000107",
+    "case_id": "CASE-2026-000107",
+    "reviewer_id": "REV-019",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-18T19:37:00"
+  },
+  {
+    "decision_id": "DEC-2026-000108",
+    "case_id": "CASE-2026-000108",
+    "reviewer_id": "REV-021",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-24T11:45:00"
+  },
+  {
+    "decision_id": "DEC-2026-000109",
+    "case_id": "CASE-2026-000109",
+    "reviewer_id": "REV-022",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-05T14:16:00"
+  },
+  {
+    "decision_id": "DEC-2026-000110",
+    "case_id": "CASE-2026-000110",
+    "reviewer_id": "REV-024",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-23T11:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000111",
+    "case_id": "CASE-2026-000111",
+    "reviewer_id": "REV-025",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-18T19:49:00"
+  },
+  {
+    "decision_id": "DEC-2026-000112",
+    "case_id": "CASE-2026-000112",
+    "reviewer_id": "REV-003",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-16T17:42:00"
+  },
+  {
+    "decision_id": "DEC-2026-000113",
+    "case_id": "CASE-2026-000113",
+    "reviewer_id": "REV-004",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-22T13:51:00"
+  },
+  {
+    "decision_id": "DEC-2026-000114",
+    "case_id": "CASE-2026-000114",
+    "reviewer_id": "REV-029",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-15T13:49:00"
+  },
+  {
+    "decision_id": "DEC-2026-000115",
+    "case_id": "CASE-2026-000115",
+    "reviewer_id": "REV-030",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-11T17:23:00"
+  },
+  {
+    "decision_id": "DEC-2026-000116",
+    "case_id": "CASE-2026-000116",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-10T13:27:00"
+  },
+  {
+    "decision_id": "DEC-2026-000117",
+    "case_id": "CASE-2026-000117",
+    "reviewer_id": "REV-009",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-15T21:38:00"
+  },
+  {
+    "decision_id": "DEC-2026-000118",
+    "case_id": "CASE-2026-000118",
+    "reviewer_id": "REV-011",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-01T18:41:00"
+  },
+  {
+    "decision_id": "DEC-2026-000119",
+    "case_id": "CASE-2026-000119",
+    "reviewer_id": "REV-005",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-02T21:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000120",
+    "case_id": "CASE-2026-000120",
+    "reviewer_id": "REV-006",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-31T19:05:00"
+  },
+  {
+    "decision_id": "DEC-2026-000121",
+    "case_id": "CASE-2026-000121",
+    "reviewer_id": "REV-007",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-05T18:13:00"
+  },
+  {
+    "decision_id": "DEC-2026-000122",
+    "case_id": "CASE-2026-000122",
+    "reviewer_id": "REV-009",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-01T17:28:00"
+  },
+  {
+    "decision_id": "DEC-2026-000123",
+    "case_id": "CASE-2026-000123",
+    "reviewer_id": "REV-010",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-30T13:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000124",
+    "case_id": "CASE-2026-000124",
+    "reviewer_id": "REV-019",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-25T15:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000125",
+    "case_id": "CASE-2026-000125",
+    "reviewer_id": "REV-013",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-13T19:53:00"
+  },
+  {
+    "decision_id": "DEC-2026-000126",
+    "case_id": "CASE-2026-000126",
+    "reviewer_id": "REV-014",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-20T21:37:00"
+  },
+  {
+    "decision_id": "DEC-2026-000127",
+    "case_id": "CASE-2026-000127",
+    "reviewer_id": "REV-015",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-15T12:05:00"
+  },
+  {
+    "decision_id": "DEC-2026-000128",
+    "case_id": "CASE-2026-000128",
+    "reviewer_id": "REV-024",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-05T11:13:00"
+  },
+  {
+    "decision_id": "DEC-2026-000129",
+    "case_id": "CASE-2026-000129",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-01T20:31:00"
+  },
+  {
+    "decision_id": "DEC-2026-000130",
+    "case_id": "CASE-2026-000130",
+    "reviewer_id": "REV-027",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-22T18:57:00"
+  },
+  {
+    "decision_id": "DEC-2026-000131",
+    "case_id": "CASE-2026-000131",
+    "reviewer_id": "REV-021",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-19T12:11:00"
+  },
+  {
+    "decision_id": "DEC-2026-000132",
+    "case_id": "CASE-2026-000132",
+    "reviewer_id": "REV-029",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-03T15:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000133",
+    "case_id": "CASE-2026-000133",
+    "reviewer_id": "REV-002",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-03T21:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000134",
+    "case_id": "CASE-2026-000134",
+    "reviewer_id": "REV-025",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-03T21:28:00"
+  },
+  {
+    "decision_id": "DEC-2026-000135",
+    "case_id": "CASE-2026-000135",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-26T16:22:00"
+  },
+  {
+    "decision_id": "DEC-2026-000136",
+    "case_id": "CASE-2026-000136",
+    "reviewer_id": "REV-005",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-09T21:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000137",
+    "case_id": "CASE-2026-000137",
+    "reviewer_id": "REV-029",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-26T16:32:00"
+  },
+  {
+    "decision_id": "DEC-2026-000138",
+    "case_id": "CASE-2026-000138",
+    "reviewer_id": "REV-030",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-01T11:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000139",
+    "case_id": "CASE-2026-000139",
+    "reviewer_id": "REV-001",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-21T18:57:00"
+  },
+  {
+    "decision_id": "DEC-2026-000140",
+    "case_id": "CASE-2026-000140",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-03T15:39:00"
+  },
+  {
+    "decision_id": "DEC-2026-000141",
+    "case_id": "CASE-2026-000141",
+    "reviewer_id": "REV-004",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-18T19:36:00"
+  },
+  {
+    "decision_id": "DEC-2026-000142",
+    "case_id": "CASE-2026-000142",
+    "reviewer_id": "REV-013",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-12T11:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000143",
+    "case_id": "CASE-2026-000143",
+    "reviewer_id": "REV-015",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-24T19:32:00"
+  },
+  {
+    "decision_id": "DEC-2026-000144",
+    "case_id": "CASE-2026-000144",
+    "reviewer_id": "REV-016",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-29T21:09:00"
+  },
+  {
+    "decision_id": "DEC-2026-000145",
+    "case_id": "CASE-2026-000145",
+    "reviewer_id": "REV-017",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-09-08T11:35:00"
+  },
+  {
+    "decision_id": "DEC-2026-000146",
+    "case_id": "CASE-2026-000146",
+    "reviewer_id": "REV-010",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-18T11:04:00"
+  },
+  {
+    "decision_id": "DEC-2026-000147",
+    "case_id": "CASE-2026-000147",
+    "reviewer_id": "REV-020",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-09-01T11:03:00"
+  },
+  {
+    "decision_id": "DEC-2026-000148",
+    "case_id": "CASE-2026-000148",
+    "reviewer_id": "REV-021",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-09-06T21:23:00"
+  },
+  {
+    "decision_id": "DEC-2026-000149",
+    "case_id": "CASE-2026-000149",
+    "reviewer_id": "REV-014",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-15T13:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000150",
+    "case_id": "CASE-2026-000150",
+    "reviewer_id": "REV-015",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-21T15:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000151",
+    "case_id": "CASE-2026-000151",
+    "reviewer_id": "REV-026",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-03T21:01:00"
+  },
+  {
+    "decision_id": "DEC-2026-000152",
+    "case_id": "CASE-2026-000152",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-06T13:19:00"
+  },
+  {
+    "decision_id": "DEC-2026-000153",
+    "case_id": "CASE-2026-000153",
+    "reviewer_id": "REV-028",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-24T15:53:00"
+  },
+  {
+    "decision_id": "DEC-2026-000154",
+    "case_id": "CASE-2026-000154",
+    "reviewer_id": "REV-030",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-29T14:41:00"
+  },
+  {
+    "decision_id": "DEC-2026-000155",
+    "case_id": "CASE-2026-000155",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-02T14:49:00"
+  },
+  {
+    "decision_id": "DEC-2026-000156",
+    "case_id": "CASE-2026-000156",
+    "reviewer_id": "REV-003",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-29T11:06:00"
+  },
+  {
+    "decision_id": "DEC-2026-000157",
+    "case_id": "CASE-2026-000157",
+    "reviewer_id": "REV-004",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-06T20:01:00"
+  },
+  {
+    "decision_id": "DEC-2026-000158",
+    "case_id": "CASE-2026-000158",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-14T14:25:00"
+  },
+  {
+    "decision_id": "DEC-2026-000159",
+    "case_id": "CASE-2026-000159",
+    "reviewer_id": "REV-007",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-01T21:58:00"
+  },
+  {
+    "decision_id": "DEC-2026-000160",
+    "case_id": "CASE-2026-000160",
+    "reviewer_id": "REV-029",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-27T11:09:00"
+  },
+  {
+    "decision_id": "DEC-2026-000161",
+    "case_id": "CASE-2026-000161",
+    "reviewer_id": "REV-030",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-23T12:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000162",
+    "case_id": "CASE-2026-000162",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-12T12:32:00"
+  },
+  {
+    "decision_id": "DEC-2026-000163",
+    "case_id": "CASE-2026-000163",
+    "reviewer_id": "REV-002",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-02T14:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000164",
+    "case_id": "CASE-2026-000164",
+    "reviewer_id": "REV-003",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-30T19:42:00"
+  },
+  {
+    "decision_id": "DEC-2026-000165",
+    "case_id": "CASE-2026-000165",
+    "reviewer_id": "REV-005",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-31T19:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000166",
+    "case_id": "CASE-2026-000166",
+    "reviewer_id": "REV-006",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-03T17:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000167",
+    "case_id": "CASE-2026-000167",
+    "reviewer_id": "REV-008",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-21T21:50:00"
+  },
+  {
+    "decision_id": "DEC-2026-000168",
+    "case_id": "CASE-2026-000168",
+    "reviewer_id": "REV-019",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-20T14:40:00"
+  },
+  {
+    "decision_id": "DEC-2026-000169",
+    "case_id": "CASE-2026-000169",
+    "reviewer_id": "REV-010",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-05T16:50:00"
+  },
+  {
+    "decision_id": "DEC-2026-000170",
+    "case_id": "CASE-2026-000170",
+    "reviewer_id": "REV-012",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-22T18:21:00"
+  },
+  {
+    "decision_id": "DEC-2026-000171",
+    "case_id": "CASE-2026-000171",
+    "reviewer_id": "REV-013",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-09T14:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000172",
+    "case_id": "CASE-2026-000172",
+    "reviewer_id": "REV-024",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-01T17:39:00"
+  },
+  {
+    "decision_id": "DEC-2026-000173",
+    "case_id": "CASE-2026-000173",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-20T14:37:00"
+  },
+  {
+    "decision_id": "DEC-2026-000174",
+    "case_id": "CASE-2026-000174",
+    "reviewer_id": "REV-017",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-11T21:22:00"
+  },
+  {
+    "decision_id": "DEC-2026-000175",
+    "case_id": "CASE-2026-000175",
+    "reviewer_id": "REV-018",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-03T19:52:00"
+  },
+  {
+    "decision_id": "DEC-2026-000176",
+    "case_id": "CASE-2026-000176",
+    "reviewer_id": "REV-030",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-26T15:19:00"
+  },
+  {
+    "decision_id": "DEC-2026-000177",
+    "case_id": "CASE-2026-000177",
+    "reviewer_id": "REV-002",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-12T19:15:00"
+  },
+  {
+    "decision_id": "DEC-2026-000178",
+    "case_id": "CASE-2026-000178",
+    "reviewer_id": "REV-022",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-01T13:14:00"
+  },
+  {
+    "decision_id": "DEC-2026-000179",
+    "case_id": "CASE-2026-000179",
+    "reviewer_id": "REV-023",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-29T12:21:00"
+  },
+  {
+    "decision_id": "DEC-2026-000180",
+    "case_id": "CASE-2026-000180",
+    "reviewer_id": "REV-006",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-28T16:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000181",
+    "case_id": "CASE-2026-000181",
+    "reviewer_id": "REV-007",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-10T11:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000182",
+    "case_id": "CASE-2026-000182",
+    "reviewer_id": "REV-008",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-24T21:21:00"
+  },
+  {
+    "decision_id": "DEC-2026-000183",
+    "case_id": "CASE-2026-000183",
+    "reviewer_id": "REV-029",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-08T19:59:00"
+  },
+  {
+    "decision_id": "DEC-2026-000184",
+    "case_id": "CASE-2026-000184",
+    "reviewer_id": "REV-011",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-23T14:59:00"
+  },
+  {
+    "decision_id": "DEC-2026-000185",
+    "case_id": "CASE-2026-000185",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-02T19:08:00"
+  },
+  {
+    "decision_id": "DEC-2026-000186",
+    "case_id": "CASE-2026-000186",
+    "reviewer_id": "REV-002",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-29T16:15:00"
+  },
+  {
+    "decision_id": "DEC-2026-000187",
+    "case_id": "CASE-2026-000187",
+    "reviewer_id": "REV-015",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-22T17:21:00"
+  },
+  {
+    "decision_id": "DEC-2026-000188",
+    "case_id": "CASE-2026-000188",
+    "reviewer_id": "REV-005",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-01T11:17:00"
+  },
+  {
+    "decision_id": "DEC-2026-000189",
+    "case_id": "CASE-2026-000189",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-16T15:47:00"
+  },
+  {
+    "decision_id": "DEC-2026-000190",
+    "case_id": "CASE-2026-000190",
+    "reviewer_id": "REV-019",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-18T11:24:00"
+  },
+  {
+    "decision_id": "DEC-2026-000191",
+    "case_id": "CASE-2026-000191",
+    "reviewer_id": "REV-020",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-01T17:21:00"
+  },
+  {
+    "decision_id": "DEC-2026-000192",
+    "case_id": "CASE-2026-000192",
+    "reviewer_id": "REV-010",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-16T13:28:00"
+  },
+  {
+    "decision_id": "DEC-2026-000193",
+    "case_id": "CASE-2026-000193",
+    "reviewer_id": "REV-011",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-09T17:42:00"
+  },
+  {
+    "decision_id": "DEC-2026-000194",
+    "case_id": "CASE-2026-000194",
+    "reviewer_id": "REV-013",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-09-06T15:02:00"
+  },
+  {
+    "decision_id": "DEC-2026-000195",
+    "case_id": "CASE-2026-000195",
+    "reviewer_id": "REV-014",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-04T19:58:00"
+  },
+  {
+    "decision_id": "DEC-2026-000196",
+    "case_id": "CASE-2026-000196",
+    "reviewer_id": "REV-027",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-02T13:29:00"
+  },
+  {
+    "decision_id": "DEC-2026-000197",
+    "case_id": "CASE-2026-000197",
+    "reviewer_id": "REV-028",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-09T19:58:00"
+  },
+  {
+    "decision_id": "DEC-2026-000198",
+    "case_id": "CASE-2026-000198",
+    "reviewer_id": "REV-029",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-21T14:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000199",
+    "case_id": "CASE-2026-000199",
+    "reviewer_id": "REV-019",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-04T20:16:00"
+  },
+  {
+    "decision_id": "DEC-2026-000200",
+    "case_id": "CASE-2026-000200",
+    "reviewer_id": "REV-021",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-06T13:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000201",
+    "case_id": "CASE-2026-000201",
+    "reviewer_id": "REV-022",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-18T11:42:00"
+  },
+  {
+    "decision_id": "DEC-2026-000202",
+    "case_id": "CASE-2026-000202",
+    "reviewer_id": "REV-023",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-17T17:06:00"
+  },
+  {
+    "decision_id": "DEC-2026-000203",
+    "case_id": "CASE-2026-000203",
+    "reviewer_id": "REV-007",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-26T13:00:00"
+  },
+  {
+    "decision_id": "DEC-2026-000204",
+    "case_id": "CASE-2026-000204",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-10T21:53:00"
+  },
+  {
+    "decision_id": "DEC-2026-000205",
+    "case_id": "CASE-2026-000205",
+    "reviewer_id": "REV-009",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-24T18:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000206",
+    "case_id": "CASE-2026-000206",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-04T18:14:00"
+  },
+  {
+    "decision_id": "DEC-2026-000207",
+    "case_id": "CASE-2026-000207",
+    "reviewer_id": "REV-012",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-18T16:20:00"
+  },
+  {
+    "decision_id": "DEC-2026-000208",
+    "case_id": "CASE-2026-000208",
+    "reviewer_id": "REV-001",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-23T13:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000209",
+    "case_id": "CASE-2026-000209",
+    "reviewer_id": "REV-015",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-01T18:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000210",
+    "case_id": "CASE-2026-000210",
+    "reviewer_id": "REV-004",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-18T20:15:00"
+  },
+  {
+    "decision_id": "DEC-2026-000211",
+    "case_id": "CASE-2026-000211",
+    "reviewer_id": "REV-017",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-24T12:30:00"
+  },
+  {
+    "decision_id": "DEC-2026-000212",
+    "case_id": "CASE-2026-000212",
+    "reviewer_id": "REV-006",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-09T11:30:00"
+  },
+  {
+    "decision_id": "DEC-2026-000213",
+    "case_id": "CASE-2026-000213",
+    "reviewer_id": "REV-020",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-10T16:36:00"
+  },
+  {
+    "decision_id": "DEC-2026-000214",
+    "case_id": "CASE-2026-000214",
+    "reviewer_id": "REV-021",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-06T18:49:00"
+  },
+  {
+    "decision_id": "DEC-2026-000215",
+    "case_id": "CASE-2026-000215",
+    "reviewer_id": "REV-023",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-16T13:59:00"
+  },
+  {
+    "decision_id": "DEC-2026-000216",
+    "case_id": "CASE-2026-000216",
+    "reviewer_id": "REV-024",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-17T13:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000217",
+    "case_id": "CASE-2026-000217",
+    "reviewer_id": "REV-013",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-27T11:43:00"
+  },
+  {
+    "decision_id": "DEC-2026-000218",
+    "case_id": "CASE-2026-000218",
+    "reviewer_id": "REV-027",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-01T14:26:00"
+  },
+  {
+    "decision_id": "DEC-2026-000219",
+    "case_id": "CASE-2026-000219",
+    "reviewer_id": "REV-028",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-21T11:37:00"
+  },
+  {
+    "decision_id": "DEC-2026-000220",
+    "case_id": "CASE-2026-000220",
+    "reviewer_id": "REV-017",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-16T20:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000221",
+    "case_id": "CASE-2026-000221",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-09T13:56:00"
+  },
+  {
+    "decision_id": "DEC-2026-000222",
+    "case_id": "CASE-2026-000222",
+    "reviewer_id": "REV-019",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-03T17:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000223",
+    "case_id": "CASE-2026-000223",
+    "reviewer_id": "REV-004",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-16T11:52:00"
+  },
+  {
+    "decision_id": "DEC-2026-000224",
+    "case_id": "CASE-2026-000224",
+    "reviewer_id": "REV-005",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-30T18:24:00"
+  },
+  {
+    "decision_id": "DEC-2026-000225",
+    "case_id": "CASE-2026-000225",
+    "reviewer_id": "REV-023",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-28T14:20:00"
+  },
+  {
+    "decision_id": "DEC-2026-000226",
+    "case_id": "CASE-2026-000226",
+    "reviewer_id": "REV-008",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-25T15:27:00"
+  },
+  {
+    "decision_id": "DEC-2026-000227",
+    "case_id": "CASE-2026-000227",
+    "reviewer_id": "REV-026",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-10T12:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000228",
+    "case_id": "CASE-2026-000228",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-03-23T19:50:00"
+  },
+  {
+    "decision_id": "DEC-2026-000229",
+    "case_id": "CASE-2026-000229",
+    "reviewer_id": "REV-029",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-05-22T18:11:00"
+  },
+  {
+    "decision_id": "DEC-2026-000230",
+    "case_id": "CASE-2026-000230",
+    "reviewer_id": "REV-030",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-07-16T16:33:00"
+  },
+  {
+    "decision_id": "DEC-2026-000231",
+    "case_id": "CASE-2026-000231",
+    "reviewer_id": "REV-001",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-10T20:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000232",
+    "case_id": "CASE-2026-000232",
+    "reviewer_id": "REV-002",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-01T20:10:00"
+  },
+  {
+    "decision_id": "DEC-2026-000233",
+    "case_id": "CASE-2026-000233",
+    "reviewer_id": "REV-018",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-15T11:12:00"
+  },
+  {
+    "decision_id": "DEC-2026-000234",
+    "case_id": "CASE-2026-000234",
+    "reviewer_id": "REV-019",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-23T11:44:00"
+  },
+  {
+    "decision_id": "DEC-2026-000235",
+    "case_id": "CASE-2026-000235",
+    "reviewer_id": "REV-006",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-01-24T12:51:00"
+  },
+  {
+    "decision_id": "DEC-2026-000236",
+    "case_id": "CASE-2026-000236",
+    "reviewer_id": "REV-007",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-16T17:55:00"
+  },
+  {
+    "decision_id": "DEC-2026-000237",
+    "case_id": "CASE-2026-000237",
+    "reviewer_id": "REV-009",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-04-17T13:31:00"
+  },
+  {
+    "decision_id": "DEC-2026-000238",
+    "case_id": "CASE-2026-000238",
+    "reviewer_id": "REV-024",
+    "decision": "Violation Confirmed",
+    "rationale": "Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-02-25T17:25:00"
+  },
+  {
+    "decision_id": "DEC-2026-000239",
+    "case_id": "CASE-2026-000239",
+    "reviewer_id": "REV-011",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-08-31T21:22:00"
+  },
+  {
+    "decision_id": "DEC-2026-000240",
+    "case_id": "CASE-2026-000240",
+    "reviewer_id": "REV-027",
+    "decision": "No Violation",
+    "rationale": "Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.",
+    "decided_at": "2026-06-29T13:51:00"
+  }
+]

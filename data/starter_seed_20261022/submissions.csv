@@ -1,0 +1,1001 @@
+submission_id,learner_id,assessment_id,submitted_at,content,status
+SUB-2026-000001,LRN-00046,ASM-001,2026-08-10T17:51:00,Synthetic academic submission content number 1. This is sample text for assessment 1.,Flagged
+SUB-2026-000002,LRN-00009,ASM-003,2026-03-16T14:53:00,Synthetic academic submission content number 2. This is sample text for assessment 3.,Flagged
+SUB-2026-000003,LRN-00108,ASM-002,2026-07-24T11:35:00,Synthetic academic submission content number 3. This is sample text for assessment 2.,Flagged
+SUB-2026-000004,LRN-00185,ASM-001,2026-08-16T08:31:00,Synthetic academic submission content number 4. This is sample text for assessment 1.,Flagged
+SUB-2026-000005,LRN-00122,ASM-002,2026-03-03T17:18:00,Synthetic academic submission content number 5. This is sample text for assessment 2.,Flagged
+SUB-2026-000006,LRN-00200,ASM-005,2026-07-06T11:55:00,Synthetic academic submission content number 6. This is sample text for assessment 5.,Flagged
+SUB-2026-000007,LRN-00050,ASM-002,2026-08-08T11:49:00,"Synthetic submission 7. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Flagged
+SUB-2026-000008,LRN-00053,ASM-005,2026-02-04T10:10:00,Synthetic academic submission content number 8. This is sample text for assessment 5.,Flagged
+SUB-2026-000009,LRN-00192,ASM-004,2026-08-04T15:10:00,Synthetic academic submission content number 9. This is sample text for assessment 4.,Flagged
+SUB-2026-000010,LRN-00009,ASM-005,2026-04-15T10:06:00,"Synthetic submission 10. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Flagged
+SUB-2026-000011,LRN-00131,ASM-004,2026-01-01T13:15:00,Synthetic academic submission content number 11. This is sample text for assessment 4.,Flagged
+SUB-2026-000012,LRN-00051,ASM-004,2026-03-06T08:34:00,Synthetic academic submission content number 12. This is sample text for assessment 4.,Flagged
+SUB-2026-000013,LRN-00167,ASM-004,2026-02-02T08:05:00,Synthetic academic submission content number 13. This is sample text for assessment 4.,Flagged
+SUB-2026-000014,LRN-00138,ASM-004,2026-07-06T08:18:00,"Synthetic submission 14. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Flagged
+SUB-2026-000015,LRN-00165,ASM-001,2026-01-23T11:53:00,Synthetic academic submission content number 15. This is sample text for assessment 1.,Flagged
+SUB-2026-000016,LRN-00023,ASM-005,2026-08-20T12:09:00,Synthetic academic submission content number 16. This is sample text for assessment 5.,Flagged
+SUB-2026-000017,LRN-00103,ASM-005,2026-01-16T17:39:00,Synthetic academic submission content number 17. This is sample text for assessment 5.,Flagged
+SUB-2026-000018,LRN-00145,ASM-001,2026-07-26T09:49:00,Synthetic academic submission content number 18. This is sample text for assessment 1.,Flagged
+SUB-2026-000019,LRN-00163,ASM-003,2026-09-01T10:55:00,Synthetic academic submission content number 19. This is sample text for assessment 3.,Flagged
+SUB-2026-000020,LRN-00016,ASM-001,2026-07-24T15:52:00,"Synthetic submission 20. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Flagged
+SUB-2026-000021,LRN-00017,ASM-004,2026-04-16T10:29:00,"Synthetic submission 21. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Flagged
+SUB-2026-000022,LRN-00070,ASM-001,2026-04-15T13:11:00,Synthetic academic submission content number 22. This is sample text for assessment 1.,Flagged
+SUB-2026-000023,LRN-00038,ASM-005,2026-05-31T12:45:00,Synthetic academic submission content number 23. This is sample text for assessment 5.,Flagged
+SUB-2026-000024,LRN-00059,ASM-004,2026-03-13T10:15:00,Synthetic academic submission content number 24. This is sample text for assessment 4.,Flagged
+SUB-2026-000025,LRN-00080,ASM-004,2026-02-06T17:53:00,Synthetic academic submission content number 25. This is sample text for assessment 4.,Flagged
+SUB-2026-000026,LRN-00007,ASM-002,2026-04-03T11:00:00,Synthetic academic submission content number 26. This is sample text for assessment 2.,Flagged
+SUB-2026-000027,LRN-00190,ASM-002,2026-01-28T17:04:00,Synthetic academic submission content number 27. This is sample text for assessment 2.,Flagged
+SUB-2026-000028,LRN-00009,ASM-002,2026-08-14T11:55:00,"Synthetic submission 28. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Flagged
+SUB-2026-000029,LRN-00097,ASM-002,2026-02-22T15:00:00,Synthetic academic submission content number 29. This is sample text for assessment 2.,Flagged
+SUB-2026-000030,LRN-00013,ASM-005,2026-07-21T17:22:00,"Synthetic submission 30. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Flagged
+SUB-2026-000031,LRN-00127,ASM-005,2026-06-27T13:58:00,Synthetic academic submission content number 31. This is sample text for assessment 5.,Submitted
+SUB-2026-000032,LRN-00023,ASM-002,2026-07-18T12:11:00,Synthetic academic submission content number 32. This is sample text for assessment 2.,Submitted
+SUB-2026-000033,LRN-00035,ASM-005,2026-06-02T15:58:00,Synthetic academic submission content number 33. This is sample text for assessment 5.,Submitted
+SUB-2026-000034,LRN-00123,ASM-003,2026-06-30T08:09:00,Synthetic academic submission content number 34. This is sample text for assessment 3.,Submitted
+SUB-2026-000035,LRN-00031,ASM-002,2026-06-06T08:55:00,"Synthetic submission 35. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000036,LRN-00017,ASM-003,2026-07-09T08:46:00,Synthetic academic submission content number 36. This is sample text for assessment 3.,Submitted
+SUB-2026-000037,LRN-00163,ASM-002,2026-06-23T10:04:00,Synthetic academic submission content number 37. This is sample text for assessment 2.,Submitted
+SUB-2026-000038,LRN-00068,ASM-004,2026-01-20T14:55:00,Synthetic academic submission content number 38. This is sample text for assessment 4.,Submitted
+SUB-2026-000039,LRN-00059,ASM-001,2026-05-26T14:56:00,Synthetic academic submission content number 39. This is sample text for assessment 1.,Submitted
+SUB-2026-000040,LRN-00169,ASM-002,2026-05-25T10:44:00,"Synthetic submission 40. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000041,LRN-00057,ASM-003,2026-05-10T15:09:00,Synthetic academic submission content number 41. This is sample text for assessment 3.,Submitted
+SUB-2026-000042,LRN-00102,ASM-002,2026-02-07T10:41:00,"Synthetic submission 42. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000043,LRN-00195,ASM-004,2026-07-07T08:29:00,Synthetic academic submission content number 43. This is sample text for assessment 4.,Submitted
+SUB-2026-000044,LRN-00100,ASM-001,2026-01-06T16:44:00,Synthetic academic submission content number 44. This is sample text for assessment 1.,Submitted
+SUB-2026-000045,LRN-00111,ASM-003,2026-02-18T15:20:00,Synthetic academic submission content number 45. This is sample text for assessment 3.,Submitted
+SUB-2026-000046,LRN-00173,ASM-002,2026-08-19T10:01:00,Synthetic academic submission content number 46. This is sample text for assessment 2.,Submitted
+SUB-2026-000047,LRN-00027,ASM-001,2026-04-08T18:33:00,Synthetic academic submission content number 47. This is sample text for assessment 1.,Submitted
+SUB-2026-000048,LRN-00098,ASM-004,2026-08-16T09:55:00,Synthetic academic submission content number 48. This is sample text for assessment 4.,Submitted
+SUB-2026-000049,LRN-00092,ASM-005,2026-08-24T13:06:00,"Synthetic submission 49. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000050,LRN-00099,ASM-005,2026-02-13T08:35:00,"Synthetic submission 50. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000051,LRN-00104,ASM-002,2026-01-25T17:39:00,Synthetic academic submission content number 51. This is sample text for assessment 2.,Submitted
+SUB-2026-000052,LRN-00123,ASM-001,2026-06-24T08:41:00,Synthetic academic submission content number 52. This is sample text for assessment 1.,Submitted
+SUB-2026-000053,LRN-00050,ASM-005,2026-07-12T17:03:00,Synthetic academic submission content number 53. This is sample text for assessment 5.,Submitted
+SUB-2026-000054,LRN-00066,ASM-005,2026-04-08T12:37:00,Synthetic academic submission content number 54. This is sample text for assessment 5.,Submitted
+SUB-2026-000055,LRN-00112,ASM-002,2026-06-18T15:48:00,Synthetic academic submission content number 55. This is sample text for assessment 2.,Submitted
+SUB-2026-000056,LRN-00105,ASM-003,2026-04-19T09:06:00,"Synthetic submission 56. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000057,LRN-00153,ASM-002,2026-03-29T17:37:00,Synthetic academic submission content number 57. This is sample text for assessment 2.,Submitted
+SUB-2026-000058,LRN-00124,ASM-004,2026-01-17T11:24:00,Synthetic academic submission content number 58. This is sample text for assessment 4.,Submitted
+SUB-2026-000059,LRN-00091,ASM-003,2026-04-18T11:27:00,Synthetic academic submission content number 59. This is sample text for assessment 3.,Submitted
+SUB-2026-000060,LRN-00152,ASM-002,2026-07-07T15:06:00,"Synthetic submission 60. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000061,LRN-00177,ASM-005,2026-03-03T17:31:00,Synthetic academic submission content number 61. This is sample text for assessment 5.,Submitted
+SUB-2026-000062,LRN-00116,ASM-001,2026-06-08T12:31:00,Synthetic academic submission content number 62. This is sample text for assessment 1.,Submitted
+SUB-2026-000063,LRN-00011,ASM-004,2026-04-24T17:34:00,"Synthetic submission 63. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000064,LRN-00139,ASM-004,2026-04-26T11:20:00,Synthetic academic submission content number 64. This is sample text for assessment 4.,Submitted
+SUB-2026-000065,LRN-00003,ASM-002,2026-05-20T18:07:00,Synthetic academic submission content number 65. This is sample text for assessment 2.,Submitted
+SUB-2026-000066,LRN-00016,ASM-004,2026-02-18T15:21:00,Synthetic academic submission content number 66. This is sample text for assessment 4.,Submitted
+SUB-2026-000067,LRN-00057,ASM-004,2026-04-08T11:16:00,Synthetic academic submission content number 67. This is sample text for assessment 4.,Submitted
+SUB-2026-000068,LRN-00154,ASM-004,2026-07-31T16:51:00,Synthetic academic submission content number 68. This is sample text for assessment 4.,Submitted
+SUB-2026-000069,LRN-00036,ASM-003,2026-01-01T18:35:00,Synthetic academic submission content number 69. This is sample text for assessment 3.,Submitted
+SUB-2026-000070,LRN-00152,ASM-005,2026-07-28T16:40:00,"Synthetic submission 70. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000071,LRN-00017,ASM-002,2026-06-07T18:41:00,Synthetic academic submission content number 71. This is sample text for assessment 2.,Submitted
+SUB-2026-000072,LRN-00080,ASM-001,2026-01-26T17:42:00,Synthetic academic submission content number 72. This is sample text for assessment 1.,Submitted
+SUB-2026-000073,LRN-00168,ASM-005,2026-04-02T13:57:00,Synthetic academic submission content number 73. This is sample text for assessment 5.,Submitted
+SUB-2026-000074,LRN-00091,ASM-005,2026-06-03T14:27:00,Synthetic academic submission content number 74. This is sample text for assessment 5.,Submitted
+SUB-2026-000075,LRN-00170,ASM-002,2026-08-19T14:15:00,Synthetic academic submission content number 75. This is sample text for assessment 2.,Submitted
+SUB-2026-000076,LRN-00131,ASM-004,2026-06-20T16:52:00,Synthetic academic submission content number 76. This is sample text for assessment 4.,Submitted
+SUB-2026-000077,LRN-00130,ASM-004,2026-08-09T09:11:00,"Synthetic submission 77. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000078,LRN-00017,ASM-001,2026-08-04T10:27:00,Synthetic academic submission content number 78. This is sample text for assessment 1.,Submitted
+SUB-2026-000079,LRN-00033,ASM-005,2026-05-02T11:43:00,Synthetic academic submission content number 79. This is sample text for assessment 5.,Submitted
+SUB-2026-000080,LRN-00021,ASM-003,2026-03-13T11:17:00,"Synthetic submission 80. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000081,LRN-00154,ASM-002,2026-07-08T08:36:00,Synthetic academic submission content number 81. This is sample text for assessment 2.,Submitted
+SUB-2026-000082,LRN-00166,ASM-003,2026-02-15T18:55:00,Synthetic academic submission content number 82. This is sample text for assessment 3.,Submitted
+SUB-2026-000083,LRN-00051,ASM-004,2026-08-06T10:31:00,Synthetic academic submission content number 83. This is sample text for assessment 4.,Submitted
+SUB-2026-000084,LRN-00200,ASM-003,2026-03-01T14:12:00,"Synthetic submission 84. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000085,LRN-00168,ASM-005,2026-02-02T15:15:00,Synthetic academic submission content number 85. This is sample text for assessment 5.,Submitted
+SUB-2026-000086,LRN-00037,ASM-005,2026-08-15T11:04:00,Synthetic academic submission content number 86. This is sample text for assessment 5.,Submitted
+SUB-2026-000087,LRN-00154,ASM-004,2026-08-03T11:47:00,Synthetic academic submission content number 87. This is sample text for assessment 4.,Submitted
+SUB-2026-000088,LRN-00087,ASM-005,2026-04-28T16:03:00,Synthetic academic submission content number 88. This is sample text for assessment 5.,Submitted
+SUB-2026-000089,LRN-00132,ASM-002,2026-08-27T09:16:00,Synthetic academic submission content number 89. This is sample text for assessment 2.,Submitted
+SUB-2026-000090,LRN-00170,ASM-004,2026-01-01T12:01:00,"Synthetic submission 90. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000091,LRN-00186,ASM-005,2026-01-09T09:56:00,"Synthetic submission 91. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000092,LRN-00185,ASM-001,2026-08-28T10:00:00,Synthetic academic submission content number 92. This is sample text for assessment 1.,Submitted
+SUB-2026-000093,LRN-00169,ASM-002,2026-05-28T08:09:00,Synthetic academic submission content number 93. This is sample text for assessment 2.,Submitted
+SUB-2026-000094,LRN-00108,ASM-004,2026-06-07T15:03:00,Synthetic academic submission content number 94. This is sample text for assessment 4.,Submitted
+SUB-2026-000095,LRN-00086,ASM-005,2026-05-17T17:54:00,Synthetic academic submission content number 95. This is sample text for assessment 5.,Submitted
+SUB-2026-000096,LRN-00136,ASM-001,2026-02-09T15:15:00,Synthetic academic submission content number 96. This is sample text for assessment 1.,Submitted
+SUB-2026-000097,LRN-00026,ASM-005,2026-06-22T17:01:00,Synthetic academic submission content number 97. This is sample text for assessment 5.,Submitted
+SUB-2026-000098,LRN-00012,ASM-005,2026-06-21T18:42:00,"Synthetic submission 98. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000099,LRN-00047,ASM-001,2026-06-25T10:12:00,Synthetic academic submission content number 99. This is sample text for assessment 1.,Submitted
+SUB-2026-000100,LRN-00194,ASM-003,2026-03-03T18:15:00,"Synthetic submission 100. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000101,LRN-00014,ASM-004,2026-01-11T14:57:00,Synthetic academic submission content number 101. This is sample text for assessment 4.,Submitted
+SUB-2026-000102,LRN-00115,ASM-002,2026-07-15T10:10:00,Synthetic academic submission content number 102. This is sample text for assessment 2.,Submitted
+SUB-2026-000103,LRN-00200,ASM-001,2026-05-01T10:32:00,Synthetic academic submission content number 103. This is sample text for assessment 1.,Submitted
+SUB-2026-000104,LRN-00149,ASM-003,2026-03-17T11:14:00,Synthetic academic submission content number 104. This is sample text for assessment 3.,Submitted
+SUB-2026-000105,LRN-00067,ASM-002,2026-02-25T15:47:00,"Synthetic submission 105. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000106,LRN-00168,ASM-005,2026-03-27T15:11:00,Synthetic academic submission content number 106. This is sample text for assessment 5.,Submitted
+SUB-2026-000107,LRN-00014,ASM-005,2026-01-11T12:12:00,Synthetic academic submission content number 107. This is sample text for assessment 5.,Submitted
+SUB-2026-000108,LRN-00090,ASM-001,2026-01-20T13:15:00,Synthetic academic submission content number 108. This is sample text for assessment 1.,Submitted
+SUB-2026-000109,LRN-00115,ASM-002,2026-02-17T17:00:00,Synthetic academic submission content number 109. This is sample text for assessment 2.,Submitted
+SUB-2026-000110,LRN-00063,ASM-003,2026-02-25T10:52:00,"Synthetic submission 110. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000111,LRN-00021,ASM-004,2026-02-08T18:39:00,Synthetic academic submission content number 111. This is sample text for assessment 4.,Submitted
+SUB-2026-000112,LRN-00082,ASM-003,2026-09-01T11:08:00,"Synthetic submission 112. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000113,LRN-00073,ASM-004,2026-07-13T16:53:00,Synthetic academic submission content number 113. This is sample text for assessment 4.,Submitted
+SUB-2026-000114,LRN-00107,ASM-001,2026-09-05T11:55:00,Synthetic academic submission content number 114. This is sample text for assessment 1.,Submitted
+SUB-2026-000115,LRN-00077,ASM-005,2026-06-22T10:50:00,Synthetic academic submission content number 115. This is sample text for assessment 5.,Submitted
+SUB-2026-000116,LRN-00193,ASM-003,2026-03-26T11:36:00,Synthetic academic submission content number 116. This is sample text for assessment 3.,Submitted
+SUB-2026-000117,LRN-00074,ASM-005,2026-02-27T08:21:00,Synthetic academic submission content number 117. This is sample text for assessment 5.,Submitted
+SUB-2026-000118,LRN-00013,ASM-003,2026-04-08T17:40:00,Synthetic academic submission content number 118. This is sample text for assessment 3.,Submitted
+SUB-2026-000119,LRN-00126,ASM-005,2026-04-16T10:34:00,"Synthetic submission 119. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000120,LRN-00096,ASM-004,2026-04-23T17:16:00,"Synthetic submission 120. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000121,LRN-00180,ASM-004,2026-05-04T11:50:00,Synthetic academic submission content number 121. This is sample text for assessment 4.,Submitted
+SUB-2026-000122,LRN-00192,ASM-002,2026-04-21T10:51:00,Synthetic academic submission content number 122. This is sample text for assessment 2.,Submitted
+SUB-2026-000123,LRN-00167,ASM-001,2026-03-30T15:19:00,Synthetic academic submission content number 123. This is sample text for assessment 1.,Submitted
+SUB-2026-000124,LRN-00083,ASM-001,2026-08-28T18:46:00,Synthetic academic submission content number 124. This is sample text for assessment 1.,Submitted
+SUB-2026-000125,LRN-00166,ASM-004,2026-04-02T09:51:00,Synthetic academic submission content number 125. This is sample text for assessment 4.,Submitted
+SUB-2026-000126,LRN-00126,ASM-001,2026-07-01T14:30:00,"Synthetic submission 126. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000127,LRN-00106,ASM-002,2026-07-14T16:08:00,Synthetic academic submission content number 127. This is sample text for assessment 2.,Submitted
+SUB-2026-000128,LRN-00094,ASM-005,2026-03-17T08:44:00,Synthetic academic submission content number 128. This is sample text for assessment 5.,Submitted
+SUB-2026-000129,LRN-00066,ASM-003,2026-03-22T14:21:00,Synthetic academic submission content number 129. This is sample text for assessment 3.,Submitted
+SUB-2026-000130,LRN-00106,ASM-002,2026-03-24T18:23:00,"Synthetic submission 130. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000131,LRN-00035,ASM-003,2026-02-21T12:11:00,Synthetic academic submission content number 131. This is sample text for assessment 3.,Submitted
+SUB-2026-000132,LRN-00193,ASM-002,2026-02-22T17:19:00,Synthetic academic submission content number 132. This is sample text for assessment 2.,Submitted
+SUB-2026-000133,LRN-00183,ASM-005,2026-02-20T15:30:00,"Synthetic submission 133. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000134,LRN-00015,ASM-002,2026-05-17T15:57:00,Synthetic academic submission content number 134. This is sample text for assessment 2.,Submitted
+SUB-2026-000135,LRN-00123,ASM-004,2026-02-18T14:30:00,Synthetic academic submission content number 135. This is sample text for assessment 4.,Submitted
+SUB-2026-000136,LRN-00085,ASM-004,2026-02-07T12:49:00,Synthetic academic submission content number 136. This is sample text for assessment 4.,Submitted
+SUB-2026-000137,LRN-00136,ASM-001,2026-01-22T14:49:00,Synthetic academic submission content number 137. This is sample text for assessment 1.,Submitted
+SUB-2026-000138,LRN-00020,ASM-001,2026-02-28T14:40:00,Synthetic academic submission content number 138. This is sample text for assessment 1.,Submitted
+SUB-2026-000139,LRN-00084,ASM-005,2026-08-25T15:39:00,Synthetic academic submission content number 139. This is sample text for assessment 5.,Submitted
+SUB-2026-000140,LRN-00080,ASM-002,2026-02-03T08:47:00,"Synthetic submission 140. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000141,LRN-00034,ASM-004,2026-01-07T14:40:00,Synthetic academic submission content number 141. This is sample text for assessment 4.,Submitted
+SUB-2026-000142,LRN-00014,ASM-003,2026-02-02T11:09:00,Synthetic academic submission content number 142. This is sample text for assessment 3.,Submitted
+SUB-2026-000143,LRN-00007,ASM-001,2026-02-14T11:40:00,Synthetic academic submission content number 143. This is sample text for assessment 1.,Submitted
+SUB-2026-000144,LRN-00108,ASM-005,2026-02-02T10:09:00,Synthetic academic submission content number 144. This is sample text for assessment 5.,Submitted
+SUB-2026-000145,LRN-00180,ASM-003,2026-06-13T15:03:00,Synthetic academic submission content number 145. This is sample text for assessment 3.,Submitted
+SUB-2026-000146,LRN-00186,ASM-005,2026-02-23T17:25:00,Synthetic academic submission content number 146. This is sample text for assessment 5.,Submitted
+SUB-2026-000147,LRN-00163,ASM-002,2026-02-28T09:04:00,"Synthetic submission 147. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000148,LRN-00126,ASM-002,2026-04-11T13:53:00,Synthetic academic submission content number 148. This is sample text for assessment 2.,Submitted
+SUB-2026-000149,LRN-00110,ASM-005,2026-03-02T10:46:00,Synthetic academic submission content number 149. This is sample text for assessment 5.,Submitted
+SUB-2026-000150,LRN-00010,ASM-002,2026-05-14T16:41:00,"Synthetic submission 150. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000151,LRN-00121,ASM-001,2026-01-24T12:59:00,Synthetic academic submission content number 151. This is sample text for assessment 1.,Submitted
+SUB-2026-000152,LRN-00105,ASM-005,2026-07-09T17:06:00,Synthetic academic submission content number 152. This is sample text for assessment 5.,Submitted
+SUB-2026-000153,LRN-00097,ASM-002,2026-08-05T09:33:00,Synthetic academic submission content number 153. This is sample text for assessment 2.,Submitted
+SUB-2026-000154,LRN-00107,ASM-002,2026-08-23T11:26:00,"Synthetic submission 154. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000155,LRN-00024,ASM-003,2026-06-26T13:59:00,Synthetic academic submission content number 155. This is sample text for assessment 3.,Submitted
+SUB-2026-000156,LRN-00029,ASM-002,2026-04-29T16:34:00,Synthetic academic submission content number 156. This is sample text for assessment 2.,Submitted
+SUB-2026-000157,LRN-00074,ASM-005,2026-07-24T13:06:00,Synthetic academic submission content number 157. This is sample text for assessment 5.,Submitted
+SUB-2026-000158,LRN-00029,ASM-002,2026-05-20T09:15:00,Synthetic academic submission content number 158. This is sample text for assessment 2.,Submitted
+SUB-2026-000159,LRN-00187,ASM-004,2026-09-04T10:25:00,Synthetic academic submission content number 159. This is sample text for assessment 4.,Submitted
+SUB-2026-000160,LRN-00178,ASM-004,2026-04-02T16:12:00,"Synthetic submission 160. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000161,LRN-00009,ASM-004,2026-09-06T14:19:00,"Synthetic submission 161. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000162,LRN-00197,ASM-005,2026-02-01T13:10:00,Synthetic academic submission content number 162. This is sample text for assessment 5.,Submitted
+SUB-2026-000163,LRN-00142,ASM-001,2026-05-04T18:43:00,Synthetic academic submission content number 163. This is sample text for assessment 1.,Submitted
+SUB-2026-000164,LRN-00028,ASM-001,2026-07-28T17:44:00,Synthetic academic submission content number 164. This is sample text for assessment 1.,Submitted
+SUB-2026-000165,LRN-00133,ASM-001,2026-08-10T15:39:00,Synthetic academic submission content number 165. This is sample text for assessment 1.,Submitted
+SUB-2026-000166,LRN-00077,ASM-005,2026-01-10T17:41:00,Synthetic academic submission content number 166. This is sample text for assessment 5.,Submitted
+SUB-2026-000167,LRN-00193,ASM-003,2026-04-18T12:31:00,Synthetic academic submission content number 167. This is sample text for assessment 3.,Submitted
+SUB-2026-000168,LRN-00094,ASM-002,2026-05-26T09:31:00,"Synthetic submission 168. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000169,LRN-00048,ASM-004,2026-07-27T10:14:00,Synthetic academic submission content number 169. This is sample text for assessment 4.,Submitted
+SUB-2026-000170,LRN-00149,ASM-001,2026-05-20T13:21:00,"Synthetic submission 170. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000171,LRN-00079,ASM-002,2026-06-25T11:40:00,Synthetic academic submission content number 171. This is sample text for assessment 2.,Submitted
+SUB-2026-000172,LRN-00172,ASM-003,2026-01-04T12:34:00,Synthetic academic submission content number 172. This is sample text for assessment 3.,Submitted
+SUB-2026-000173,LRN-00137,ASM-004,2026-03-02T17:34:00,Synthetic academic submission content number 173. This is sample text for assessment 4.,Submitted
+SUB-2026-000174,LRN-00019,ASM-005,2026-04-20T09:01:00,Synthetic academic submission content number 174. This is sample text for assessment 5.,Submitted
+SUB-2026-000175,LRN-00044,ASM-003,2026-02-25T09:23:00,"Synthetic submission 175. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000176,LRN-00076,ASM-002,2026-08-07T12:58:00,Synthetic academic submission content number 176. This is sample text for assessment 2.,Submitted
+SUB-2026-000177,LRN-00035,ASM-002,2026-03-19T18:51:00,Synthetic academic submission content number 177. This is sample text for assessment 2.,Submitted
+SUB-2026-000178,LRN-00079,ASM-005,2026-07-08T18:51:00,Synthetic academic submission content number 178. This is sample text for assessment 5.,Submitted
+SUB-2026-000179,LRN-00042,ASM-002,2026-05-28T15:45:00,Synthetic academic submission content number 179. This is sample text for assessment 2.,Submitted
+SUB-2026-000180,LRN-00178,ASM-002,2026-07-05T11:27:00,"Synthetic submission 180. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000181,LRN-00144,ASM-002,2026-01-09T08:46:00,Synthetic academic submission content number 181. This is sample text for assessment 2.,Submitted
+SUB-2026-000182,LRN-00087,ASM-005,2026-08-07T10:31:00,"Synthetic submission 182. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000183,LRN-00177,ASM-005,2026-02-19T17:20:00,Synthetic academic submission content number 183. This is sample text for assessment 5.,Submitted
+SUB-2026-000184,LRN-00069,ASM-005,2026-06-19T10:10:00,Synthetic academic submission content number 184. This is sample text for assessment 5.,Submitted
+SUB-2026-000185,LRN-00096,ASM-002,2026-05-23T16:58:00,Synthetic academic submission content number 185. This is sample text for assessment 2.,Submitted
+SUB-2026-000186,LRN-00164,ASM-005,2026-05-27T13:57:00,Synthetic academic submission content number 186. This is sample text for assessment 5.,Submitted
+SUB-2026-000187,LRN-00181,ASM-002,2026-04-30T18:10:00,Synthetic academic submission content number 187. This is sample text for assessment 2.,Submitted
+SUB-2026-000188,LRN-00071,ASM-003,2026-03-28T09:35:00,Synthetic academic submission content number 188. This is sample text for assessment 3.,Submitted
+SUB-2026-000189,LRN-00175,ASM-001,2026-08-18T08:44:00,"Synthetic submission 189. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000190,LRN-00061,ASM-003,2026-05-29T15:53:00,"Synthetic submission 190. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000191,LRN-00054,ASM-001,2026-07-03T16:39:00,Synthetic academic submission content number 191. This is sample text for assessment 1.,Submitted
+SUB-2026-000192,LRN-00088,ASM-001,2026-05-13T17:35:00,Synthetic academic submission content number 192. This is sample text for assessment 1.,Submitted
+SUB-2026-000193,LRN-00100,ASM-003,2026-05-10T14:46:00,Synthetic academic submission content number 193. This is sample text for assessment 3.,Submitted
+SUB-2026-000194,LRN-00076,ASM-005,2026-01-19T09:40:00,Synthetic academic submission content number 194. This is sample text for assessment 5.,Submitted
+SUB-2026-000195,LRN-00011,ASM-003,2026-01-29T15:16:00,Synthetic academic submission content number 195. This is sample text for assessment 3.,Submitted
+SUB-2026-000196,LRN-00183,ASM-005,2026-09-04T12:21:00,"Synthetic submission 196. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000197,LRN-00199,ASM-003,2026-04-15T13:08:00,Synthetic academic submission content number 197. This is sample text for assessment 3.,Submitted
+SUB-2026-000198,LRN-00189,ASM-005,2026-02-27T15:22:00,Synthetic academic submission content number 198. This is sample text for assessment 5.,Submitted
+SUB-2026-000199,LRN-00126,ASM-002,2026-02-10T12:04:00,Synthetic academic submission content number 199. This is sample text for assessment 2.,Submitted
+SUB-2026-000200,LRN-00006,ASM-003,2026-01-14T16:36:00,"Synthetic submission 200. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000201,LRN-00072,ASM-001,2026-01-15T13:32:00,Synthetic academic submission content number 201. This is sample text for assessment 1.,Submitted
+SUB-2026-000202,LRN-00180,ASM-003,2026-04-16T10:51:00,Synthetic academic submission content number 202. This is sample text for assessment 3.,Submitted
+SUB-2026-000203,LRN-00031,ASM-005,2026-03-15T14:42:00,"Synthetic submission 203. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000204,LRN-00003,ASM-004,2026-02-03T18:53:00,Synthetic academic submission content number 204. This is sample text for assessment 4.,Submitted
+SUB-2026-000205,LRN-00067,ASM-005,2026-08-01T08:02:00,Synthetic academic submission content number 205. This is sample text for assessment 5.,Submitted
+SUB-2026-000206,LRN-00017,ASM-002,2026-03-28T08:45:00,Synthetic academic submission content number 206. This is sample text for assessment 2.,Submitted
+SUB-2026-000207,LRN-00055,ASM-005,2026-05-10T10:16:00,Synthetic academic submission content number 207. This is sample text for assessment 5.,Submitted
+SUB-2026-000208,LRN-00135,ASM-005,2026-05-06T16:20:00,Synthetic academic submission content number 208. This is sample text for assessment 5.,Submitted
+SUB-2026-000209,LRN-00121,ASM-004,2026-06-19T14:35:00,Synthetic academic submission content number 209. This is sample text for assessment 4.,Submitted
+SUB-2026-000210,LRN-00041,ASM-004,2026-05-13T11:48:00,"Synthetic submission 210. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000211,LRN-00102,ASM-003,2026-03-08T10:36:00,Synthetic academic submission content number 211. This is sample text for assessment 3.,Submitted
+SUB-2026-000212,LRN-00147,ASM-004,2026-05-03T18:45:00,Synthetic academic submission content number 212. This is sample text for assessment 4.,Submitted
+SUB-2026-000213,LRN-00031,ASM-003,2026-08-04T12:44:00,Synthetic academic submission content number 213. This is sample text for assessment 3.,Submitted
+SUB-2026-000214,LRN-00023,ASM-002,2026-03-28T13:07:00,Synthetic academic submission content number 214. This is sample text for assessment 2.,Submitted
+SUB-2026-000215,LRN-00050,ASM-002,2026-05-06T11:46:00,Synthetic academic submission content number 215. This is sample text for assessment 2.,Submitted
+SUB-2026-000216,LRN-00167,ASM-005,2026-04-20T09:48:00,Synthetic academic submission content number 216. This is sample text for assessment 5.,Submitted
+SUB-2026-000217,LRN-00110,ASM-003,2026-02-25T17:56:00,"Synthetic submission 217. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000218,LRN-00014,ASM-005,2026-02-13T11:16:00,Synthetic academic submission content number 218. This is sample text for assessment 5.,Submitted
+SUB-2026-000219,LRN-00112,ASM-003,2026-01-15T14:17:00,Synthetic academic submission content number 219. This is sample text for assessment 3.,Submitted
+SUB-2026-000220,LRN-00013,ASM-004,2026-07-13T13:58:00,"Synthetic submission 220. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000221,LRN-00176,ASM-001,2026-04-17T13:09:00,Synthetic academic submission content number 221. This is sample text for assessment 1.,Submitted
+SUB-2026-000222,LRN-00185,ASM-005,2026-04-12T14:58:00,Synthetic academic submission content number 222. This is sample text for assessment 5.,Submitted
+SUB-2026-000223,LRN-00182,ASM-002,2026-04-15T12:34:00,Synthetic academic submission content number 223. This is sample text for assessment 2.,Submitted
+SUB-2026-000224,LRN-00018,ASM-005,2026-03-09T10:57:00,"Synthetic submission 224. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000225,LRN-00136,ASM-005,2026-04-20T15:12:00,Synthetic academic submission content number 225. This is sample text for assessment 5.,Submitted
+SUB-2026-000226,LRN-00102,ASM-001,2026-07-24T17:44:00,Synthetic academic submission content number 226. This is sample text for assessment 1.,Submitted
+SUB-2026-000227,LRN-00172,ASM-004,2026-08-13T16:05:00,Synthetic academic submission content number 227. This is sample text for assessment 4.,Submitted
+SUB-2026-000228,LRN-00032,ASM-003,2026-08-03T16:56:00,Synthetic academic submission content number 228. This is sample text for assessment 3.,Submitted
+SUB-2026-000229,LRN-00185,ASM-004,2026-02-03T13:25:00,Synthetic academic submission content number 229. This is sample text for assessment 4.,Submitted
+SUB-2026-000230,LRN-00108,ASM-005,2026-06-29T08:28:00,"Synthetic submission 230. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000231,LRN-00106,ASM-005,2026-08-08T16:17:00,"Synthetic submission 231. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000232,LRN-00036,ASM-002,2026-01-12T15:03:00,Synthetic academic submission content number 232. This is sample text for assessment 2.,Submitted
+SUB-2026-000233,LRN-00046,ASM-002,2026-04-07T17:27:00,Synthetic academic submission content number 233. This is sample text for assessment 2.,Submitted
+SUB-2026-000234,LRN-00110,ASM-002,2026-04-19T08:45:00,Synthetic academic submission content number 234. This is sample text for assessment 2.,Submitted
+SUB-2026-000235,LRN-00198,ASM-004,2026-05-08T15:56:00,Synthetic academic submission content number 235. This is sample text for assessment 4.,Submitted
+SUB-2026-000236,LRN-00123,ASM-002,2026-03-06T10:13:00,Synthetic academic submission content number 236. This is sample text for assessment 2.,Submitted
+SUB-2026-000237,LRN-00110,ASM-005,2026-08-16T12:35:00,Synthetic academic submission content number 237. This is sample text for assessment 5.,Submitted
+SUB-2026-000238,LRN-00103,ASM-005,2026-05-24T13:35:00,"Synthetic submission 238. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000239,LRN-00125,ASM-002,2026-03-26T15:28:00,Synthetic academic submission content number 239. This is sample text for assessment 2.,Submitted
+SUB-2026-000240,LRN-00135,ASM-002,2026-08-20T14:52:00,"Synthetic submission 240. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000241,LRN-00099,ASM-002,2026-03-27T13:50:00,Synthetic academic submission content number 241. This is sample text for assessment 2.,Submitted
+SUB-2026-000242,LRN-00133,ASM-001,2026-05-13T11:21:00,Synthetic academic submission content number 242. This is sample text for assessment 1.,Submitted
+SUB-2026-000243,LRN-00060,ASM-002,2026-06-02T13:03:00,Synthetic academic submission content number 243. This is sample text for assessment 2.,Submitted
+SUB-2026-000244,LRN-00108,ASM-003,2026-08-03T09:51:00,Synthetic academic submission content number 244. This is sample text for assessment 3.,Submitted
+SUB-2026-000245,LRN-00187,ASM-002,2026-02-23T09:26:00,"Synthetic submission 245. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000246,LRN-00028,ASM-004,2026-03-27T14:50:00,Synthetic academic submission content number 246. This is sample text for assessment 4.,Submitted
+SUB-2026-000247,LRN-00038,ASM-003,2026-05-12T17:18:00,Synthetic academic submission content number 247. This is sample text for assessment 3.,Submitted
+SUB-2026-000248,LRN-00127,ASM-003,2026-01-10T13:54:00,Synthetic academic submission content number 248. This is sample text for assessment 3.,Submitted
+SUB-2026-000249,LRN-00118,ASM-001,2026-03-25T16:50:00,Synthetic academic submission content number 249. This is sample text for assessment 1.,Submitted
+SUB-2026-000250,LRN-00129,ASM-004,2026-02-01T10:11:00,"Synthetic submission 250. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000251,LRN-00136,ASM-003,2026-05-02T16:35:00,Synthetic academic submission content number 251. This is sample text for assessment 3.,Submitted
+SUB-2026-000252,LRN-00038,ASM-004,2026-03-29T16:31:00,"Synthetic submission 252. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000253,LRN-00094,ASM-005,2026-03-12T08:32:00,Synthetic academic submission content number 253. This is sample text for assessment 5.,Submitted
+SUB-2026-000254,LRN-00190,ASM-005,2026-02-06T17:13:00,Synthetic academic submission content number 254. This is sample text for assessment 5.,Submitted
+SUB-2026-000255,LRN-00042,ASM-001,2026-05-18T13:43:00,Synthetic academic submission content number 255. This is sample text for assessment 1.,Submitted
+SUB-2026-000256,LRN-00192,ASM-002,2026-01-24T17:15:00,Synthetic academic submission content number 256. This is sample text for assessment 2.,Submitted
+SUB-2026-000257,LRN-00126,ASM-003,2026-03-21T13:35:00,Synthetic academic submission content number 257. This is sample text for assessment 3.,Submitted
+SUB-2026-000258,LRN-00108,ASM-005,2026-03-12T14:30:00,Synthetic academic submission content number 258. This is sample text for assessment 5.,Submitted
+SUB-2026-000259,LRN-00041,ASM-003,2026-02-15T08:59:00,"Synthetic submission 259. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000260,LRN-00139,ASM-005,2026-01-21T15:16:00,"Synthetic submission 260. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000261,LRN-00071,ASM-004,2026-05-02T09:31:00,Synthetic academic submission content number 261. This is sample text for assessment 4.,Submitted
+SUB-2026-000262,LRN-00043,ASM-001,2026-01-27T09:07:00,Synthetic academic submission content number 262. This is sample text for assessment 1.,Submitted
+SUB-2026-000263,LRN-00162,ASM-005,2026-03-06T09:39:00,Synthetic academic submission content number 263. This is sample text for assessment 5.,Submitted
+SUB-2026-000264,LRN-00184,ASM-005,2026-06-03T14:34:00,Synthetic academic submission content number 264. This is sample text for assessment 5.,Submitted
+SUB-2026-000265,LRN-00112,ASM-004,2026-06-19T17:40:00,Synthetic academic submission content number 265. This is sample text for assessment 4.,Submitted
+SUB-2026-000266,LRN-00182,ASM-005,2026-02-18T16:25:00,"Synthetic submission 266. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000267,LRN-00134,ASM-003,2026-06-30T15:39:00,Synthetic academic submission content number 267. This is sample text for assessment 3.,Submitted
+SUB-2026-000268,LRN-00052,ASM-003,2026-03-29T11:33:00,Synthetic academic submission content number 268. This is sample text for assessment 3.,Submitted
+SUB-2026-000269,LRN-00043,ASM-001,2026-01-11T18:31:00,Synthetic academic submission content number 269. This is sample text for assessment 1.,Submitted
+SUB-2026-000270,LRN-00105,ASM-005,2026-03-04T13:56:00,"Synthetic submission 270. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000271,LRN-00088,ASM-005,2026-07-11T15:55:00,Synthetic academic submission content number 271. This is sample text for assessment 5.,Submitted
+SUB-2026-000272,LRN-00128,ASM-005,2026-01-12T14:27:00,Synthetic academic submission content number 272. This is sample text for assessment 5.,Submitted
+SUB-2026-000273,LRN-00173,ASM-001,2026-06-06T11:41:00,"Synthetic submission 273. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000274,LRN-00030,ASM-004,2026-08-10T13:00:00,Synthetic academic submission content number 274. This is sample text for assessment 4.,Submitted
+SUB-2026-000275,LRN-00178,ASM-001,2026-03-29T16:34:00,Synthetic academic submission content number 275. This is sample text for assessment 1.,Submitted
+SUB-2026-000276,LRN-00139,ASM-004,2026-04-19T15:13:00,Synthetic academic submission content number 276. This is sample text for assessment 4.,Submitted
+SUB-2026-000277,LRN-00068,ASM-002,2026-03-30T15:44:00,Synthetic academic submission content number 277. This is sample text for assessment 2.,Submitted
+SUB-2026-000278,LRN-00168,ASM-004,2026-02-14T14:44:00,Synthetic academic submission content number 278. This is sample text for assessment 4.,Submitted
+SUB-2026-000279,LRN-00126,ASM-001,2026-03-29T09:49:00,Synthetic academic submission content number 279. This is sample text for assessment 1.,Submitted
+SUB-2026-000280,LRN-00069,ASM-001,2026-01-07T08:08:00,"Synthetic submission 280. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000281,LRN-00183,ASM-003,2026-08-28T11:58:00,Synthetic academic submission content number 281. This is sample text for assessment 3.,Submitted
+SUB-2026-000282,LRN-00196,ASM-005,2026-05-11T09:13:00,Synthetic academic submission content number 282. This is sample text for assessment 5.,Submitted
+SUB-2026-000283,LRN-00102,ASM-002,2026-04-07T12:53:00,Synthetic academic submission content number 283. This is sample text for assessment 2.,Submitted
+SUB-2026-000284,LRN-00162,ASM-001,2026-04-07T12:46:00,Synthetic academic submission content number 284. This is sample text for assessment 1.,Submitted
+SUB-2026-000285,LRN-00027,ASM-003,2026-03-15T15:14:00,Synthetic academic submission content number 285. This is sample text for assessment 3.,Submitted
+SUB-2026-000286,LRN-00141,ASM-003,2026-01-30T10:58:00,Synthetic academic submission content number 286. This is sample text for assessment 3.,Submitted
+SUB-2026-000287,LRN-00014,ASM-005,2026-06-03T15:51:00,"Synthetic submission 287. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000288,LRN-00104,ASM-003,2026-08-05T09:00:00,Synthetic academic submission content number 288. This is sample text for assessment 3.,Submitted
+SUB-2026-000289,LRN-00064,ASM-002,2026-06-07T08:40:00,Synthetic academic submission content number 289. This is sample text for assessment 2.,Submitted
+SUB-2026-000290,LRN-00123,ASM-005,2026-03-26T16:22:00,"Synthetic submission 290. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000291,LRN-00122,ASM-002,2026-01-22T17:08:00,Synthetic academic submission content number 291. This is sample text for assessment 2.,Submitted
+SUB-2026-000292,LRN-00087,ASM-004,2026-03-03T14:08:00,Synthetic academic submission content number 292. This is sample text for assessment 4.,Submitted
+SUB-2026-000293,LRN-00081,ASM-004,2026-04-06T12:26:00,Synthetic academic submission content number 293. This is sample text for assessment 4.,Submitted
+SUB-2026-000294,LRN-00029,ASM-003,2026-04-03T08:44:00,"Synthetic submission 294. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000295,LRN-00033,ASM-002,2026-07-30T13:21:00,Synthetic academic submission content number 295. This is sample text for assessment 2.,Submitted
+SUB-2026-000296,LRN-00066,ASM-001,2026-04-29T10:40:00,Synthetic academic submission content number 296. This is sample text for assessment 1.,Submitted
+SUB-2026-000297,LRN-00177,ASM-003,2026-06-29T08:17:00,Synthetic academic submission content number 297. This is sample text for assessment 3.,Submitted
+SUB-2026-000298,LRN-00077,ASM-003,2026-05-12T09:07:00,Synthetic academic submission content number 298. This is sample text for assessment 3.,Submitted
+SUB-2026-000299,LRN-00106,ASM-005,2026-09-08T11:20:00,Synthetic academic submission content number 299. This is sample text for assessment 5.,Submitted
+SUB-2026-000300,LRN-00066,ASM-005,2026-01-25T08:30:00,"Synthetic submission 300. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000301,LRN-00190,ASM-004,2026-04-29T08:56:00,"Synthetic submission 301. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000302,LRN-00128,ASM-002,2026-06-25T16:27:00,Synthetic academic submission content number 302. This is sample text for assessment 2.,Submitted
+SUB-2026-000303,LRN-00105,ASM-004,2026-05-12T09:49:00,Synthetic academic submission content number 303. This is sample text for assessment 4.,Submitted
+SUB-2026-000304,LRN-00192,ASM-003,2026-04-10T14:52:00,Synthetic academic submission content number 304. This is sample text for assessment 3.,Submitted
+SUB-2026-000305,LRN-00017,ASM-005,2026-07-20T09:26:00,Synthetic academic submission content number 305. This is sample text for assessment 5.,Submitted
+SUB-2026-000306,LRN-00062,ASM-002,2026-08-30T18:35:00,Synthetic academic submission content number 306. This is sample text for assessment 2.,Submitted
+SUB-2026-000307,LRN-00071,ASM-004,2026-05-16T11:20:00,Synthetic academic submission content number 307. This is sample text for assessment 4.,Submitted
+SUB-2026-000308,LRN-00111,ASM-003,2026-03-20T09:59:00,"Synthetic submission 308. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000309,LRN-00142,ASM-001,2026-06-27T12:02:00,Synthetic academic submission content number 309. This is sample text for assessment 1.,Submitted
+SUB-2026-000310,LRN-00195,ASM-005,2026-01-31T08:14:00,"Synthetic submission 310. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000311,LRN-00055,ASM-004,2026-04-23T13:52:00,Synthetic academic submission content number 311. This is sample text for assessment 4.,Submitted
+SUB-2026-000312,LRN-00086,ASM-003,2026-01-29T13:40:00,Synthetic academic submission content number 312. This is sample text for assessment 3.,Submitted
+SUB-2026-000313,LRN-00132,ASM-004,2026-01-01T14:46:00,Synthetic academic submission content number 313. This is sample text for assessment 4.,Submitted
+SUB-2026-000314,LRN-00089,ASM-002,2026-07-08T12:11:00,Synthetic academic submission content number 314. This is sample text for assessment 2.,Submitted
+SUB-2026-000315,LRN-00005,ASM-005,2026-08-24T14:09:00,"Synthetic submission 315. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000316,LRN-00063,ASM-002,2026-02-22T09:11:00,Synthetic academic submission content number 316. This is sample text for assessment 2.,Submitted
+SUB-2026-000317,LRN-00082,ASM-004,2026-06-28T14:07:00,Synthetic academic submission content number 317. This is sample text for assessment 4.,Submitted
+SUB-2026-000318,LRN-00024,ASM-005,2026-04-09T15:58:00,Synthetic academic submission content number 318. This is sample text for assessment 5.,Submitted
+SUB-2026-000319,LRN-00078,ASM-001,2026-06-05T17:49:00,Synthetic academic submission content number 319. This is sample text for assessment 1.,Submitted
+SUB-2026-000320,LRN-00067,ASM-003,2026-02-03T09:28:00,"Synthetic submission 320. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000321,LRN-00065,ASM-004,2026-08-24T17:15:00,Synthetic academic submission content number 321. This is sample text for assessment 4.,Submitted
+SUB-2026-000322,LRN-00141,ASM-004,2026-08-08T18:48:00,"Synthetic submission 322. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000323,LRN-00135,ASM-004,2026-06-09T12:02:00,Synthetic academic submission content number 323. This is sample text for assessment 4.,Submitted
+SUB-2026-000324,LRN-00030,ASM-004,2026-01-03T08:49:00,Synthetic academic submission content number 324. This is sample text for assessment 4.,Submitted
+SUB-2026-000325,LRN-00168,ASM-005,2026-08-28T13:54:00,Synthetic academic submission content number 325. This is sample text for assessment 5.,Submitted
+SUB-2026-000326,LRN-00124,ASM-004,2026-06-03T11:45:00,Synthetic academic submission content number 326. This is sample text for assessment 4.,Submitted
+SUB-2026-000327,LRN-00185,ASM-005,2026-02-09T18:07:00,Synthetic academic submission content number 327. This is sample text for assessment 5.,Submitted
+SUB-2026-000328,LRN-00098,ASM-001,2026-01-07T08:17:00,Synthetic academic submission content number 328. This is sample text for assessment 1.,Submitted
+SUB-2026-000329,LRN-00077,ASM-004,2026-03-24T15:58:00,"Synthetic submission 329. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000330,LRN-00096,ASM-002,2026-02-04T18:03:00,"Synthetic submission 330. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000331,LRN-00186,ASM-001,2026-04-04T08:28:00,Synthetic academic submission content number 331. This is sample text for assessment 1.,Submitted
+SUB-2026-000332,LRN-00080,ASM-004,2026-02-17T15:22:00,Synthetic academic submission content number 332. This is sample text for assessment 4.,Submitted
+SUB-2026-000333,LRN-00106,ASM-001,2026-03-08T15:15:00,Synthetic academic submission content number 333. This is sample text for assessment 1.,Submitted
+SUB-2026-000334,LRN-00070,ASM-005,2026-03-26T12:05:00,Synthetic academic submission content number 334. This is sample text for assessment 5.,Submitted
+SUB-2026-000335,LRN-00055,ASM-002,2026-08-18T13:09:00,Synthetic academic submission content number 335. This is sample text for assessment 2.,Submitted
+SUB-2026-000336,LRN-00185,ASM-003,2026-05-18T12:31:00,"Synthetic submission 336. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000337,LRN-00166,ASM-005,2026-07-26T10:14:00,Synthetic academic submission content number 337. This is sample text for assessment 5.,Submitted
+SUB-2026-000338,LRN-00071,ASM-004,2026-03-06T09:57:00,Synthetic academic submission content number 338. This is sample text for assessment 4.,Submitted
+SUB-2026-000339,LRN-00198,ASM-004,2026-04-20T10:48:00,Synthetic academic submission content number 339. This is sample text for assessment 4.,Submitted
+SUB-2026-000340,LRN-00049,ASM-002,2026-01-06T11:42:00,"Synthetic submission 340. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000341,LRN-00069,ASM-003,2026-09-03T17:40:00,Synthetic academic submission content number 341. This is sample text for assessment 3.,Submitted
+SUB-2026-000342,LRN-00025,ASM-005,2026-07-17T15:58:00,Synthetic academic submission content number 342. This is sample text for assessment 5.,Submitted
+SUB-2026-000343,LRN-00181,ASM-004,2026-01-06T12:37:00,"Synthetic submission 343. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000344,LRN-00082,ASM-002,2026-01-08T12:39:00,Synthetic academic submission content number 344. This is sample text for assessment 2.,Submitted
+SUB-2026-000345,LRN-00015,ASM-002,2026-02-12T08:23:00,Synthetic academic submission content number 345. This is sample text for assessment 2.,Submitted
+SUB-2026-000346,LRN-00007,ASM-005,2026-07-19T17:53:00,Synthetic academic submission content number 346. This is sample text for assessment 5.,Submitted
+SUB-2026-000347,LRN-00199,ASM-003,2026-07-06T15:52:00,Synthetic academic submission content number 347. This is sample text for assessment 3.,Submitted
+SUB-2026-000348,LRN-00117,ASM-005,2026-01-09T15:02:00,Synthetic academic submission content number 348. This is sample text for assessment 5.,Submitted
+SUB-2026-000349,LRN-00062,ASM-003,2026-07-22T09:07:00,Synthetic academic submission content number 349. This is sample text for assessment 3.,Submitted
+SUB-2026-000350,LRN-00067,ASM-005,2026-02-20T10:20:00,"Synthetic submission 350. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000351,LRN-00067,ASM-001,2026-02-17T12:32:00,Synthetic academic submission content number 351. This is sample text for assessment 1.,Submitted
+SUB-2026-000352,LRN-00198,ASM-003,2026-05-12T08:02:00,Synthetic academic submission content number 352. This is sample text for assessment 3.,Submitted
+SUB-2026-000353,LRN-00176,ASM-004,2026-01-30T14:45:00,Synthetic academic submission content number 353. This is sample text for assessment 4.,Submitted
+SUB-2026-000354,LRN-00047,ASM-001,2026-03-14T11:05:00,Synthetic academic submission content number 354. This is sample text for assessment 1.,Submitted
+SUB-2026-000355,LRN-00056,ASM-002,2026-02-20T12:27:00,Synthetic academic submission content number 355. This is sample text for assessment 2.,Submitted
+SUB-2026-000356,LRN-00033,ASM-002,2026-07-30T11:33:00,Synthetic academic submission content number 356. This is sample text for assessment 2.,Submitted
+SUB-2026-000357,LRN-00133,ASM-002,2026-07-03T10:08:00,"Synthetic submission 357. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000358,LRN-00184,ASM-004,2026-03-04T10:46:00,Synthetic academic submission content number 358. This is sample text for assessment 4.,Submitted
+SUB-2026-000359,LRN-00090,ASM-001,2026-08-11T09:57:00,Synthetic academic submission content number 359. This is sample text for assessment 1.,Submitted
+SUB-2026-000360,LRN-00011,ASM-002,2026-07-10T16:32:00,"Synthetic submission 360. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000361,LRN-00133,ASM-003,2026-05-02T13:01:00,Synthetic academic submission content number 361. This is sample text for assessment 3.,Submitted
+SUB-2026-000362,LRN-00134,ASM-001,2026-08-31T14:40:00,Synthetic academic submission content number 362. This is sample text for assessment 1.,Submitted
+SUB-2026-000363,LRN-00038,ASM-001,2026-08-27T13:41:00,Synthetic academic submission content number 363. This is sample text for assessment 1.,Submitted
+SUB-2026-000364,LRN-00156,ASM-004,2026-08-20T10:58:00,"Synthetic submission 364. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000365,LRN-00112,ASM-003,2026-04-01T13:11:00,Synthetic academic submission content number 365. This is sample text for assessment 3.,Submitted
+SUB-2026-000366,LRN-00111,ASM-005,2026-04-01T15:22:00,Synthetic academic submission content number 366. This is sample text for assessment 5.,Submitted
+SUB-2026-000367,LRN-00154,ASM-002,2026-07-14T14:49:00,Synthetic academic submission content number 367. This is sample text for assessment 2.,Submitted
+SUB-2026-000368,LRN-00062,ASM-002,2026-07-31T15:30:00,Synthetic academic submission content number 368. This is sample text for assessment 2.,Submitted
+SUB-2026-000369,LRN-00158,ASM-005,2026-06-08T12:29:00,Synthetic academic submission content number 369. This is sample text for assessment 5.,Submitted
+SUB-2026-000370,LRN-00110,ASM-005,2026-04-04T15:25:00,"Synthetic submission 370. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000371,LRN-00163,ASM-005,2026-03-22T10:08:00,"Synthetic submission 371. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000372,LRN-00119,ASM-005,2026-07-14T11:04:00,Synthetic academic submission content number 372. This is sample text for assessment 5.,Submitted
+SUB-2026-000373,LRN-00191,ASM-003,2026-08-24T18:57:00,Synthetic academic submission content number 373. This is sample text for assessment 3.,Submitted
+SUB-2026-000374,LRN-00113,ASM-002,2026-04-25T08:21:00,Synthetic academic submission content number 374. This is sample text for assessment 2.,Submitted
+SUB-2026-000375,LRN-00012,ASM-003,2026-08-17T17:48:00,Synthetic academic submission content number 375. This is sample text for assessment 3.,Submitted
+SUB-2026-000376,LRN-00103,ASM-002,2026-04-17T09:28:00,Synthetic academic submission content number 376. This is sample text for assessment 2.,Submitted
+SUB-2026-000377,LRN-00027,ASM-005,2026-07-07T09:55:00,Synthetic academic submission content number 377. This is sample text for assessment 5.,Submitted
+SUB-2026-000378,LRN-00136,ASM-002,2026-09-08T12:35:00,"Synthetic submission 378. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000379,LRN-00172,ASM-001,2026-01-16T15:19:00,Synthetic academic submission content number 379. This is sample text for assessment 1.,Submitted
+SUB-2026-000380,LRN-00065,ASM-005,2026-04-17T12:13:00,"Synthetic submission 380. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000381,LRN-00198,ASM-001,2026-06-10T14:20:00,Synthetic academic submission content number 381. This is sample text for assessment 1.,Submitted
+SUB-2026-000382,LRN-00139,ASM-004,2026-04-02T15:31:00,Synthetic academic submission content number 382. This is sample text for assessment 4.,Submitted
+SUB-2026-000383,LRN-00054,ASM-005,2026-07-23T09:24:00,Synthetic academic submission content number 383. This is sample text for assessment 5.,Submitted
+SUB-2026-000384,LRN-00179,ASM-005,2026-05-28T14:19:00,Synthetic academic submission content number 384. This is sample text for assessment 5.,Submitted
+SUB-2026-000385,LRN-00143,ASM-005,2026-04-04T15:08:00,"Synthetic submission 385. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000386,LRN-00132,ASM-003,2026-05-27T14:23:00,Synthetic academic submission content number 386. This is sample text for assessment 3.,Submitted
+SUB-2026-000387,LRN-00144,ASM-002,2026-06-12T13:10:00,Synthetic academic submission content number 387. This is sample text for assessment 2.,Submitted
+SUB-2026-000388,LRN-00006,ASM-004,2026-06-26T09:17:00,Synthetic academic submission content number 388. This is sample text for assessment 4.,Submitted
+SUB-2026-000389,LRN-00175,ASM-002,2026-05-16T11:38:00,Synthetic academic submission content number 389. This is sample text for assessment 2.,Submitted
+SUB-2026-000390,LRN-00058,ASM-001,2026-01-02T15:02:00,"Synthetic submission 390. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000391,LRN-00004,ASM-001,2026-05-12T16:36:00,Synthetic academic submission content number 391. This is sample text for assessment 1.,Submitted
+SUB-2026-000392,LRN-00173,ASM-005,2026-03-04T15:59:00,"Synthetic submission 392. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000393,LRN-00149,ASM-002,2026-08-02T15:56:00,Synthetic academic submission content number 393. This is sample text for assessment 2.,Submitted
+SUB-2026-000394,LRN-00041,ASM-001,2026-03-05T10:37:00,Synthetic academic submission content number 394. This is sample text for assessment 1.,Submitted
+SUB-2026-000395,LRN-00104,ASM-005,2026-08-07T17:13:00,Synthetic academic submission content number 395. This is sample text for assessment 5.,Submitted
+SUB-2026-000396,LRN-00055,ASM-003,2026-04-06T09:51:00,Synthetic academic submission content number 396. This is sample text for assessment 3.,Submitted
+SUB-2026-000397,LRN-00145,ASM-004,2026-02-10T14:16:00,Synthetic academic submission content number 397. This is sample text for assessment 4.,Submitted
+SUB-2026-000398,LRN-00072,ASM-003,2026-01-23T13:16:00,Synthetic academic submission content number 398. This is sample text for assessment 3.,Submitted
+SUB-2026-000399,LRN-00047,ASM-001,2026-02-26T18:34:00,"Synthetic submission 399. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000400,LRN-00178,ASM-005,2026-04-06T09:55:00,"Synthetic submission 400. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000401,LRN-00169,ASM-001,2026-01-27T14:57:00,Synthetic academic submission content number 401. This is sample text for assessment 1.,Submitted
+SUB-2026-000402,LRN-00093,ASM-001,2026-04-16T09:44:00,Synthetic academic submission content number 402. This is sample text for assessment 1.,Submitted
+SUB-2026-000403,LRN-00021,ASM-001,2026-05-13T09:01:00,Synthetic academic submission content number 403. This is sample text for assessment 1.,Submitted
+SUB-2026-000404,LRN-00029,ASM-001,2026-01-02T17:54:00,Synthetic academic submission content number 404. This is sample text for assessment 1.,Submitted
+SUB-2026-000405,LRN-00143,ASM-001,2026-01-29T10:02:00,Synthetic academic submission content number 405. This is sample text for assessment 1.,Submitted
+SUB-2026-000406,LRN-00029,ASM-001,2026-04-14T13:43:00,"Synthetic submission 406. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000407,LRN-00108,ASM-002,2026-06-24T16:36:00,Synthetic academic submission content number 407. This is sample text for assessment 2.,Submitted
+SUB-2026-000408,LRN-00065,ASM-005,2026-05-12T08:59:00,Synthetic academic submission content number 408. This is sample text for assessment 5.,Submitted
+SUB-2026-000409,LRN-00157,ASM-004,2026-08-13T14:05:00,Synthetic academic submission content number 409. This is sample text for assessment 4.,Submitted
+SUB-2026-000410,LRN-00147,ASM-004,2026-02-04T15:19:00,"Synthetic submission 410. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000411,LRN-00122,ASM-005,2026-07-02T09:58:00,Synthetic academic submission content number 411. This is sample text for assessment 5.,Submitted
+SUB-2026-000412,LRN-00084,ASM-004,2026-04-26T08:30:00,Synthetic academic submission content number 412. This is sample text for assessment 4.,Submitted
+SUB-2026-000413,LRN-00105,ASM-001,2026-04-27T08:47:00,"Synthetic submission 413. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000414,LRN-00171,ASM-002,2026-05-12T15:08:00,Synthetic academic submission content number 414. This is sample text for assessment 2.,Submitted
+SUB-2026-000415,LRN-00075,ASM-002,2026-08-17T14:40:00,Synthetic academic submission content number 415. This is sample text for assessment 2.,Submitted
+SUB-2026-000416,LRN-00174,ASM-004,2026-07-08T08:41:00,Synthetic academic submission content number 416. This is sample text for assessment 4.,Submitted
+SUB-2026-000417,LRN-00072,ASM-004,2026-07-19T18:03:00,Synthetic academic submission content number 417. This is sample text for assessment 4.,Submitted
+SUB-2026-000418,LRN-00121,ASM-005,2026-05-03T16:19:00,Synthetic academic submission content number 418. This is sample text for assessment 5.,Submitted
+SUB-2026-000419,LRN-00034,ASM-004,2026-05-12T15:54:00,Synthetic academic submission content number 419. This is sample text for assessment 4.,Submitted
+SUB-2026-000420,LRN-00073,ASM-001,2026-02-12T18:50:00,"Synthetic submission 420. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000421,LRN-00151,ASM-005,2026-06-17T08:37:00,Synthetic academic submission content number 421. This is sample text for assessment 5.,Submitted
+SUB-2026-000422,LRN-00040,ASM-002,2026-01-31T11:16:00,Synthetic academic submission content number 422. This is sample text for assessment 2.,Submitted
+SUB-2026-000423,LRN-00057,ASM-003,2026-05-24T16:48:00,Synthetic academic submission content number 423. This is sample text for assessment 3.,Submitted
+SUB-2026-000424,LRN-00020,ASM-005,2026-05-14T14:23:00,Synthetic academic submission content number 424. This is sample text for assessment 5.,Submitted
+SUB-2026-000425,LRN-00080,ASM-003,2026-08-25T14:38:00,Synthetic academic submission content number 425. This is sample text for assessment 3.,Submitted
+SUB-2026-000426,LRN-00141,ASM-002,2026-01-30T14:21:00,Synthetic academic submission content number 426. This is sample text for assessment 2.,Submitted
+SUB-2026-000427,LRN-00022,ASM-002,2026-08-06T15:35:00,"Synthetic submission 427. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000428,LRN-00147,ASM-005,2026-04-05T17:32:00,Synthetic academic submission content number 428. This is sample text for assessment 5.,Submitted
+SUB-2026-000429,LRN-00060,ASM-003,2026-03-06T14:08:00,Synthetic academic submission content number 429. This is sample text for assessment 3.,Submitted
+SUB-2026-000430,LRN-00177,ASM-001,2026-07-29T11:26:00,"Synthetic submission 430. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000431,LRN-00029,ASM-001,2026-01-19T17:49:00,Synthetic academic submission content number 431. This is sample text for assessment 1.,Submitted
+SUB-2026-000432,LRN-00151,ASM-004,2026-05-20T16:23:00,Synthetic academic submission content number 432. This is sample text for assessment 4.,Submitted
+SUB-2026-000433,LRN-00004,ASM-004,2026-03-04T16:56:00,Synthetic academic submission content number 433. This is sample text for assessment 4.,Submitted
+SUB-2026-000434,LRN-00194,ASM-005,2026-07-01T14:57:00,"Synthetic submission 434. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000435,LRN-00158,ASM-001,2026-06-12T14:58:00,Synthetic academic submission content number 435. This is sample text for assessment 1.,Submitted
+SUB-2026-000436,LRN-00134,ASM-005,2026-05-25T18:59:00,Synthetic academic submission content number 436. This is sample text for assessment 5.,Submitted
+SUB-2026-000437,LRN-00134,ASM-001,2026-07-01T10:06:00,Synthetic academic submission content number 437. This is sample text for assessment 1.,Submitted
+SUB-2026-000438,LRN-00119,ASM-002,2026-04-01T18:31:00,Synthetic academic submission content number 438. This is sample text for assessment 2.,Submitted
+SUB-2026-000439,LRN-00113,ASM-004,2026-04-25T10:43:00,Synthetic academic submission content number 439. This is sample text for assessment 4.,Submitted
+SUB-2026-000440,LRN-00035,ASM-001,2026-04-09T12:22:00,"Synthetic submission 440. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000441,LRN-00055,ASM-004,2026-06-11T12:43:00,"Synthetic submission 441. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000442,LRN-00131,ASM-005,2026-02-13T09:26:00,Synthetic academic submission content number 442. This is sample text for assessment 5.,Submitted
+SUB-2026-000443,LRN-00049,ASM-005,2026-07-29T18:22:00,Synthetic academic submission content number 443. This is sample text for assessment 5.,Submitted
+SUB-2026-000444,LRN-00055,ASM-001,2026-04-01T10:28:00,Synthetic academic submission content number 444. This is sample text for assessment 1.,Submitted
+SUB-2026-000445,LRN-00016,ASM-002,2026-03-03T08:54:00,Synthetic academic submission content number 445. This is sample text for assessment 2.,Submitted
+SUB-2026-000446,LRN-00194,ASM-003,2026-02-07T12:10:00,Synthetic academic submission content number 446. This is sample text for assessment 3.,Submitted
+SUB-2026-000447,LRN-00128,ASM-004,2026-07-08T18:49:00,Synthetic academic submission content number 447. This is sample text for assessment 4.,Submitted
+SUB-2026-000448,LRN-00167,ASM-004,2026-01-19T08:31:00,"Synthetic submission 448. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000449,LRN-00007,ASM-003,2026-01-05T11:54:00,Synthetic academic submission content number 449. This is sample text for assessment 3.,Submitted
+SUB-2026-000450,LRN-00058,ASM-005,2026-07-11T09:29:00,"Synthetic submission 450. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000451,LRN-00005,ASM-005,2026-03-09T12:27:00,Synthetic academic submission content number 451. This is sample text for assessment 5.,Submitted
+SUB-2026-000452,LRN-00144,ASM-002,2026-02-21T13:09:00,Synthetic academic submission content number 452. This is sample text for assessment 2.,Submitted
+SUB-2026-000453,LRN-00155,ASM-005,2026-03-28T16:00:00,Synthetic academic submission content number 453. This is sample text for assessment 5.,Submitted
+SUB-2026-000454,LRN-00024,ASM-005,2026-08-30T16:24:00,Synthetic academic submission content number 454. This is sample text for assessment 5.,Submitted
+SUB-2026-000455,LRN-00173,ASM-005,2026-01-29T09:08:00,"Synthetic submission 455. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000456,LRN-00112,ASM-004,2026-01-17T16:46:00,Synthetic academic submission content number 456. This is sample text for assessment 4.,Submitted
+SUB-2026-000457,LRN-00170,ASM-001,2026-02-13T17:36:00,Synthetic academic submission content number 457. This is sample text for assessment 1.,Submitted
+SUB-2026-000458,LRN-00167,ASM-004,2026-04-06T16:39:00,Synthetic academic submission content number 458. This is sample text for assessment 4.,Submitted
+SUB-2026-000459,LRN-00003,ASM-005,2026-06-03T18:29:00,Synthetic academic submission content number 459. This is sample text for assessment 5.,Submitted
+SUB-2026-000460,LRN-00151,ASM-001,2026-07-23T18:57:00,"Synthetic submission 460. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000461,LRN-00033,ASM-004,2026-01-23T14:08:00,Synthetic academic submission content number 461. This is sample text for assessment 4.,Submitted
+SUB-2026-000462,LRN-00094,ASM-004,2026-01-19T09:09:00,"Synthetic submission 462. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000463,LRN-00133,ASM-001,2026-06-13T18:18:00,Synthetic academic submission content number 463. This is sample text for assessment 1.,Submitted
+SUB-2026-000464,LRN-00023,ASM-003,2026-05-04T16:58:00,Synthetic academic submission content number 464. This is sample text for assessment 3.,Submitted
+SUB-2026-000465,LRN-00085,ASM-003,2026-05-26T13:40:00,Synthetic academic submission content number 465. This is sample text for assessment 3.,Submitted
+SUB-2026-000466,LRN-00124,ASM-004,2026-02-15T11:35:00,Synthetic academic submission content number 466. This is sample text for assessment 4.,Submitted
+SUB-2026-000467,LRN-00197,ASM-002,2026-04-29T09:48:00,Synthetic academic submission content number 467. This is sample text for assessment 2.,Submitted
+SUB-2026-000468,LRN-00015,ASM-002,2026-08-28T18:12:00,Synthetic academic submission content number 468. This is sample text for assessment 2.,Submitted
+SUB-2026-000469,LRN-00154,ASM-002,2026-02-21T10:31:00,"Synthetic submission 469. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000470,LRN-00050,ASM-004,2026-04-22T16:52:00,"Synthetic submission 470. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000471,LRN-00020,ASM-005,2026-06-23T15:42:00,Synthetic academic submission content number 471. This is sample text for assessment 5.,Submitted
+SUB-2026-000472,LRN-00007,ASM-005,2026-08-25T15:58:00,Synthetic academic submission content number 472. This is sample text for assessment 5.,Submitted
+SUB-2026-000473,LRN-00058,ASM-004,2026-02-19T15:48:00,Synthetic academic submission content number 473. This is sample text for assessment 4.,Submitted
+SUB-2026-000474,LRN-00004,ASM-004,2026-06-11T18:50:00,Synthetic academic submission content number 474. This is sample text for assessment 4.,Submitted
+SUB-2026-000475,LRN-00143,ASM-004,2026-03-24T11:08:00,Synthetic academic submission content number 475. This is sample text for assessment 4.,Submitted
+SUB-2026-000476,LRN-00194,ASM-004,2026-08-16T08:55:00,"Synthetic submission 476. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000477,LRN-00186,ASM-003,2026-03-03T17:37:00,Synthetic academic submission content number 477. This is sample text for assessment 3.,Submitted
+SUB-2026-000478,LRN-00078,ASM-002,2026-09-02T18:42:00,Synthetic academic submission content number 478. This is sample text for assessment 2.,Submitted
+SUB-2026-000479,LRN-00140,ASM-002,2026-07-15T12:18:00,Synthetic academic submission content number 479. This is sample text for assessment 2.,Submitted
+SUB-2026-000480,LRN-00176,ASM-005,2026-03-28T11:11:00,"Synthetic submission 480. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000481,LRN-00131,ASM-001,2026-04-22T10:05:00,Synthetic academic submission content number 481. This is sample text for assessment 1.,Submitted
+SUB-2026-000482,LRN-00131,ASM-001,2026-08-29T11:03:00,Synthetic academic submission content number 482. This is sample text for assessment 1.,Submitted
+SUB-2026-000483,LRN-00145,ASM-003,2026-05-18T12:50:00,"Synthetic submission 483. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000484,LRN-00091,ASM-002,2026-04-11T15:56:00,Synthetic academic submission content number 484. This is sample text for assessment 2.,Submitted
+SUB-2026-000485,LRN-00059,ASM-004,2026-01-20T16:25:00,Synthetic academic submission content number 485. This is sample text for assessment 4.,Submitted
+SUB-2026-000486,LRN-00077,ASM-003,2026-08-18T17:04:00,Synthetic academic submission content number 486. This is sample text for assessment 3.,Submitted
+SUB-2026-000487,LRN-00128,ASM-002,2026-09-03T08:25:00,Synthetic academic submission content number 487. This is sample text for assessment 2.,Submitted
+SUB-2026-000488,LRN-00056,ASM-001,2026-07-25T16:56:00,Synthetic academic submission content number 488. This is sample text for assessment 1.,Submitted
+SUB-2026-000489,LRN-00120,ASM-004,2026-04-10T15:22:00,Synthetic academic submission content number 489. This is sample text for assessment 4.,Submitted
+SUB-2026-000490,LRN-00025,ASM-004,2026-04-25T09:18:00,"Synthetic submission 490. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000491,LRN-00070,ASM-003,2026-06-18T16:59:00,Synthetic academic submission content number 491. This is sample text for assessment 3.,Submitted
+SUB-2026-000492,LRN-00136,ASM-001,2026-04-27T11:14:00,Synthetic academic submission content number 492. This is sample text for assessment 1.,Submitted
+SUB-2026-000493,LRN-00143,ASM-002,2026-04-02T11:40:00,Synthetic academic submission content number 493. This is sample text for assessment 2.,Submitted
+SUB-2026-000494,LRN-00160,ASM-005,2026-07-14T16:17:00,Synthetic academic submission content number 494. This is sample text for assessment 5.,Submitted
+SUB-2026-000495,LRN-00007,ASM-004,2026-05-12T18:38:00,Synthetic academic submission content number 495. This is sample text for assessment 4.,Submitted
+SUB-2026-000496,LRN-00157,ASM-002,2026-07-15T08:44:00,Synthetic academic submission content number 496. This is sample text for assessment 2.,Submitted
+SUB-2026-000497,LRN-00109,ASM-005,2026-03-20T13:00:00,"Synthetic submission 497. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000498,LRN-00113,ASM-004,2026-06-12T11:37:00,Synthetic academic submission content number 498. This is sample text for assessment 4.,Submitted
+SUB-2026-000499,LRN-00034,ASM-004,2026-09-06T11:58:00,Synthetic academic submission content number 499. This is sample text for assessment 4.,Submitted
+SUB-2026-000500,LRN-00110,ASM-003,2026-04-23T11:35:00,"Synthetic submission 500. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000501,LRN-00091,ASM-003,2026-08-18T12:53:00,Synthetic academic submission content number 501. This is sample text for assessment 3.,Submitted
+SUB-2026-000502,LRN-00032,ASM-005,2026-03-21T10:44:00,Synthetic academic submission content number 502. This is sample text for assessment 5.,Submitted
+SUB-2026-000503,LRN-00013,ASM-005,2026-08-01T12:35:00,Synthetic academic submission content number 503. This is sample text for assessment 5.,Submitted
+SUB-2026-000504,LRN-00109,ASM-001,2026-02-09T11:17:00,"Synthetic submission 504. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000505,LRN-00039,ASM-002,2026-02-05T08:47:00,Synthetic academic submission content number 505. This is sample text for assessment 2.,Submitted
+SUB-2026-000506,LRN-00188,ASM-001,2026-08-08T13:49:00,Synthetic academic submission content number 506. This is sample text for assessment 1.,Submitted
+SUB-2026-000507,LRN-00067,ASM-003,2026-03-13T15:44:00,Synthetic academic submission content number 507. This is sample text for assessment 3.,Submitted
+SUB-2026-000508,LRN-00006,ASM-003,2026-04-15T08:04:00,Synthetic academic submission content number 508. This is sample text for assessment 3.,Submitted
+SUB-2026-000509,LRN-00038,ASM-004,2026-04-03T14:31:00,Synthetic academic submission content number 509. This is sample text for assessment 4.,Submitted
+SUB-2026-000510,LRN-00082,ASM-005,2026-01-20T17:14:00,"Synthetic submission 510. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000511,LRN-00085,ASM-004,2026-02-05T16:16:00,"Synthetic submission 511. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000512,LRN-00012,ASM-004,2026-04-01T11:43:00,Synthetic academic submission content number 512. This is sample text for assessment 4.,Submitted
+SUB-2026-000513,LRN-00012,ASM-004,2026-03-21T17:15:00,Synthetic academic submission content number 513. This is sample text for assessment 4.,Submitted
+SUB-2026-000514,LRN-00155,ASM-005,2026-01-02T14:10:00,Synthetic academic submission content number 514. This is sample text for assessment 5.,Submitted
+SUB-2026-000515,LRN-00045,ASM-004,2026-04-22T09:32:00,Synthetic academic submission content number 515. This is sample text for assessment 4.,Submitted
+SUB-2026-000516,LRN-00028,ASM-005,2026-06-28T08:26:00,Synthetic academic submission content number 516. This is sample text for assessment 5.,Submitted
+SUB-2026-000517,LRN-00103,ASM-002,2026-04-23T13:53:00,Synthetic academic submission content number 517. This is sample text for assessment 2.,Submitted
+SUB-2026-000518,LRN-00106,ASM-003,2026-04-20T11:04:00,"Synthetic submission 518. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000519,LRN-00060,ASM-002,2026-05-12T16:01:00,Synthetic academic submission content number 519. This is sample text for assessment 2.,Submitted
+SUB-2026-000520,LRN-00092,ASM-003,2026-08-18T08:56:00,"Synthetic submission 520. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000521,LRN-00174,ASM-002,2026-03-29T15:57:00,Synthetic academic submission content number 521. This is sample text for assessment 2.,Submitted
+SUB-2026-000522,LRN-00089,ASM-005,2026-07-14T14:39:00,Synthetic academic submission content number 522. This is sample text for assessment 5.,Submitted
+SUB-2026-000523,LRN-00109,ASM-002,2026-07-01T11:27:00,Synthetic academic submission content number 523. This is sample text for assessment 2.,Submitted
+SUB-2026-000524,LRN-00074,ASM-004,2026-03-21T13:14:00,Synthetic academic submission content number 524. This is sample text for assessment 4.,Submitted
+SUB-2026-000525,LRN-00089,ASM-005,2026-09-08T08:18:00,"Synthetic submission 525. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000526,LRN-00021,ASM-004,2026-04-03T15:19:00,Synthetic academic submission content number 526. This is sample text for assessment 4.,Submitted
+SUB-2026-000527,LRN-00042,ASM-003,2026-01-03T16:04:00,Synthetic academic submission content number 527. This is sample text for assessment 3.,Submitted
+SUB-2026-000528,LRN-00039,ASM-003,2026-03-05T09:15:00,Synthetic academic submission content number 528. This is sample text for assessment 3.,Submitted
+SUB-2026-000529,LRN-00112,ASM-004,2026-03-18T14:47:00,Synthetic academic submission content number 529. This is sample text for assessment 4.,Submitted
+SUB-2026-000530,LRN-00125,ASM-005,2026-04-19T10:39:00,"Synthetic submission 530. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000531,LRN-00072,ASM-001,2026-07-27T13:57:00,Synthetic academic submission content number 531. This is sample text for assessment 1.,Submitted
+SUB-2026-000532,LRN-00008,ASM-002,2026-06-15T10:49:00,"Synthetic submission 532. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000533,LRN-00006,ASM-003,2026-05-26T11:02:00,Synthetic academic submission content number 533. This is sample text for assessment 3.,Submitted
+SUB-2026-000534,LRN-00021,ASM-005,2026-02-17T11:55:00,Synthetic academic submission content number 534. This is sample text for assessment 5.,Submitted
+SUB-2026-000535,LRN-00157,ASM-003,2026-04-22T10:47:00,Synthetic academic submission content number 535. This is sample text for assessment 3.,Submitted
+SUB-2026-000536,LRN-00014,ASM-004,2026-05-27T09:42:00,Synthetic academic submission content number 536. This is sample text for assessment 4.,Submitted
+SUB-2026-000537,LRN-00028,ASM-005,2026-04-08T18:04:00,Synthetic academic submission content number 537. This is sample text for assessment 5.,Submitted
+SUB-2026-000538,LRN-00024,ASM-005,2026-01-06T10:39:00,Synthetic academic submission content number 538. This is sample text for assessment 5.,Submitted
+SUB-2026-000539,LRN-00172,ASM-001,2026-05-29T09:26:00,"Synthetic submission 539. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000540,LRN-00170,ASM-001,2026-03-25T12:13:00,"Synthetic submission 540. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000541,LRN-00079,ASM-005,2026-06-09T18:25:00,Synthetic academic submission content number 541. This is sample text for assessment 5.,Submitted
+SUB-2026-000542,LRN-00119,ASM-003,2026-08-24T10:57:00,Synthetic academic submission content number 542. This is sample text for assessment 3.,Submitted
+SUB-2026-000543,LRN-00073,ASM-001,2026-06-20T18:15:00,Synthetic academic submission content number 543. This is sample text for assessment 1.,Submitted
+SUB-2026-000544,LRN-00077,ASM-001,2026-01-18T09:08:00,Synthetic academic submission content number 544. This is sample text for assessment 1.,Submitted
+SUB-2026-000545,LRN-00068,ASM-003,2026-07-21T18:23:00,Synthetic academic submission content number 545. This is sample text for assessment 3.,Submitted
+SUB-2026-000546,LRN-00129,ASM-005,2026-05-25T15:36:00,"Synthetic submission 546. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000547,LRN-00002,ASM-003,2026-03-26T13:24:00,Synthetic academic submission content number 547. This is sample text for assessment 3.,Submitted
+SUB-2026-000548,LRN-00065,ASM-005,2026-03-20T08:04:00,Synthetic academic submission content number 548. This is sample text for assessment 5.,Submitted
+SUB-2026-000549,LRN-00191,ASM-004,2026-06-23T17:31:00,Synthetic academic submission content number 549. This is sample text for assessment 4.,Submitted
+SUB-2026-000550,LRN-00187,ASM-005,2026-08-23T08:38:00,"Synthetic submission 550. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000551,LRN-00008,ASM-002,2026-06-18T15:23:00,Synthetic academic submission content number 551. This is sample text for assessment 2.,Submitted
+SUB-2026-000552,LRN-00104,ASM-004,2026-08-12T18:27:00,Synthetic academic submission content number 552. This is sample text for assessment 4.,Submitted
+SUB-2026-000553,LRN-00093,ASM-005,2026-03-11T10:18:00,"Synthetic submission 553. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000554,LRN-00086,ASM-001,2026-07-18T13:44:00,Synthetic academic submission content number 554. This is sample text for assessment 1.,Submitted
+SUB-2026-000555,LRN-00136,ASM-001,2026-02-21T17:03:00,Synthetic academic submission content number 555. This is sample text for assessment 1.,Submitted
+SUB-2026-000556,LRN-00069,ASM-004,2026-06-28T08:01:00,Synthetic academic submission content number 556. This is sample text for assessment 4.,Submitted
+SUB-2026-000557,LRN-00145,ASM-001,2026-07-15T10:47:00,Synthetic academic submission content number 557. This is sample text for assessment 1.,Submitted
+SUB-2026-000558,LRN-00063,ASM-003,2026-07-18T13:07:00,Synthetic academic submission content number 558. This is sample text for assessment 3.,Submitted
+SUB-2026-000559,LRN-00081,ASM-002,2026-07-17T16:25:00,Synthetic academic submission content number 559. This is sample text for assessment 2.,Submitted
+SUB-2026-000560,LRN-00040,ASM-003,2026-01-04T17:01:00,"Synthetic submission 560. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000561,LRN-00054,ASM-005,2026-06-11T17:51:00,Synthetic academic submission content number 561. This is sample text for assessment 5.,Submitted
+SUB-2026-000562,LRN-00028,ASM-003,2026-08-18T13:35:00,Synthetic academic submission content number 562. This is sample text for assessment 3.,Submitted
+SUB-2026-000563,LRN-00123,ASM-001,2026-01-05T13:13:00,Synthetic academic submission content number 563. This is sample text for assessment 1.,Submitted
+SUB-2026-000564,LRN-00002,ASM-003,2026-02-19T14:54:00,Synthetic academic submission content number 564. This is sample text for assessment 3.,Submitted
+SUB-2026-000565,LRN-00021,ASM-001,2026-02-15T16:35:00,Synthetic academic submission content number 565. This is sample text for assessment 1.,Submitted
+SUB-2026-000566,LRN-00091,ASM-005,2026-02-09T12:48:00,Synthetic academic submission content number 566. This is sample text for assessment 5.,Submitted
+SUB-2026-000567,LRN-00091,ASM-002,2026-05-27T11:48:00,"Synthetic submission 567. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000568,LRN-00049,ASM-004,2026-07-18T15:00:00,Synthetic academic submission content number 568. This is sample text for assessment 4.,Submitted
+SUB-2026-000569,LRN-00155,ASM-002,2026-01-29T14:18:00,Synthetic academic submission content number 569. This is sample text for assessment 2.,Submitted
+SUB-2026-000570,LRN-00075,ASM-004,2026-07-06T08:57:00,"Synthetic submission 570. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000571,LRN-00111,ASM-001,2026-02-28T09:20:00,Synthetic academic submission content number 571. This is sample text for assessment 1.,Submitted
+SUB-2026-000572,LRN-00040,ASM-003,2026-05-29T15:50:00,Synthetic academic submission content number 572. This is sample text for assessment 3.,Submitted
+SUB-2026-000573,LRN-00144,ASM-004,2026-06-29T11:46:00,Synthetic academic submission content number 573. This is sample text for assessment 4.,Submitted
+SUB-2026-000574,LRN-00003,ASM-001,2026-02-10T18:19:00,"Synthetic submission 574. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000575,LRN-00076,ASM-001,2026-05-06T14:21:00,Synthetic academic submission content number 575. This is sample text for assessment 1.,Submitted
+SUB-2026-000576,LRN-00190,ASM-002,2026-03-14T10:02:00,Synthetic academic submission content number 576. This is sample text for assessment 2.,Submitted
+SUB-2026-000577,LRN-00062,ASM-001,2026-02-18T09:12:00,Synthetic academic submission content number 577. This is sample text for assessment 1.,Submitted
+SUB-2026-000578,LRN-00199,ASM-002,2026-01-07T12:26:00,Synthetic academic submission content number 578. This is sample text for assessment 2.,Submitted
+SUB-2026-000579,LRN-00182,ASM-001,2026-01-25T11:25:00,Synthetic academic submission content number 579. This is sample text for assessment 1.,Submitted
+SUB-2026-000580,LRN-00059,ASM-002,2026-05-04T17:31:00,"Synthetic submission 580. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000581,LRN-00141,ASM-001,2026-05-27T08:24:00,"Synthetic submission 581. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000582,LRN-00162,ASM-001,2026-05-19T16:26:00,Synthetic academic submission content number 582. This is sample text for assessment 1.,Submitted
+SUB-2026-000583,LRN-00182,ASM-004,2026-02-16T09:18:00,Synthetic academic submission content number 583. This is sample text for assessment 4.,Submitted
+SUB-2026-000584,LRN-00113,ASM-002,2026-02-01T18:56:00,Synthetic academic submission content number 584. This is sample text for assessment 2.,Submitted
+SUB-2026-000585,LRN-00073,ASM-004,2026-07-26T09:26:00,Synthetic academic submission content number 585. This is sample text for assessment 4.,Submitted
+SUB-2026-000586,LRN-00108,ASM-005,2026-04-12T12:52:00,Synthetic academic submission content number 586. This is sample text for assessment 5.,Submitted
+SUB-2026-000587,LRN-00103,ASM-002,2026-09-06T15:18:00,Synthetic academic submission content number 587. This is sample text for assessment 2.,Submitted
+SUB-2026-000588,LRN-00171,ASM-003,2026-03-12T17:27:00,"Synthetic submission 588. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000589,LRN-00028,ASM-004,2026-04-06T17:54:00,Synthetic academic submission content number 589. This is sample text for assessment 4.,Submitted
+SUB-2026-000590,LRN-00069,ASM-002,2026-08-13T09:36:00,"Synthetic submission 590. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000591,LRN-00029,ASM-001,2026-01-06T17:38:00,Synthetic academic submission content number 591. This is sample text for assessment 1.,Submitted
+SUB-2026-000592,LRN-00193,ASM-002,2026-05-31T17:34:00,Synthetic academic submission content number 592. This is sample text for assessment 2.,Submitted
+SUB-2026-000593,LRN-00163,ASM-004,2026-03-06T16:58:00,Synthetic academic submission content number 593. This is sample text for assessment 4.,Submitted
+SUB-2026-000594,LRN-00087,ASM-005,2026-06-08T10:09:00,Synthetic academic submission content number 594. This is sample text for assessment 5.,Submitted
+SUB-2026-000595,LRN-00108,ASM-002,2026-05-05T09:58:00,"Synthetic submission 595. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000596,LRN-00087,ASM-004,2026-04-03T13:01:00,Synthetic academic submission content number 596. This is sample text for assessment 4.,Submitted
+SUB-2026-000597,LRN-00158,ASM-001,2026-03-20T11:13:00,Synthetic academic submission content number 597. This is sample text for assessment 1.,Submitted
+SUB-2026-000598,LRN-00001,ASM-001,2026-04-06T18:01:00,Synthetic academic submission content number 598. This is sample text for assessment 1.,Submitted
+SUB-2026-000599,LRN-00138,ASM-001,2026-02-05T09:41:00,Synthetic academic submission content number 599. This is sample text for assessment 1.,Submitted
+SUB-2026-000600,LRN-00132,ASM-001,2026-04-07T15:21:00,"Synthetic submission 600. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000601,LRN-00036,ASM-005,2026-04-11T08:23:00,Synthetic academic submission content number 601. This is sample text for assessment 5.,Submitted
+SUB-2026-000602,LRN-00187,ASM-003,2026-01-14T18:13:00,"Synthetic submission 602. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000603,LRN-00055,ASM-005,2026-04-21T14:17:00,Synthetic academic submission content number 603. This is sample text for assessment 5.,Submitted
+SUB-2026-000604,LRN-00063,ASM-001,2026-07-08T12:26:00,Synthetic academic submission content number 604. This is sample text for assessment 1.,Submitted
+SUB-2026-000605,LRN-00013,ASM-003,2026-01-30T13:01:00,Synthetic academic submission content number 605. This is sample text for assessment 3.,Submitted
+SUB-2026-000606,LRN-00099,ASM-001,2026-06-10T15:53:00,Synthetic academic submission content number 606. This is sample text for assessment 1.,Submitted
+SUB-2026-000607,LRN-00022,ASM-003,2026-07-09T17:15:00,Synthetic academic submission content number 607. This is sample text for assessment 3.,Submitted
+SUB-2026-000608,LRN-00133,ASM-001,2026-02-14T18:34:00,Synthetic academic submission content number 608. This is sample text for assessment 1.,Submitted
+SUB-2026-000609,LRN-00044,ASM-003,2026-05-01T18:04:00,"Synthetic submission 609. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000610,LRN-00108,ASM-004,2026-01-04T18:59:00,"Synthetic submission 610. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000611,LRN-00051,ASM-002,2026-05-25T16:45:00,Synthetic academic submission content number 611. This is sample text for assessment 2.,Submitted
+SUB-2026-000612,LRN-00062,ASM-004,2026-05-18T12:03:00,Synthetic academic submission content number 612. This is sample text for assessment 4.,Submitted
+SUB-2026-000613,LRN-00173,ASM-004,2026-01-06T15:28:00,Synthetic academic submission content number 613. This is sample text for assessment 4.,Submitted
+SUB-2026-000614,LRN-00008,ASM-004,2026-07-09T18:15:00,Synthetic academic submission content number 614. This is sample text for assessment 4.,Submitted
+SUB-2026-000615,LRN-00139,ASM-004,2026-08-16T18:45:00,Synthetic academic submission content number 615. This is sample text for assessment 4.,Submitted
+SUB-2026-000616,LRN-00109,ASM-003,2026-07-10T09:38:00,"Synthetic submission 616. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000617,LRN-00162,ASM-003,2026-05-29T08:35:00,Synthetic academic submission content number 617. This is sample text for assessment 3.,Submitted
+SUB-2026-000618,LRN-00081,ASM-002,2026-08-10T16:48:00,Synthetic academic submission content number 618. This is sample text for assessment 2.,Submitted
+SUB-2026-000619,LRN-00084,ASM-002,2026-05-08T11:42:00,Synthetic academic submission content number 619. This is sample text for assessment 2.,Submitted
+SUB-2026-000620,LRN-00162,ASM-004,2026-05-20T16:39:00,"Synthetic submission 620. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000621,LRN-00038,ASM-005,2026-06-08T18:39:00,Synthetic academic submission content number 621. This is sample text for assessment 5.,Submitted
+SUB-2026-000622,LRN-00131,ASM-001,2026-06-06T12:00:00,Synthetic academic submission content number 622. This is sample text for assessment 1.,Submitted
+SUB-2026-000623,LRN-00041,ASM-003,2026-02-07T17:28:00,"Synthetic submission 623. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000624,LRN-00025,ASM-003,2026-07-27T10:19:00,Synthetic academic submission content number 624. This is sample text for assessment 3.,Submitted
+SUB-2026-000625,LRN-00037,ASM-005,2026-07-23T16:15:00,Synthetic academic submission content number 625. This is sample text for assessment 5.,Submitted
+SUB-2026-000626,LRN-00045,ASM-002,2026-01-10T08:26:00,Synthetic academic submission content number 626. This is sample text for assessment 2.,Submitted
+SUB-2026-000627,LRN-00019,ASM-002,2026-02-01T16:42:00,Synthetic academic submission content number 627. This is sample text for assessment 2.,Submitted
+SUB-2026-000628,LRN-00025,ASM-005,2026-09-05T09:07:00,Synthetic academic submission content number 628. This is sample text for assessment 5.,Submitted
+SUB-2026-000629,LRN-00149,ASM-001,2026-01-30T09:58:00,Synthetic academic submission content number 629. This is sample text for assessment 1.,Submitted
+SUB-2026-000630,LRN-00139,ASM-001,2026-07-29T15:26:00,"Synthetic submission 630. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000631,LRN-00019,ASM-005,2026-02-18T12:52:00,Synthetic academic submission content number 631. This is sample text for assessment 5.,Submitted
+SUB-2026-000632,LRN-00166,ASM-005,2026-07-09T12:40:00,Synthetic academic submission content number 632. This is sample text for assessment 5.,Submitted
+SUB-2026-000633,LRN-00128,ASM-003,2026-07-09T12:42:00,Synthetic academic submission content number 633. This is sample text for assessment 3.,Submitted
+SUB-2026-000634,LRN-00012,ASM-002,2026-05-21T14:17:00,Synthetic academic submission content number 634. This is sample text for assessment 2.,Submitted
+SUB-2026-000635,LRN-00200,ASM-001,2026-06-06T09:58:00,Synthetic academic submission content number 635. This is sample text for assessment 1.,Submitted
+SUB-2026-000636,LRN-00114,ASM-004,2026-05-07T15:34:00,Synthetic academic submission content number 636. This is sample text for assessment 4.,Submitted
+SUB-2026-000637,LRN-00118,ASM-003,2026-07-17T13:55:00,"Synthetic submission 637. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000638,LRN-00163,ASM-005,2026-03-02T10:00:00,Synthetic academic submission content number 638. This is sample text for assessment 5.,Submitted
+SUB-2026-000639,LRN-00017,ASM-002,2026-02-07T17:56:00,Synthetic academic submission content number 639. This is sample text for assessment 2.,Submitted
+SUB-2026-000640,LRN-00091,ASM-002,2026-05-23T13:07:00,"Synthetic submission 640. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000641,LRN-00194,ASM-001,2026-06-24T13:35:00,Synthetic academic submission content number 641. This is sample text for assessment 1.,Submitted
+SUB-2026-000642,LRN-00028,ASM-002,2026-08-25T13:11:00,Synthetic academic submission content number 642. This is sample text for assessment 2.,Submitted
+SUB-2026-000643,LRN-00053,ASM-004,2026-01-08T18:30:00,Synthetic academic submission content number 643. This is sample text for assessment 4.,Submitted
+SUB-2026-000644,LRN-00002,ASM-003,2026-01-16T16:06:00,"Synthetic submission 644. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000645,LRN-00004,ASM-002,2026-01-08T15:49:00,Synthetic academic submission content number 645. This is sample text for assessment 2.,Submitted
+SUB-2026-000646,LRN-00093,ASM-003,2026-01-31T17:44:00,Synthetic academic submission content number 646. This is sample text for assessment 3.,Submitted
+SUB-2026-000647,LRN-00161,ASM-005,2026-05-25T15:33:00,Synthetic academic submission content number 647. This is sample text for assessment 5.,Submitted
+SUB-2026-000648,LRN-00073,ASM-001,2026-04-26T14:35:00,Synthetic academic submission content number 648. This is sample text for assessment 1.,Submitted
+SUB-2026-000649,LRN-00200,ASM-005,2026-04-03T18:56:00,Synthetic academic submission content number 649. This is sample text for assessment 5.,Submitted
+SUB-2026-000650,LRN-00199,ASM-005,2026-04-23T17:29:00,"Synthetic submission 650. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000651,LRN-00182,ASM-003,2026-07-05T17:28:00,"Synthetic submission 651. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000652,LRN-00147,ASM-005,2026-07-23T10:47:00,Synthetic academic submission content number 652. This is sample text for assessment 5.,Submitted
+SUB-2026-000653,LRN-00018,ASM-002,2026-01-29T13:34:00,Synthetic academic submission content number 653. This is sample text for assessment 2.,Submitted
+SUB-2026-000654,LRN-00069,ASM-001,2026-04-01T11:50:00,Synthetic academic submission content number 654. This is sample text for assessment 1.,Submitted
+SUB-2026-000655,LRN-00145,ASM-001,2026-02-16T12:52:00,Synthetic academic submission content number 655. This is sample text for assessment 1.,Submitted
+SUB-2026-000656,LRN-00166,ASM-001,2026-05-09T16:19:00,Synthetic academic submission content number 656. This is sample text for assessment 1.,Submitted
+SUB-2026-000657,LRN-00006,ASM-004,2026-01-14T14:04:00,Synthetic academic submission content number 657. This is sample text for assessment 4.,Submitted
+SUB-2026-000658,LRN-00052,ASM-004,2026-04-30T18:04:00,"Synthetic submission 658. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000659,LRN-00052,ASM-005,2026-01-09T10:03:00,Synthetic academic submission content number 659. This is sample text for assessment 5.,Submitted
+SUB-2026-000660,LRN-00064,ASM-004,2026-02-04T16:00:00,"Synthetic submission 660. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000661,LRN-00159,ASM-003,2026-02-16T14:47:00,Synthetic academic submission content number 661. This is sample text for assessment 3.,Submitted
+SUB-2026-000662,LRN-00054,ASM-003,2026-05-23T15:57:00,Synthetic academic submission content number 662. This is sample text for assessment 3.,Submitted
+SUB-2026-000663,LRN-00181,ASM-002,2026-07-20T18:49:00,Synthetic academic submission content number 663. This is sample text for assessment 2.,Submitted
+SUB-2026-000664,LRN-00016,ASM-003,2026-03-11T09:30:00,Synthetic academic submission content number 664. This is sample text for assessment 3.,Submitted
+SUB-2026-000665,LRN-00150,ASM-004,2026-02-20T16:02:00,"Synthetic submission 665. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000666,LRN-00159,ASM-003,2026-01-05T08:59:00,Synthetic academic submission content number 666. This is sample text for assessment 3.,Submitted
+SUB-2026-000667,LRN-00077,ASM-003,2026-02-18T12:18:00,Synthetic academic submission content number 667. This is sample text for assessment 3.,Submitted
+SUB-2026-000668,LRN-00120,ASM-005,2026-04-01T17:13:00,Synthetic academic submission content number 668. This is sample text for assessment 5.,Submitted
+SUB-2026-000669,LRN-00046,ASM-005,2026-06-10T12:33:00,Synthetic academic submission content number 669. This is sample text for assessment 5.,Submitted
+SUB-2026-000670,LRN-00118,ASM-004,2026-05-16T14:08:00,"Synthetic submission 670. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000671,LRN-00041,ASM-005,2026-01-10T14:19:00,Synthetic academic submission content number 671. This is sample text for assessment 5.,Submitted
+SUB-2026-000672,LRN-00029,ASM-002,2026-01-19T12:03:00,"Synthetic submission 672. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000673,LRN-00064,ASM-004,2026-01-02T08:48:00,Synthetic academic submission content number 673. This is sample text for assessment 4.,Submitted
+SUB-2026-000674,LRN-00141,ASM-003,2026-08-20T17:27:00,Synthetic academic submission content number 674. This is sample text for assessment 3.,Submitted
+SUB-2026-000675,LRN-00004,ASM-003,2026-07-29T13:11:00,Synthetic academic submission content number 675. This is sample text for assessment 3.,Submitted
+SUB-2026-000676,LRN-00117,ASM-002,2026-08-07T12:04:00,Synthetic academic submission content number 676. This is sample text for assessment 2.,Submitted
+SUB-2026-000677,LRN-00056,ASM-005,2026-01-13T12:08:00,Synthetic academic submission content number 677. This is sample text for assessment 5.,Submitted
+SUB-2026-000678,LRN-00075,ASM-002,2026-07-16T14:16:00,Synthetic academic submission content number 678. This is sample text for assessment 2.,Submitted
+SUB-2026-000679,LRN-00091,ASM-003,2026-03-15T13:56:00,"Synthetic submission 679. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000680,LRN-00129,ASM-003,2026-01-19T17:35:00,"Synthetic submission 680. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000681,LRN-00163,ASM-002,2026-07-15T17:14:00,Synthetic academic submission content number 681. This is sample text for assessment 2.,Submitted
+SUB-2026-000682,LRN-00043,ASM-003,2026-03-04T12:27:00,Synthetic academic submission content number 682. This is sample text for assessment 3.,Submitted
+SUB-2026-000683,LRN-00138,ASM-005,2026-06-24T12:18:00,Synthetic academic submission content number 683. This is sample text for assessment 5.,Submitted
+SUB-2026-000684,LRN-00066,ASM-005,2026-07-01T15:58:00,Synthetic academic submission content number 684. This is sample text for assessment 5.,Submitted
+SUB-2026-000685,LRN-00106,ASM-003,2026-03-11T14:56:00,Synthetic academic submission content number 685. This is sample text for assessment 3.,Submitted
+SUB-2026-000686,LRN-00094,ASM-004,2026-08-05T11:54:00,"Synthetic submission 686. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000687,LRN-00126,ASM-002,2026-02-07T09:50:00,Synthetic academic submission content number 687. This is sample text for assessment 2.,Submitted
+SUB-2026-000688,LRN-00131,ASM-005,2026-03-09T16:59:00,Synthetic academic submission content number 688. This is sample text for assessment 5.,Submitted
+SUB-2026-000689,LRN-00033,ASM-005,2026-05-30T10:37:00,Synthetic academic submission content number 689. This is sample text for assessment 5.,Submitted
+SUB-2026-000690,LRN-00161,ASM-002,2026-07-20T10:27:00,"Synthetic submission 690. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000691,LRN-00199,ASM-004,2026-07-11T08:31:00,Synthetic academic submission content number 691. This is sample text for assessment 4.,Submitted
+SUB-2026-000692,LRN-00066,ASM-001,2026-06-04T11:10:00,Synthetic academic submission content number 692. This is sample text for assessment 1.,Submitted
+SUB-2026-000693,LRN-00078,ASM-001,2026-08-27T18:57:00,"Synthetic submission 693. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000694,LRN-00073,ASM-003,2026-03-08T13:50:00,Synthetic academic submission content number 694. This is sample text for assessment 3.,Submitted
+SUB-2026-000695,LRN-00107,ASM-005,2026-01-07T12:24:00,Synthetic academic submission content number 695. This is sample text for assessment 5.,Submitted
+SUB-2026-000696,LRN-00128,ASM-004,2026-02-15T09:01:00,Synthetic academic submission content number 696. This is sample text for assessment 4.,Submitted
+SUB-2026-000697,LRN-00068,ASM-003,2026-03-01T13:58:00,Synthetic academic submission content number 697. This is sample text for assessment 3.,Submitted
+SUB-2026-000698,LRN-00122,ASM-005,2026-06-09T17:17:00,Synthetic academic submission content number 698. This is sample text for assessment 5.,Submitted
+SUB-2026-000699,LRN-00103,ASM-004,2026-09-05T10:44:00,Synthetic academic submission content number 699. This is sample text for assessment 4.,Submitted
+SUB-2026-000700,LRN-00141,ASM-002,2026-07-08T09:28:00,"Synthetic submission 700. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000701,LRN-00021,ASM-005,2026-03-14T14:24:00,Synthetic academic submission content number 701. This is sample text for assessment 5.,Submitted
+SUB-2026-000702,LRN-00115,ASM-002,2026-09-06T11:38:00,Synthetic academic submission content number 702. This is sample text for assessment 2.,Submitted
+SUB-2026-000703,LRN-00007,ASM-002,2026-05-19T09:31:00,Synthetic academic submission content number 703. This is sample text for assessment 2.,Submitted
+SUB-2026-000704,LRN-00091,ASM-003,2026-07-01T13:49:00,Synthetic academic submission content number 704. This is sample text for assessment 3.,Submitted
+SUB-2026-000705,LRN-00118,ASM-002,2026-03-28T12:49:00,Synthetic academic submission content number 705. This is sample text for assessment 2.,Submitted
+SUB-2026-000706,LRN-00139,ASM-003,2026-05-16T15:06:00,Synthetic academic submission content number 706. This is sample text for assessment 3.,Submitted
+SUB-2026-000707,LRN-00137,ASM-005,2026-04-04T17:59:00,"Synthetic submission 707. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000708,LRN-00076,ASM-002,2026-08-11T09:03:00,Synthetic academic submission content number 708. This is sample text for assessment 2.,Submitted
+SUB-2026-000709,LRN-00077,ASM-002,2026-06-19T14:21:00,Synthetic academic submission content number 709. This is sample text for assessment 2.,Submitted
+SUB-2026-000710,LRN-00110,ASM-003,2026-03-21T16:40:00,"Synthetic submission 710. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000711,LRN-00016,ASM-002,2026-04-01T17:17:00,Synthetic academic submission content number 711. This is sample text for assessment 2.,Submitted
+SUB-2026-000712,LRN-00114,ASM-005,2026-01-03T16:33:00,Synthetic academic submission content number 712. This is sample text for assessment 5.,Submitted
+SUB-2026-000713,LRN-00029,ASM-003,2026-03-17T09:51:00,Synthetic academic submission content number 713. This is sample text for assessment 3.,Submitted
+SUB-2026-000714,LRN-00162,ASM-004,2026-01-05T17:27:00,"Synthetic submission 714. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000715,LRN-00165,ASM-003,2026-08-29T12:01:00,Synthetic academic submission content number 715. This is sample text for assessment 3.,Submitted
+SUB-2026-000716,LRN-00142,ASM-005,2026-03-19T08:25:00,Synthetic academic submission content number 716. This is sample text for assessment 5.,Submitted
+SUB-2026-000717,LRN-00104,ASM-003,2026-07-06T17:38:00,Synthetic academic submission content number 717. This is sample text for assessment 3.,Submitted
+SUB-2026-000718,LRN-00043,ASM-005,2026-06-25T16:14:00,Synthetic academic submission content number 718. This is sample text for assessment 5.,Submitted
+SUB-2026-000719,LRN-00196,ASM-001,2026-06-08T14:38:00,Synthetic academic submission content number 719. This is sample text for assessment 1.,Submitted
+SUB-2026-000720,LRN-00052,ASM-001,2026-07-10T10:51:00,"Synthetic submission 720. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000721,LRN-00134,ASM-002,2026-03-27T14:43:00,"Synthetic submission 721. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000722,LRN-00166,ASM-005,2026-04-11T15:01:00,Synthetic academic submission content number 722. This is sample text for assessment 5.,Submitted
+SUB-2026-000723,LRN-00172,ASM-003,2026-03-31T09:00:00,Synthetic academic submission content number 723. This is sample text for assessment 3.,Submitted
+SUB-2026-000724,LRN-00178,ASM-002,2026-03-17T11:55:00,Synthetic academic submission content number 724. This is sample text for assessment 2.,Submitted
+SUB-2026-000725,LRN-00128,ASM-003,2026-03-03T16:34:00,Synthetic academic submission content number 725. This is sample text for assessment 3.,Submitted
+SUB-2026-000726,LRN-00200,ASM-001,2026-03-13T10:24:00,Synthetic academic submission content number 726. This is sample text for assessment 1.,Submitted
+SUB-2026-000727,LRN-00081,ASM-005,2026-01-25T14:47:00,Synthetic academic submission content number 727. This is sample text for assessment 5.,Submitted
+SUB-2026-000728,LRN-00198,ASM-004,2026-01-02T15:23:00,"Synthetic submission 728. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000729,LRN-00125,ASM-002,2026-06-03T15:34:00,Synthetic academic submission content number 729. This is sample text for assessment 2.,Submitted
+SUB-2026-000730,LRN-00013,ASM-003,2026-07-12T18:45:00,"Synthetic submission 730. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000731,LRN-00011,ASM-003,2026-05-22T13:17:00,Synthetic academic submission content number 731. This is sample text for assessment 3.,Submitted
+SUB-2026-000732,LRN-00083,ASM-001,2026-04-23T10:39:00,Synthetic academic submission content number 732. This is sample text for assessment 1.,Submitted
+SUB-2026-000733,LRN-00144,ASM-003,2026-01-28T08:27:00,Synthetic academic submission content number 733. This is sample text for assessment 3.,Submitted
+SUB-2026-000734,LRN-00104,ASM-005,2026-03-03T17:49:00,Synthetic academic submission content number 734. This is sample text for assessment 5.,Submitted
+SUB-2026-000735,LRN-00166,ASM-005,2026-08-02T14:30:00,"Synthetic submission 735. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000736,LRN-00197,ASM-004,2026-01-05T12:09:00,Synthetic academic submission content number 736. This is sample text for assessment 4.,Submitted
+SUB-2026-000737,LRN-00111,ASM-003,2026-06-01T15:50:00,Synthetic academic submission content number 737. This is sample text for assessment 3.,Submitted
+SUB-2026-000738,LRN-00009,ASM-002,2026-05-17T12:34:00,Synthetic academic submission content number 738. This is sample text for assessment 2.,Submitted
+SUB-2026-000739,LRN-00175,ASM-002,2026-06-01T16:38:00,Synthetic academic submission content number 739. This is sample text for assessment 2.,Submitted
+SUB-2026-000740,LRN-00095,ASM-003,2026-04-03T08:02:00,"Synthetic submission 740. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000741,LRN-00042,ASM-005,2026-07-12T15:51:00,Synthetic academic submission content number 741. This is sample text for assessment 5.,Submitted
+SUB-2026-000742,LRN-00073,ASM-003,2026-07-24T13:37:00,"Synthetic submission 742. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000743,LRN-00148,ASM-005,2026-05-06T14:36:00,Synthetic academic submission content number 743. This is sample text for assessment 5.,Submitted
+SUB-2026-000744,LRN-00177,ASM-003,2026-07-24T16:41:00,Synthetic academic submission content number 744. This is sample text for assessment 3.,Submitted
+SUB-2026-000745,LRN-00003,ASM-003,2026-06-16T13:19:00,Synthetic academic submission content number 745. This is sample text for assessment 3.,Submitted
+SUB-2026-000746,LRN-00102,ASM-003,2026-07-23T15:57:00,Synthetic academic submission content number 746. This is sample text for assessment 3.,Submitted
+SUB-2026-000747,LRN-00188,ASM-002,2026-06-05T09:06:00,Synthetic academic submission content number 747. This is sample text for assessment 2.,Submitted
+SUB-2026-000748,LRN-00079,ASM-004,2026-01-14T14:46:00,Synthetic academic submission content number 748. This is sample text for assessment 4.,Submitted
+SUB-2026-000749,LRN-00090,ASM-005,2026-01-21T15:36:00,"Synthetic submission 749. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000750,LRN-00141,ASM-004,2026-05-03T13:32:00,"Synthetic submission 750. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000751,LRN-00101,ASM-002,2026-06-16T12:15:00,Synthetic academic submission content number 751. This is sample text for assessment 2.,Submitted
+SUB-2026-000752,LRN-00166,ASM-004,2026-02-02T18:56:00,Synthetic academic submission content number 752. This is sample text for assessment 4.,Submitted
+SUB-2026-000753,LRN-00096,ASM-003,2026-03-20T13:54:00,Synthetic academic submission content number 753. This is sample text for assessment 3.,Submitted
+SUB-2026-000754,LRN-00153,ASM-004,2026-08-03T17:53:00,Synthetic academic submission content number 754. This is sample text for assessment 4.,Submitted
+SUB-2026-000755,LRN-00037,ASM-001,2026-07-16T13:11:00,Synthetic academic submission content number 755. This is sample text for assessment 1.,Submitted
+SUB-2026-000756,LRN-00099,ASM-001,2026-03-09T11:47:00,"Synthetic submission 756. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000757,LRN-00047,ASM-003,2026-03-20T11:36:00,Synthetic academic submission content number 757. This is sample text for assessment 3.,Submitted
+SUB-2026-000758,LRN-00102,ASM-003,2026-05-26T09:16:00,Synthetic academic submission content number 758. This is sample text for assessment 3.,Submitted
+SUB-2026-000759,LRN-00037,ASM-003,2026-03-11T15:05:00,Synthetic academic submission content number 759. This is sample text for assessment 3.,Submitted
+SUB-2026-000760,LRN-00063,ASM-002,2026-08-06T10:15:00,"Synthetic submission 760. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000761,LRN-00066,ASM-003,2026-07-20T11:40:00,Synthetic academic submission content number 761. This is sample text for assessment 3.,Submitted
+SUB-2026-000762,LRN-00006,ASM-002,2026-06-17T09:23:00,Synthetic academic submission content number 762. This is sample text for assessment 2.,Submitted
+SUB-2026-000763,LRN-00134,ASM-001,2026-08-14T08:06:00,"Synthetic submission 763. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000764,LRN-00185,ASM-001,2026-06-11T09:29:00,Synthetic academic submission content number 764. This is sample text for assessment 1.,Submitted
+SUB-2026-000765,LRN-00165,ASM-005,2026-01-22T15:49:00,Synthetic academic submission content number 765. This is sample text for assessment 5.,Submitted
+SUB-2026-000766,LRN-00200,ASM-003,2026-05-28T15:37:00,Synthetic academic submission content number 766. This is sample text for assessment 3.,Submitted
+SUB-2026-000767,LRN-00047,ASM-005,2026-03-11T11:57:00,Synthetic academic submission content number 767. This is sample text for assessment 5.,Submitted
+SUB-2026-000768,LRN-00104,ASM-003,2026-05-17T16:20:00,Synthetic academic submission content number 768. This is sample text for assessment 3.,Submitted
+SUB-2026-000769,LRN-00156,ASM-002,2026-02-22T11:20:00,Synthetic academic submission content number 769. This is sample text for assessment 2.,Submitted
+SUB-2026-000770,LRN-00100,ASM-004,2026-08-19T13:23:00,"Synthetic submission 770. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000771,LRN-00098,ASM-002,2026-05-15T10:40:00,Synthetic academic submission content number 771. This is sample text for assessment 2.,Submitted
+SUB-2026-000772,LRN-00139,ASM-002,2026-06-29T11:33:00,Synthetic academic submission content number 772. This is sample text for assessment 2.,Submitted
+SUB-2026-000773,LRN-00110,ASM-004,2026-02-01T08:00:00,Synthetic academic submission content number 773. This is sample text for assessment 4.,Submitted
+SUB-2026-000774,LRN-00179,ASM-005,2026-04-29T15:08:00,Synthetic academic submission content number 774. This is sample text for assessment 5.,Submitted
+SUB-2026-000775,LRN-00039,ASM-003,2026-02-19T10:17:00,Synthetic academic submission content number 775. This is sample text for assessment 3.,Submitted
+SUB-2026-000776,LRN-00121,ASM-004,2026-09-08T13:09:00,Synthetic academic submission content number 776. This is sample text for assessment 4.,Submitted
+SUB-2026-000777,LRN-00194,ASM-005,2026-04-10T16:12:00,"Synthetic submission 777. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000778,LRN-00150,ASM-002,2026-04-06T13:37:00,Synthetic academic submission content number 778. This is sample text for assessment 2.,Submitted
+SUB-2026-000779,LRN-00200,ASM-002,2026-03-06T08:03:00,Synthetic academic submission content number 779. This is sample text for assessment 2.,Submitted
+SUB-2026-000780,LRN-00161,ASM-004,2026-02-22T10:08:00,"Synthetic submission 780. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000781,LRN-00061,ASM-002,2026-06-19T15:53:00,Synthetic academic submission content number 781. This is sample text for assessment 2.,Submitted
+SUB-2026-000782,LRN-00167,ASM-001,2026-05-17T10:49:00,Synthetic academic submission content number 782. This is sample text for assessment 1.,Submitted
+SUB-2026-000783,LRN-00027,ASM-005,2026-02-13T09:30:00,Synthetic academic submission content number 783. This is sample text for assessment 5.,Submitted
+SUB-2026-000784,LRN-00087,ASM-001,2026-08-19T12:39:00,"Synthetic submission 784. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000785,LRN-00113,ASM-004,2026-06-29T10:27:00,Synthetic academic submission content number 785. This is sample text for assessment 4.,Submitted
+SUB-2026-000786,LRN-00170,ASM-002,2026-03-23T14:52:00,Synthetic academic submission content number 786. This is sample text for assessment 2.,Submitted
+SUB-2026-000787,LRN-00098,ASM-003,2026-08-09T16:01:00,Synthetic academic submission content number 787. This is sample text for assessment 3.,Submitted
+SUB-2026-000788,LRN-00035,ASM-003,2026-03-18T10:03:00,Synthetic academic submission content number 788. This is sample text for assessment 3.,Submitted
+SUB-2026-000789,LRN-00059,ASM-004,2026-02-20T18:02:00,Synthetic academic submission content number 789. This is sample text for assessment 4.,Submitted
+SUB-2026-000790,LRN-00187,ASM-005,2026-03-23T17:42:00,"Synthetic submission 790. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000791,LRN-00094,ASM-002,2026-04-30T16:11:00,"Synthetic submission 791. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000792,LRN-00081,ASM-002,2026-08-15T13:29:00,Synthetic academic submission content number 792. This is sample text for assessment 2.,Submitted
+SUB-2026-000793,LRN-00190,ASM-005,2026-04-21T17:52:00,Synthetic academic submission content number 793. This is sample text for assessment 5.,Submitted
+SUB-2026-000794,LRN-00198,ASM-004,2026-07-27T17:38:00,Synthetic academic submission content number 794. This is sample text for assessment 4.,Submitted
+SUB-2026-000795,LRN-00060,ASM-003,2026-02-13T15:18:00,Synthetic academic submission content number 795. This is sample text for assessment 3.,Submitted
+SUB-2026-000796,LRN-00026,ASM-003,2026-01-09T14:00:00,Synthetic academic submission content number 796. This is sample text for assessment 3.,Submitted
+SUB-2026-000797,LRN-00061,ASM-005,2026-01-21T14:10:00,Synthetic academic submission content number 797. This is sample text for assessment 5.,Submitted
+SUB-2026-000798,LRN-00160,ASM-005,2026-04-23T09:43:00,"Synthetic submission 798. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000799,LRN-00042,ASM-002,2026-04-08T10:34:00,Synthetic academic submission content number 799. This is sample text for assessment 2.,Submitted
+SUB-2026-000800,LRN-00118,ASM-002,2026-08-27T17:17:00,"Synthetic submission 800. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000801,LRN-00183,ASM-003,2026-05-01T09:01:00,Synthetic academic submission content number 801. This is sample text for assessment 3.,Submitted
+SUB-2026-000802,LRN-00027,ASM-004,2026-02-09T16:51:00,Synthetic academic submission content number 802. This is sample text for assessment 4.,Submitted
+SUB-2026-000803,LRN-00008,ASM-003,2026-04-28T13:51:00,Synthetic academic submission content number 803. This is sample text for assessment 3.,Submitted
+SUB-2026-000804,LRN-00025,ASM-003,2026-01-15T10:48:00,Synthetic academic submission content number 804. This is sample text for assessment 3.,Submitted
+SUB-2026-000805,LRN-00121,ASM-005,2026-08-14T08:04:00,"Synthetic submission 805. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000806,LRN-00173,ASM-001,2026-04-03T17:52:00,Synthetic academic submission content number 806. This is sample text for assessment 1.,Submitted
+SUB-2026-000807,LRN-00170,ASM-003,2026-03-04T15:05:00,Synthetic academic submission content number 807. This is sample text for assessment 3.,Submitted
+SUB-2026-000808,LRN-00040,ASM-003,2026-04-14T16:42:00,Synthetic academic submission content number 808. This is sample text for assessment 3.,Submitted
+SUB-2026-000809,LRN-00103,ASM-001,2026-07-05T17:26:00,Synthetic academic submission content number 809. This is sample text for assessment 1.,Submitted
+SUB-2026-000810,LRN-00170,ASM-005,2026-05-26T11:18:00,"Synthetic submission 810. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000811,LRN-00113,ASM-004,2026-07-03T13:48:00,Synthetic academic submission content number 811. This is sample text for assessment 4.,Submitted
+SUB-2026-000812,LRN-00171,ASM-001,2026-01-19T09:36:00,"Synthetic submission 812. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000813,LRN-00066,ASM-005,2026-06-05T10:56:00,Synthetic academic submission content number 813. This is sample text for assessment 5.,Submitted
+SUB-2026-000814,LRN-00049,ASM-005,2026-06-22T18:48:00,Synthetic academic submission content number 814. This is sample text for assessment 5.,Submitted
+SUB-2026-000815,LRN-00111,ASM-003,2026-07-12T08:54:00,Synthetic academic submission content number 815. This is sample text for assessment 3.,Submitted
+SUB-2026-000816,LRN-00110,ASM-004,2026-04-02T17:12:00,Synthetic academic submission content number 816. This is sample text for assessment 4.,Submitted
+SUB-2026-000817,LRN-00142,ASM-005,2026-05-19T18:10:00,Synthetic academic submission content number 817. This is sample text for assessment 5.,Submitted
+SUB-2026-000818,LRN-00132,ASM-002,2026-02-24T17:01:00,Synthetic academic submission content number 818. This is sample text for assessment 2.,Submitted
+SUB-2026-000819,LRN-00136,ASM-002,2026-01-06T15:49:00,"Synthetic submission 819. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000820,LRN-00070,ASM-003,2026-01-10T14:39:00,"Synthetic submission 820. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000821,LRN-00032,ASM-004,2026-04-28T11:58:00,Synthetic academic submission content number 821. This is sample text for assessment 4.,Submitted
+SUB-2026-000822,LRN-00111,ASM-002,2026-01-05T14:45:00,Synthetic academic submission content number 822. This is sample text for assessment 2.,Submitted
+SUB-2026-000823,LRN-00030,ASM-001,2026-03-26T12:24:00,Synthetic academic submission content number 823. This is sample text for assessment 1.,Submitted
+SUB-2026-000824,LRN-00019,ASM-005,2026-01-20T13:02:00,Synthetic academic submission content number 824. This is sample text for assessment 5.,Submitted
+SUB-2026-000825,LRN-00180,ASM-001,2026-03-25T10:05:00,Synthetic academic submission content number 825. This is sample text for assessment 1.,Submitted
+SUB-2026-000826,LRN-00062,ASM-001,2026-05-07T14:20:00,"Synthetic submission 826. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000827,LRN-00127,ASM-004,2026-03-01T12:09:00,Synthetic academic submission content number 827. This is sample text for assessment 4.,Submitted
+SUB-2026-000828,LRN-00037,ASM-002,2026-04-01T17:51:00,Synthetic academic submission content number 828. This is sample text for assessment 2.,Submitted
+SUB-2026-000829,LRN-00105,ASM-005,2026-04-12T18:47:00,Synthetic academic submission content number 829. This is sample text for assessment 5.,Submitted
+SUB-2026-000830,LRN-00044,ASM-003,2026-04-29T12:28:00,"Synthetic submission 830. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000831,LRN-00064,ASM-001,2026-03-29T17:17:00,Synthetic academic submission content number 831. This is sample text for assessment 1.,Submitted
+SUB-2026-000832,LRN-00018,ASM-003,2026-01-13T16:35:00,Synthetic academic submission content number 832. This is sample text for assessment 3.,Submitted
+SUB-2026-000833,LRN-00173,ASM-002,2026-08-17T13:57:00,"Synthetic submission 833. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000834,LRN-00198,ASM-004,2026-07-28T08:50:00,Synthetic academic submission content number 834. This is sample text for assessment 4.,Submitted
+SUB-2026-000835,LRN-00025,ASM-003,2026-06-17T15:47:00,Synthetic academic submission content number 835. This is sample text for assessment 3.,Submitted
+SUB-2026-000836,LRN-00182,ASM-001,2026-02-24T18:25:00,Synthetic academic submission content number 836. This is sample text for assessment 1.,Submitted
+SUB-2026-000837,LRN-00044,ASM-004,2026-01-04T15:28:00,Synthetic academic submission content number 837. This is sample text for assessment 4.,Submitted
+SUB-2026-000838,LRN-00105,ASM-002,2026-06-07T14:27:00,Synthetic academic submission content number 838. This is sample text for assessment 2.,Submitted
+SUB-2026-000839,LRN-00137,ASM-003,2026-07-25T17:20:00,Synthetic academic submission content number 839. This is sample text for assessment 3.,Submitted
+SUB-2026-000840,LRN-00187,ASM-002,2026-03-11T18:29:00,"Synthetic submission 840. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000841,LRN-00052,ASM-001,2026-08-03T10:54:00,Synthetic academic submission content number 841. This is sample text for assessment 1.,Submitted
+SUB-2026-000842,LRN-00110,ASM-004,2026-02-23T10:28:00,Synthetic academic submission content number 842. This is sample text for assessment 4.,Submitted
+SUB-2026-000843,LRN-00056,ASM-005,2026-01-15T17:56:00,Synthetic academic submission content number 843. This is sample text for assessment 5.,Submitted
+SUB-2026-000844,LRN-00011,ASM-003,2026-06-04T18:26:00,Synthetic academic submission content number 844. This is sample text for assessment 3.,Submitted
+SUB-2026-000845,LRN-00075,ASM-002,2026-07-06T08:15:00,Synthetic academic submission content number 845. This is sample text for assessment 2.,Submitted
+SUB-2026-000846,LRN-00139,ASM-005,2026-04-23T09:53:00,Synthetic academic submission content number 846. This is sample text for assessment 5.,Submitted
+SUB-2026-000847,LRN-00144,ASM-003,2026-06-18T08:57:00,"Synthetic submission 847. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000848,LRN-00167,ASM-001,2026-05-13T11:17:00,Synthetic academic submission content number 848. This is sample text for assessment 1.,Submitted
+SUB-2026-000849,LRN-00174,ASM-003,2026-01-12T16:57:00,Synthetic academic submission content number 849. This is sample text for assessment 3.,Submitted
+SUB-2026-000850,LRN-00166,ASM-002,2026-02-15T09:41:00,"Synthetic submission 850. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000851,LRN-00060,ASM-004,2026-05-08T09:12:00,Synthetic academic submission content number 851. This is sample text for assessment 4.,Submitted
+SUB-2026-000852,LRN-00163,ASM-004,2026-05-12T14:18:00,Synthetic academic submission content number 852. This is sample text for assessment 4.,Submitted
+SUB-2026-000853,LRN-00186,ASM-005,2026-02-08T17:50:00,Synthetic academic submission content number 853. This is sample text for assessment 5.,Submitted
+SUB-2026-000854,LRN-00072,ASM-003,2026-01-16T17:59:00,"Synthetic submission 854. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000855,LRN-00044,ASM-002,2026-01-13T15:16:00,Synthetic academic submission content number 855. This is sample text for assessment 2.,Submitted
+SUB-2026-000856,LRN-00141,ASM-003,2026-04-04T10:00:00,Synthetic academic submission content number 856. This is sample text for assessment 3.,Submitted
+SUB-2026-000857,LRN-00139,ASM-002,2026-08-28T16:56:00,Synthetic academic submission content number 857. This is sample text for assessment 2.,Submitted
+SUB-2026-000858,LRN-00012,ASM-002,2026-02-14T14:13:00,Synthetic academic submission content number 858. This is sample text for assessment 2.,Submitted
+SUB-2026-000859,LRN-00009,ASM-003,2026-03-26T12:01:00,Synthetic academic submission content number 859. This is sample text for assessment 3.,Submitted
+SUB-2026-000860,LRN-00135,ASM-004,2026-05-22T14:20:00,"Synthetic submission 860. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000861,LRN-00024,ASM-004,2026-04-09T08:28:00,"Synthetic submission 861. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000862,LRN-00200,ASM-003,2026-08-30T17:44:00,Synthetic academic submission content number 862. This is sample text for assessment 3.,Submitted
+SUB-2026-000863,LRN-00172,ASM-005,2026-04-12T11:11:00,Synthetic academic submission content number 863. This is sample text for assessment 5.,Submitted
+SUB-2026-000864,LRN-00083,ASM-001,2026-09-03T08:08:00,Synthetic academic submission content number 864. This is sample text for assessment 1.,Submitted
+SUB-2026-000865,LRN-00118,ASM-001,2026-02-17T18:18:00,Synthetic academic submission content number 865. This is sample text for assessment 1.,Submitted
+SUB-2026-000866,LRN-00144,ASM-004,2026-09-06T14:06:00,Synthetic academic submission content number 866. This is sample text for assessment 4.,Submitted
+SUB-2026-000867,LRN-00042,ASM-004,2026-09-06T16:29:00,Synthetic academic submission content number 867. This is sample text for assessment 4.,Submitted
+SUB-2026-000868,LRN-00126,ASM-001,2026-01-04T16:34:00,"Synthetic submission 868. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000869,LRN-00192,ASM-001,2026-02-03T13:23:00,Synthetic academic submission content number 869. This is sample text for assessment 1.,Submitted
+SUB-2026-000870,LRN-00061,ASM-003,2026-05-20T13:55:00,"Synthetic submission 870. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000871,LRN-00067,ASM-005,2026-04-18T18:01:00,Synthetic academic submission content number 871. This is sample text for assessment 5.,Submitted
+SUB-2026-000872,LRN-00050,ASM-002,2026-05-25T13:32:00,Synthetic academic submission content number 872. This is sample text for assessment 2.,Submitted
+SUB-2026-000873,LRN-00121,ASM-002,2026-08-28T09:47:00,Synthetic academic submission content number 873. This is sample text for assessment 2.,Submitted
+SUB-2026-000874,LRN-00027,ASM-001,2026-05-20T11:18:00,Synthetic academic submission content number 874. This is sample text for assessment 1.,Submitted
+SUB-2026-000875,LRN-00089,ASM-001,2026-06-24T08:27:00,"Synthetic submission 875. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000876,LRN-00019,ASM-003,2026-02-28T08:26:00,Synthetic academic submission content number 876. This is sample text for assessment 3.,Submitted
+SUB-2026-000877,LRN-00052,ASM-005,2026-04-03T08:18:00,Synthetic academic submission content number 877. This is sample text for assessment 5.,Submitted
+SUB-2026-000878,LRN-00019,ASM-004,2026-04-23T10:20:00,Synthetic academic submission content number 878. This is sample text for assessment 4.,Submitted
+SUB-2026-000879,LRN-00037,ASM-005,2026-01-29T18:37:00,Synthetic academic submission content number 879. This is sample text for assessment 5.,Submitted
+SUB-2026-000880,LRN-00003,ASM-004,2026-06-15T12:19:00,"Synthetic submission 880. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000881,LRN-00187,ASM-004,2026-09-07T13:55:00,Synthetic academic submission content number 881. This is sample text for assessment 4.,Submitted
+SUB-2026-000882,LRN-00077,ASM-003,2026-06-01T17:24:00,"Synthetic submission 882. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000883,LRN-00191,ASM-003,2026-07-19T15:09:00,Synthetic academic submission content number 883. This is sample text for assessment 3.,Submitted
+SUB-2026-000884,LRN-00188,ASM-001,2026-03-14T15:16:00,Synthetic academic submission content number 884. This is sample text for assessment 1.,Submitted
+SUB-2026-000885,LRN-00070,ASM-001,2026-06-20T14:24:00,Synthetic academic submission content number 885. This is sample text for assessment 1.,Submitted
+SUB-2026-000886,LRN-00134,ASM-004,2026-09-03T09:13:00,Synthetic academic submission content number 886. This is sample text for assessment 4.,Submitted
+SUB-2026-000887,LRN-00200,ASM-002,2026-07-03T15:23:00,Synthetic academic submission content number 887. This is sample text for assessment 2.,Submitted
+SUB-2026-000888,LRN-00152,ASM-003,2026-06-03T10:28:00,Synthetic academic submission content number 888. This is sample text for assessment 3.,Submitted
+SUB-2026-000889,LRN-00174,ASM-003,2026-01-01T11:50:00,"Synthetic submission 889. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000890,LRN-00045,ASM-002,2026-05-13T09:59:00,"Synthetic submission 890. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000891,LRN-00117,ASM-005,2026-01-11T14:56:00,Synthetic academic submission content number 891. This is sample text for assessment 5.,Submitted
+SUB-2026-000892,LRN-00191,ASM-001,2026-01-07T09:22:00,Synthetic academic submission content number 892. This is sample text for assessment 1.,Submitted
+SUB-2026-000893,LRN-00097,ASM-005,2026-07-12T16:38:00,Synthetic academic submission content number 893. This is sample text for assessment 5.,Submitted
+SUB-2026-000894,LRN-00007,ASM-001,2026-03-24T09:02:00,Synthetic academic submission content number 894. This is sample text for assessment 1.,Submitted
+SUB-2026-000895,LRN-00065,ASM-003,2026-05-05T18:22:00,Synthetic academic submission content number 895. This is sample text for assessment 3.,Submitted
+SUB-2026-000896,LRN-00103,ASM-005,2026-05-09T11:35:00,"Synthetic submission 896. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000897,LRN-00117,ASM-002,2026-03-19T17:50:00,Synthetic academic submission content number 897. This is sample text for assessment 2.,Submitted
+SUB-2026-000898,LRN-00189,ASM-001,2026-07-07T12:26:00,Synthetic academic submission content number 898. This is sample text for assessment 1.,Submitted
+SUB-2026-000899,LRN-00005,ASM-005,2026-08-12T15:34:00,Synthetic academic submission content number 899. This is sample text for assessment 5.,Submitted
+SUB-2026-000900,LRN-00052,ASM-004,2026-02-14T12:44:00,"Synthetic submission 900. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000901,LRN-00152,ASM-003,2026-02-17T08:20:00,Synthetic academic submission content number 901. This is sample text for assessment 3.,Submitted
+SUB-2026-000902,LRN-00025,ASM-005,2026-01-13T16:30:00,Synthetic academic submission content number 902. This is sample text for assessment 5.,Submitted
+SUB-2026-000903,LRN-00049,ASM-003,2026-03-12T08:26:00,"Synthetic submission 903. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000904,LRN-00164,ASM-005,2026-01-27T15:02:00,Synthetic academic submission content number 904. This is sample text for assessment 5.,Submitted
+SUB-2026-000905,LRN-00046,ASM-005,2026-01-08T11:59:00,Synthetic academic submission content number 905. This is sample text for assessment 5.,Submitted
+SUB-2026-000906,LRN-00112,ASM-004,2026-06-26T13:00:00,Synthetic academic submission content number 906. This is sample text for assessment 4.,Submitted
+SUB-2026-000907,LRN-00130,ASM-002,2026-05-09T12:20:00,Synthetic academic submission content number 907. This is sample text for assessment 2.,Submitted
+SUB-2026-000908,LRN-00130,ASM-002,2026-01-11T08:29:00,Synthetic academic submission content number 908. This is sample text for assessment 2.,Submitted
+SUB-2026-000909,LRN-00039,ASM-001,2026-08-05T14:08:00,Synthetic academic submission content number 909. This is sample text for assessment 1.,Submitted
+SUB-2026-000910,LRN-00091,ASM-005,2026-06-25T13:26:00,"Synthetic submission 910. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000911,LRN-00039,ASM-004,2026-02-04T15:50:00,Synthetic academic submission content number 911. This is sample text for assessment 4.,Submitted
+SUB-2026-000912,LRN-00077,ASM-001,2026-06-16T08:35:00,Synthetic academic submission content number 912. This is sample text for assessment 1.,Submitted
+SUB-2026-000913,LRN-00105,ASM-001,2026-07-23T11:59:00,Synthetic academic submission content number 913. This is sample text for assessment 1.,Submitted
+SUB-2026-000914,LRN-00178,ASM-005,2026-05-17T14:30:00,Synthetic academic submission content number 914. This is sample text for assessment 5.,Submitted
+SUB-2026-000915,LRN-00109,ASM-005,2026-01-06T13:49:00,Synthetic academic submission content number 915. This is sample text for assessment 5.,Submitted
+SUB-2026-000916,LRN-00178,ASM-003,2026-05-17T18:00:00,Synthetic academic submission content number 916. This is sample text for assessment 3.,Submitted
+SUB-2026-000917,LRN-00077,ASM-001,2026-08-17T16:55:00,"Synthetic submission 917. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000918,LRN-00002,ASM-003,2026-08-02T13:44:00,Synthetic academic submission content number 918. This is sample text for assessment 3.,Submitted
+SUB-2026-000919,LRN-00093,ASM-001,2026-01-20T08:57:00,Synthetic academic submission content number 919. This is sample text for assessment 1.,Submitted
+SUB-2026-000920,LRN-00054,ASM-003,2026-05-17T12:14:00,"Synthetic submission 920. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000921,LRN-00174,ASM-001,2026-04-10T14:35:00,Synthetic academic submission content number 921. This is sample text for assessment 1.,Submitted
+SUB-2026-000922,LRN-00176,ASM-005,2026-03-05T17:15:00,Synthetic academic submission content number 922. This is sample text for assessment 5.,Submitted
+SUB-2026-000923,LRN-00099,ASM-003,2026-08-06T18:17:00,Synthetic academic submission content number 923. This is sample text for assessment 3.,Submitted
+SUB-2026-000924,LRN-00089,ASM-001,2026-08-02T18:49:00,"Synthetic submission 924. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000925,LRN-00016,ASM-002,2026-01-23T16:52:00,Synthetic academic submission content number 925. This is sample text for assessment 2.,Submitted
+SUB-2026-000926,LRN-00056,ASM-001,2026-07-13T09:04:00,Synthetic academic submission content number 926. This is sample text for assessment 1.,Submitted
+SUB-2026-000927,LRN-00028,ASM-001,2026-05-04T14:14:00,Synthetic academic submission content number 927. This is sample text for assessment 1.,Submitted
+SUB-2026-000928,LRN-00128,ASM-002,2026-03-28T16:24:00,Synthetic academic submission content number 928. This is sample text for assessment 2.,Submitted
+SUB-2026-000929,LRN-00150,ASM-004,2026-01-04T09:03:00,Synthetic academic submission content number 929. This is sample text for assessment 4.,Submitted
+SUB-2026-000930,LRN-00141,ASM-001,2026-06-19T14:50:00,"Synthetic submission 930. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000931,LRN-00129,ASM-002,2026-03-09T08:10:00,"Synthetic submission 931. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000932,LRN-00144,ASM-003,2026-09-06T11:04:00,Synthetic academic submission content number 932. This is sample text for assessment 3.,Submitted
+SUB-2026-000933,LRN-00138,ASM-005,2026-05-10T12:20:00,Synthetic academic submission content number 933. This is sample text for assessment 5.,Submitted
+SUB-2026-000934,LRN-00062,ASM-003,2026-08-30T15:06:00,Synthetic academic submission content number 934. This is sample text for assessment 3.,Submitted
+SUB-2026-000935,LRN-00001,ASM-002,2026-01-17T10:50:00,Synthetic academic submission content number 935. This is sample text for assessment 2.,Submitted
+SUB-2026-000936,LRN-00157,ASM-005,2026-08-25T18:41:00,Synthetic academic submission content number 936. This is sample text for assessment 5.,Submitted
+SUB-2026-000937,LRN-00011,ASM-002,2026-02-18T11:16:00,Synthetic academic submission content number 937. This is sample text for assessment 2.,Submitted
+SUB-2026-000938,LRN-00010,ASM-004,2026-03-26T17:42:00,"Synthetic submission 938. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000939,LRN-00147,ASM-001,2026-08-24T11:08:00,Synthetic academic submission content number 939. This is sample text for assessment 1.,Submitted
+SUB-2026-000940,LRN-00166,ASM-001,2026-05-14T14:15:00,"Synthetic submission 940. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000941,LRN-00030,ASM-002,2026-06-24T15:38:00,Synthetic academic submission content number 941. This is sample text for assessment 2.,Submitted
+SUB-2026-000942,LRN-00008,ASM-001,2026-05-04T10:28:00,Synthetic academic submission content number 942. This is sample text for assessment 1.,Submitted
+SUB-2026-000943,LRN-00126,ASM-001,2026-08-19T17:06:00,Synthetic academic submission content number 943. This is sample text for assessment 1.,Submitted
+SUB-2026-000944,LRN-00012,ASM-004,2026-03-24T15:25:00,Synthetic academic submission content number 944. This is sample text for assessment 4.,Submitted
+SUB-2026-000945,LRN-00057,ASM-005,2026-08-15T08:43:00,"Synthetic submission 945. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000946,LRN-00155,ASM-001,2026-03-01T14:06:00,Synthetic academic submission content number 946. This is sample text for assessment 1.,Submitted
+SUB-2026-000947,LRN-00116,ASM-001,2026-04-14T10:21:00,Synthetic academic submission content number 947. This is sample text for assessment 1.,Submitted
+SUB-2026-000948,LRN-00158,ASM-004,2026-05-31T15:50:00,Synthetic academic submission content number 948. This is sample text for assessment 4.,Submitted
+SUB-2026-000949,LRN-00051,ASM-003,2026-04-12T18:35:00,Synthetic academic submission content number 949. This is sample text for assessment 3.,Submitted
+SUB-2026-000950,LRN-00086,ASM-005,2026-08-02T16:22:00,"Synthetic submission 950. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000951,LRN-00043,ASM-004,2026-02-19T10:22:00,Synthetic academic submission content number 951. This is sample text for assessment 4.,Submitted
+SUB-2026-000952,LRN-00168,ASM-003,2026-06-10T11:12:00,"Synthetic submission 952. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000953,LRN-00142,ASM-005,2026-02-16T17:32:00,Synthetic academic submission content number 953. This is sample text for assessment 5.,Submitted
+SUB-2026-000954,LRN-00194,ASM-004,2026-05-04T11:49:00,Synthetic academic submission content number 954. This is sample text for assessment 4.,Submitted
+SUB-2026-000955,LRN-00037,ASM-004,2026-03-06T12:36:00,Synthetic academic submission content number 955. This is sample text for assessment 4.,Submitted
+SUB-2026-000956,LRN-00196,ASM-005,2026-07-14T15:51:00,Synthetic academic submission content number 956. This is sample text for assessment 5.,Submitted
+SUB-2026-000957,LRN-00036,ASM-002,2026-04-23T11:49:00,Synthetic academic submission content number 957. This is sample text for assessment 2.,Submitted
+SUB-2026-000958,LRN-00085,ASM-001,2026-04-29T18:57:00,Synthetic academic submission content number 958. This is sample text for assessment 1.,Submitted
+SUB-2026-000959,LRN-00138,ASM-003,2026-05-03T17:16:00,"Synthetic submission 959. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000960,LRN-00124,ASM-004,2026-03-31T15:25:00,"Synthetic submission 960. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000961,LRN-00112,ASM-001,2026-07-14T16:16:00,Synthetic academic submission content number 961. This is sample text for assessment 1.,Submitted
+SUB-2026-000962,LRN-00071,ASM-005,2026-06-16T09:09:00,Synthetic academic submission content number 962. This is sample text for assessment 5.,Submitted
+SUB-2026-000963,LRN-00145,ASM-003,2026-02-05T17:42:00,Synthetic academic submission content number 963. This is sample text for assessment 3.,Submitted
+SUB-2026-000964,LRN-00044,ASM-001,2026-04-18T18:24:00,Synthetic academic submission content number 964. This is sample text for assessment 1.,Submitted
+SUB-2026-000965,LRN-00008,ASM-003,2026-06-24T15:45:00,Synthetic academic submission content number 965. This is sample text for assessment 3.,Submitted
+SUB-2026-000966,LRN-00074,ASM-003,2026-05-15T16:22:00,"Synthetic submission 966. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000967,LRN-00168,ASM-003,2026-08-23T10:50:00,Synthetic academic submission content number 967. This is sample text for assessment 3.,Submitted
+SUB-2026-000968,LRN-00073,ASM-005,2026-05-10T08:25:00,Synthetic academic submission content number 968. This is sample text for assessment 5.,Submitted
+SUB-2026-000969,LRN-00052,ASM-002,2026-08-11T16:03:00,Synthetic academic submission content number 969. This is sample text for assessment 2.,Submitted
+SUB-2026-000970,LRN-00086,ASM-004,2026-05-11T16:00:00,"Synthetic submission 970. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000971,LRN-00165,ASM-001,2026-02-04T09:56:00,Synthetic academic submission content number 971. This is sample text for assessment 1.,Submitted
+SUB-2026-000972,LRN-00061,ASM-004,2026-06-06T08:57:00,Synthetic academic submission content number 972. This is sample text for assessment 4.,Submitted
+SUB-2026-000973,LRN-00080,ASM-001,2026-08-26T12:39:00,"Synthetic submission 973. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000974,LRN-00111,ASM-005,2026-04-01T12:50:00,Synthetic academic submission content number 974. This is sample text for assessment 5.,Submitted
+SUB-2026-000975,LRN-00116,ASM-004,2026-03-03T17:59:00,Synthetic academic submission content number 975. This is sample text for assessment 4.,Submitted
+SUB-2026-000976,LRN-00109,ASM-003,2026-03-16T16:02:00,Synthetic academic submission content number 976. This is sample text for assessment 3.,Submitted
+SUB-2026-000977,LRN-00174,ASM-005,2026-08-08T08:19:00,Synthetic academic submission content number 977. This is sample text for assessment 5.,Submitted
+SUB-2026-000978,LRN-00186,ASM-002,2026-06-16T11:24:00,Synthetic academic submission content number 978. This is sample text for assessment 2.,Submitted
+SUB-2026-000979,LRN-00119,ASM-005,2026-02-10T12:28:00,Synthetic academic submission content number 979. This is sample text for assessment 5.,Submitted
+SUB-2026-000980,LRN-00099,ASM-003,2026-03-02T10:55:00,"Synthetic submission 980. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000981,LRN-00182,ASM-001,2026-05-07T11:30:00,Synthetic academic submission content number 981. This is sample text for assessment 1.,Submitted
+SUB-2026-000982,LRN-00192,ASM-004,2026-03-13T17:41:00,Synthetic academic submission content number 982. This is sample text for assessment 4.,Submitted
+SUB-2026-000983,LRN-00191,ASM-005,2026-05-03T16:26:00,Synthetic academic submission content number 983. This is sample text for assessment 5.,Submitted
+SUB-2026-000984,LRN-00063,ASM-004,2026-03-30T15:47:00,Synthetic academic submission content number 984. This is sample text for assessment 4.,Submitted
+SUB-2026-000985,LRN-00077,ASM-005,2026-04-05T16:10:00,Synthetic academic submission content number 985. This is sample text for assessment 5.,Submitted
+SUB-2026-000986,LRN-00132,ASM-005,2026-09-01T12:04:00,Synthetic academic submission content number 986. This is sample text for assessment 5.,Submitted
+SUB-2026-000987,LRN-00167,ASM-001,2026-04-28T13:19:00,"Synthetic submission 987. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000988,LRN-00145,ASM-004,2026-02-04T13:56:00,Synthetic academic submission content number 988. This is sample text for assessment 4.,Submitted
+SUB-2026-000989,LRN-00081,ASM-001,2026-06-06T09:27:00,Synthetic academic submission content number 989. This is sample text for assessment 1.,Submitted
+SUB-2026-000990,LRN-00176,ASM-002,2026-08-25T18:34:00,"Synthetic submission 990. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted
+SUB-2026-000991,LRN-00046,ASM-003,2026-03-20T09:58:00,Synthetic academic submission content number 991. This is sample text for assessment 3.,Submitted
+SUB-2026-000992,LRN-00176,ASM-001,2026-04-18T17:02:00,Synthetic academic submission content number 992. This is sample text for assessment 1.,Submitted
+SUB-2026-000993,LRN-00123,ASM-003,2026-08-24T17:51:00,Synthetic academic submission content number 993. This is sample text for assessment 3.,Submitted
+SUB-2026-000994,LRN-00053,ASM-003,2026-03-25T14:01:00,"Synthetic submission 994. Shared assignment template: Introduction, Methodology, Results, Discussion, Conclusion. The headings are common to the assessment.",Submitted
+SUB-2026-000995,LRN-00160,ASM-001,2026-02-17T15:03:00,Synthetic academic submission content number 995. This is sample text for assessment 1.,Submitted
+SUB-2026-000996,LRN-00158,ASM-002,2026-03-30T15:50:00,Synthetic academic submission content number 996. This is sample text for assessment 2.,Submitted
+SUB-2026-000997,LRN-00091,ASM-005,2026-06-02T10:48:00,Synthetic academic submission content number 997. This is sample text for assessment 5.,Submitted
+SUB-2026-000998,LRN-00011,ASM-004,2026-08-24T08:07:00,Synthetic academic submission content number 998. This is sample text for assessment 4.,Submitted
+SUB-2026-000999,LRN-00152,ASM-002,2026-07-11T13:42:00,Synthetic academic submission content number 999. This is sample text for assessment 2.,Submitted
+SUB-2026-001000,LRN-00177,ASM-004,2026-04-06T10:12:00,"Synthetic submission 1000. Quoted material: ""Knowledge is built through careful observation."" The quotation is attributed and discussed by the learner.",Submitted

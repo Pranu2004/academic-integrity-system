@@ -1,0 +1,37 @@
+[
+  {
+    "assessment_id": "ASM-001",
+    "title": "Assessment 1",
+    "subject": "Python",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 2"
+  },
+  {
+    "assessment_id": "ASM-002",
+    "title": "Assessment 2",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 3"
+  },
+  {
+    "assessment_id": "ASM-003",
+    "title": "Assessment 3",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 4"
+  },
+  {
+    "assessment_id": "ASM-004",
+    "title": "Assessment 4",
+    "subject": "AI",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 5"
+  },
+  {
+    "assessment_id": "ASM-005",
+    "title": "Assessment 5",
+    "subject": "Database Systems",
+    "deadline": "2026-12-15T23:59:00",
+    "instructor": "Instructor 6"
+  }
+]

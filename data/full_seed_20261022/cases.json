@@ -1,0 +1,2702 @@
+[
+  {
+    "case_id": "CASE-2026-000001",
+    "submission_id": "SUB-2026-000001",
+    "report_id": "SIM-SUB-2026-000001-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-08-11T19:29:00",
+    "closed_at": "2026-08-11T22:29:00"
+  },
+  {
+    "case_id": "CASE-2026-000002",
+    "submission_id": "SUB-2026-000002",
+    "report_id": "SIM-SUB-2026-000002-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-08-07T14:12:00",
+    "closed_at": "2026-08-07T17:12:00"
+  },
+  {
+    "case_id": "CASE-2026-000003",
+    "submission_id": "SUB-2026-000003",
+    "report_id": "SIM-SUB-2026-000003-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-05-22T15:15:00",
+    "closed_at": "2026-05-22T18:15:00"
+  },
+  {
+    "case_id": "CASE-2026-000004",
+    "submission_id": "SUB-2026-000004",
+    "report_id": "SIM-SUB-2026-000004-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-16T13:02:00",
+    "closed_at": "2026-02-16T16:02:00"
+  },
+  {
+    "case_id": "CASE-2026-000005",
+    "submission_id": "SUB-2026-000005",
+    "report_id": "SIM-SUB-2026-000005-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-28T15:33:00",
+    "closed_at": "2026-02-28T18:33:00"
+  },
+  {
+    "case_id": "CASE-2026-000006",
+    "submission_id": "SUB-2026-000006",
+    "report_id": "SIM-SUB-2026-000006-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-04-02T19:52:00",
+    "closed_at": "2026-04-02T22:52:00"
+  },
+  {
+    "case_id": "CASE-2026-000007",
+    "submission_id": "SUB-2026-000007",
+    "report_id": "SIM-SUB-2026-000007-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-07-13T20:31:00",
+    "closed_at": "2026-07-13T23:31:00"
+  },
+  {
+    "case_id": "CASE-2026-000008",
+    "submission_id": "SUB-2026-000008",
+    "report_id": "SIM-SUB-2026-000008-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-05-10T14:31:00",
+    "closed_at": "2026-05-10T17:31:00"
+  },
+  {
+    "case_id": "CASE-2026-000009",
+    "submission_id": "SUB-2026-000009",
+    "report_id": "SIM-SUB-2026-000009-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-03-25T19:47:00",
+    "closed_at": "2026-03-25T22:47:00"
+  },
+  {
+    "case_id": "CASE-2026-000010",
+    "submission_id": "SUB-2026-000010",
+    "report_id": "SIM-SUB-2026-000010-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-05-21T19:20:00",
+    "closed_at": "2026-05-21T22:20:00"
+  },
+  {
+    "case_id": "CASE-2026-000011",
+    "submission_id": "SUB-2026-000011",
+    "report_id": "SIM-SUB-2026-000011-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-03-31T13:56:00",
+    "closed_at": "2026-03-31T16:56:00"
+  },
+  {
+    "case_id": "CASE-2026-000012",
+    "submission_id": "SUB-2026-000012",
+    "report_id": "SIM-SUB-2026-000012-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-01-30T11:29:00",
+    "closed_at": "2026-01-30T14:29:00"
+  },
+  {
+    "case_id": "CASE-2026-000013",
+    "submission_id": "SUB-2026-000013",
+    "report_id": "SIM-SUB-2026-000013-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-03-21T17:25:00",
+    "closed_at": "2026-03-21T20:25:00"
+  },
+  {
+    "case_id": "CASE-2026-000014",
+    "submission_id": "SUB-2026-000014",
+    "report_id": "SIM-SUB-2026-000014-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-01T20:10:00",
+    "closed_at": "2026-02-01T23:10:00"
+  },
+  {
+    "case_id": "CASE-2026-000015",
+    "submission_id": "SUB-2026-000015",
+    "report_id": "SIM-SUB-2026-000015-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-01T12:07:00",
+    "closed_at": "2026-02-01T15:07:00"
+  },
+  {
+    "case_id": "CASE-2026-000016",
+    "submission_id": "SUB-2026-000016",
+    "report_id": "SIM-SUB-2026-000016-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-05-22T16:48:00",
+    "closed_at": "2026-05-22T19:48:00"
+  },
+  {
+    "case_id": "CASE-2026-000017",
+    "submission_id": "SUB-2026-000017",
+    "report_id": "SIM-SUB-2026-000017-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-07-24T12:36:00",
+    "closed_at": "2026-07-24T15:36:00"
+  },
+  {
+    "case_id": "CASE-2026-000018",
+    "submission_id": "SUB-2026-000018",
+    "report_id": "SIM-SUB-2026-000018-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-18T10:48:00",
+    "closed_at": "2026-02-18T13:48:00"
+  },
+  {
+    "case_id": "CASE-2026-000019",
+    "submission_id": "SUB-2026-000019",
+    "report_id": "SIM-SUB-2026-000019-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-06-17T10:35:00",
+    "closed_at": "2026-06-17T13:35:00"
+  },
+  {
+    "case_id": "CASE-2026-000020",
+    "submission_id": "SUB-2026-000020",
+    "report_id": "SIM-SUB-2026-000020-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-03-13T10:44:00",
+    "closed_at": "2026-03-13T13:44:00"
+  },
+  {
+    "case_id": "CASE-2026-000021",
+    "submission_id": "SUB-2026-000021",
+    "report_id": "SIM-SUB-2026-000021-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-03-10T16:40:00",
+    "closed_at": "2026-03-10T19:40:00"
+  },
+  {
+    "case_id": "CASE-2026-000022",
+    "submission_id": "SUB-2026-000022",
+    "report_id": "SIM-SUB-2026-000022-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-06-22T16:56:00",
+    "closed_at": "2026-06-22T19:56:00"
+  },
+  {
+    "case_id": "CASE-2026-000023",
+    "submission_id": "SUB-2026-000023",
+    "report_id": "SIM-SUB-2026-000023-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-07-22T20:40:00",
+    "closed_at": "2026-07-22T23:40:00"
+  },
+  {
+    "case_id": "CASE-2026-000024",
+    "submission_id": "SUB-2026-000024",
+    "report_id": "SIM-SUB-2026-000024-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-07-27T20:58:00",
+    "closed_at": "2026-07-27T23:58:00"
+  },
+  {
+    "case_id": "CASE-2026-000025",
+    "submission_id": "SUB-2026-000025",
+    "report_id": "SIM-SUB-2026-000025-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-08T17:24:00",
+    "closed_at": "2026-02-08T20:24:00"
+  },
+  {
+    "case_id": "CASE-2026-000026",
+    "submission_id": "SUB-2026-000026",
+    "report_id": "SIM-SUB-2026-000026-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-06-05T10:32:00",
+    "closed_at": "2026-06-05T13:32:00"
+  },
+  {
+    "case_id": "CASE-2026-000027",
+    "submission_id": "SUB-2026-000027",
+    "report_id": "SIM-SUB-2026-000027-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-02-07T14:16:00",
+    "closed_at": "2026-02-07T17:16:00"
+  },
+  {
+    "case_id": "CASE-2026-000028",
+    "submission_id": "SUB-2026-000028",
+    "report_id": "SIM-SUB-2026-000028-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-06-27T20:02:00",
+    "closed_at": "2026-06-27T23:02:00"
+  },
+  {
+    "case_id": "CASE-2026-000029",
+    "submission_id": "SUB-2026-000029",
+    "report_id": "SIM-SUB-2026-000029-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-08-31T11:10:00",
+    "closed_at": "2026-08-31T14:10:00"
+  },
+  {
+    "case_id": "CASE-2026-000030",
+    "submission_id": "SUB-2026-000030",
+    "report_id": "SIM-SUB-2026-000030-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Closed",
+    "created_at": "2026-03-26T14:50:00",
+    "closed_at": "2026-03-26T17:50:00"
+  },
+  {
+    "case_id": "CASE-2026-000031",
+    "submission_id": "SUB-2026-000031",
+    "report_id": "SIM-SUB-2026-000031-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-17T16:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000032",
+    "submission_id": "SUB-2026-000032",
+    "report_id": "SIM-SUB-2026-000032-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-24T19:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000033",
+    "submission_id": "SUB-2026-000033",
+    "report_id": "SIM-SUB-2026-000033-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-14T16:58:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000034",
+    "submission_id": "SUB-2026-000034",
+    "report_id": "SIM-SUB-2026-000034-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-20T16:59:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000035",
+    "submission_id": "SUB-2026-000035",
+    "report_id": "SIM-SUB-2026-000035-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-08T10:30:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000036",
+    "submission_id": "SUB-2026-000036",
+    "report_id": "SIM-SUB-2026-000036-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-22T15:04:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000037",
+    "submission_id": "SUB-2026-000037",
+    "report_id": "SIM-SUB-2026-000037-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-24T15:54:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000038",
+    "submission_id": "SUB-2026-000038",
+    "report_id": "SIM-SUB-2026-000038-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-07T20:30:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000039",
+    "submission_id": "SUB-2026-000039",
+    "report_id": "SIM-SUB-2026-000039-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-16T18:42:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000040",
+    "submission_id": "SUB-2026-000040",
+    "report_id": "SIM-SUB-2026-000040-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-10T20:45:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000041",
+    "submission_id": "SUB-2026-000041",
+    "report_id": "SIM-SUB-2026-000041-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-26T12:17:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000042",
+    "submission_id": "SUB-2026-000042",
+    "report_id": "SIM-SUB-2026-000042-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-30T11:15:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000043",
+    "submission_id": "SUB-2026-000043",
+    "report_id": "SIM-SUB-2026-000043-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-16T15:28:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000044",
+    "submission_id": "SUB-2026-000044",
+    "report_id": "SIM-SUB-2026-000044-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-11T10:33:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000045",
+    "submission_id": "SUB-2026-000045",
+    "report_id": "SIM-SUB-2026-000045-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-09-05T15:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000046",
+    "submission_id": "SUB-2026-000046",
+    "report_id": "SIM-SUB-2026-000046-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-21T15:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000047",
+    "submission_id": "SUB-2026-000047",
+    "report_id": "SIM-SUB-2026-000047-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-20T17:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000048",
+    "submission_id": "SUB-2026-000048",
+    "report_id": "SIM-SUB-2026-000048-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-13T16:59:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000049",
+    "submission_id": "SUB-2026-000049",
+    "report_id": "SIM-SUB-2026-000049-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-27T16:01:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000050",
+    "submission_id": "SUB-2026-000050",
+    "report_id": "SIM-SUB-2026-000050-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-09T13:02:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000051",
+    "submission_id": "SUB-2026-000051",
+    "report_id": "SIM-SUB-2026-000051-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-31T11:27:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000052",
+    "submission_id": "SUB-2026-000052",
+    "report_id": "SIM-SUB-2026-000052-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-22T20:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000053",
+    "submission_id": "SUB-2026-000053",
+    "report_id": "SIM-SUB-2026-000053-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-10T15:07:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000054",
+    "submission_id": "SUB-2026-000054",
+    "report_id": "SIM-SUB-2026-000054-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-23T12:36:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000055",
+    "submission_id": "SUB-2026-000055",
+    "report_id": "SIM-SUB-2026-000055-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-31T17:02:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000056",
+    "submission_id": "SUB-2026-000056",
+    "report_id": "SIM-SUB-2026-000056-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-13T13:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000057",
+    "submission_id": "SUB-2026-000057",
+    "report_id": "SIM-SUB-2026-000057-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-18T11:29:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000058",
+    "submission_id": "SUB-2026-000058",
+    "report_id": "SIM-SUB-2026-000058-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-15T16:52:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000059",
+    "submission_id": "SUB-2026-000059",
+    "report_id": "SIM-SUB-2026-000059-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-10T16:27:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000060",
+    "submission_id": "SUB-2026-000060",
+    "report_id": "SIM-SUB-2026-000060-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-24T11:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000061",
+    "submission_id": "SUB-2026-000061",
+    "report_id": "SIM-SUB-2026-000061-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-28T17:29:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000062",
+    "submission_id": "SUB-2026-000062",
+    "report_id": "SIM-SUB-2026-000062-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-09T19:14:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000063",
+    "submission_id": "SUB-2026-000063",
+    "report_id": "SIM-SUB-2026-000063-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-19T10:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000064",
+    "submission_id": "SUB-2026-000064",
+    "report_id": "SIM-SUB-2026-000064-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-15T14:22:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000065",
+    "submission_id": "SUB-2026-000065",
+    "report_id": "SIM-SUB-2026-000065-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-30T10:27:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000066",
+    "submission_id": "SUB-2026-000066",
+    "report_id": "SIM-SUB-2026-000066-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-18T11:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000067",
+    "submission_id": "SUB-2026-000067",
+    "report_id": "SIM-SUB-2026-000067-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-02T11:51:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000068",
+    "submission_id": "SUB-2026-000068",
+    "report_id": "SIM-SUB-2026-000068-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-08T19:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000069",
+    "submission_id": "SUB-2026-000069",
+    "report_id": "SIM-SUB-2026-000069-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-28T19:41:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000070",
+    "submission_id": "SUB-2026-000070",
+    "report_id": "SIM-SUB-2026-000070-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-18T15:21:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000071",
+    "submission_id": "SUB-2026-000071",
+    "report_id": "SIM-SUB-2026-000071-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-26T20:33:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000072",
+    "submission_id": "SUB-2026-000072",
+    "report_id": "SIM-SUB-2026-000072-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-21T20:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000073",
+    "submission_id": "SUB-2026-000073",
+    "report_id": "SIM-SUB-2026-000073-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-29T11:28:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000074",
+    "submission_id": "SUB-2026-000074",
+    "report_id": "SIM-SUB-2026-000074-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-09T10:24:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000075",
+    "submission_id": "SUB-2026-000075",
+    "report_id": "SIM-SUB-2026-000075-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-14T16:23:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000076",
+    "submission_id": "SUB-2026-000076",
+    "report_id": "SIM-SUB-2026-000076-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-10T17:13:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000077",
+    "submission_id": "SUB-2026-000077",
+    "report_id": "SIM-SUB-2026-000077-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-04T16:56:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000078",
+    "submission_id": "SUB-2026-000078",
+    "report_id": "SIM-SUB-2026-000078-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-13T12:52:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000079",
+    "submission_id": "SUB-2026-000079",
+    "report_id": "SIM-SUB-2026-000079-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-24T20:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000080",
+    "submission_id": "SUB-2026-000080",
+    "report_id": "SIM-SUB-2026-000080-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-19T16:38:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000081",
+    "submission_id": "SUB-2026-000081",
+    "report_id": "SIM-SUB-2026-000081-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-01T12:23:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000082",
+    "submission_id": "SUB-2026-000082",
+    "report_id": "SIM-SUB-2026-000082-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-19T20:16:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000083",
+    "submission_id": "SUB-2026-000083",
+    "report_id": "SIM-SUB-2026-000083-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-16T20:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000084",
+    "submission_id": "SUB-2026-000084",
+    "report_id": "SIM-SUB-2026-000084-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-24T12:28:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000085",
+    "submission_id": "SUB-2026-000085",
+    "report_id": "SIM-SUB-2026-000085-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-03T17:07:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000086",
+    "submission_id": "SUB-2026-000086",
+    "report_id": "SIM-SUB-2026-000086-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-17T13:38:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000087",
+    "submission_id": "SUB-2026-000087",
+    "report_id": "SIM-SUB-2026-000087-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-14T20:18:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000088",
+    "submission_id": "SUB-2026-000088",
+    "report_id": "SIM-SUB-2026-000088-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-16T19:54:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000089",
+    "submission_id": "SUB-2026-000089",
+    "report_id": "SIM-SUB-2026-000089-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-12T11:00:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000090",
+    "submission_id": "SUB-2026-000090",
+    "report_id": "SIM-SUB-2026-000090-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-30T20:41:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000091",
+    "submission_id": "SUB-2026-000091",
+    "report_id": "SIM-SUB-2026-000091-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-11T16:16:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000092",
+    "submission_id": "SUB-2026-000092",
+    "report_id": "SIM-SUB-2026-000092-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-16T17:00:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000093",
+    "submission_id": "SUB-2026-000093",
+    "report_id": "SIM-SUB-2026-000093-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-22T18:19:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000094",
+    "submission_id": "SUB-2026-000094",
+    "report_id": "SIM-SUB-2026-000094-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-25T12:04:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000095",
+    "submission_id": "SUB-2026-000095",
+    "report_id": "SIM-SUB-2026-000095-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-27T19:35:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000096",
+    "submission_id": "SUB-2026-000096",
+    "report_id": "SIM-SUB-2026-000096-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-02T13:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000097",
+    "submission_id": "SUB-2026-000097",
+    "report_id": "SIM-SUB-2026-000097-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-25T12:33:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000098",
+    "submission_id": "SUB-2026-000098",
+    "report_id": "SIM-SUB-2026-000098-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-28T10:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000099",
+    "submission_id": "SUB-2026-000099",
+    "report_id": "SIM-SUB-2026-000099-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-21T13:53:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000100",
+    "submission_id": "SUB-2026-000100",
+    "report_id": "SIM-SUB-2026-000100-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-28T18:37:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000101",
+    "submission_id": "SUB-2026-000101",
+    "report_id": "SIM-SUB-2026-000101-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-12T13:57:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000102",
+    "submission_id": "SUB-2026-000102",
+    "report_id": "SIM-SUB-2026-000102-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-28T12:09:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000103",
+    "submission_id": "SUB-2026-000103",
+    "report_id": "SIM-SUB-2026-000103-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-30T16:48:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000104",
+    "submission_id": "SUB-2026-000104",
+    "report_id": "SIM-SUB-2026-000104-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-15T16:56:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000105",
+    "submission_id": "SUB-2026-000105",
+    "report_id": "SIM-SUB-2026-000105-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-17T13:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000106",
+    "submission_id": "SUB-2026-000106",
+    "report_id": "SIM-SUB-2026-000106-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-22T10:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000107",
+    "submission_id": "SUB-2026-000107",
+    "report_id": "SIM-SUB-2026-000107-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-18T18:37:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000108",
+    "submission_id": "SUB-2026-000108",
+    "report_id": "SIM-SUB-2026-000108-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-24T10:45:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000109",
+    "submission_id": "SUB-2026-000109",
+    "report_id": "SIM-SUB-2026-000109-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-05T13:16:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000110",
+    "submission_id": "SUB-2026-000110",
+    "report_id": "SIM-SUB-2026-000110-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-23T10:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000111",
+    "submission_id": "SUB-2026-000111",
+    "report_id": "SIM-SUB-2026-000111-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-18T18:49:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000112",
+    "submission_id": "SUB-2026-000112",
+    "report_id": "SIM-SUB-2026-000112-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-16T16:42:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000113",
+    "submission_id": "SUB-2026-000113",
+    "report_id": "SIM-SUB-2026-000113-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-22T12:51:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000114",
+    "submission_id": "SUB-2026-000114",
+    "report_id": "SIM-SUB-2026-000114-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-15T12:49:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000115",
+    "submission_id": "SUB-2026-000115",
+    "report_id": "SIM-SUB-2026-000115-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-11T16:23:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000116",
+    "submission_id": "SUB-2026-000116",
+    "report_id": "SIM-SUB-2026-000116-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-10T12:27:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000117",
+    "submission_id": "SUB-2026-000117",
+    "report_id": "SIM-SUB-2026-000117-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-15T20:38:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000118",
+    "submission_id": "SUB-2026-000118",
+    "report_id": "SIM-SUB-2026-000118-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-01T17:41:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000119",
+    "submission_id": "SUB-2026-000119",
+    "report_id": "SIM-SUB-2026-000119-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-02T20:56:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000120",
+    "submission_id": "SUB-2026-000120",
+    "report_id": "SIM-SUB-2026-000120-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-31T18:05:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000121",
+    "submission_id": "SUB-2026-000121",
+    "report_id": "SIM-SUB-2026-000121-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-05T17:13:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000122",
+    "submission_id": "SUB-2026-000122",
+    "report_id": "SIM-SUB-2026-000122-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-01T16:28:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000123",
+    "submission_id": "SUB-2026-000123",
+    "report_id": "SIM-SUB-2026-000123-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-30T12:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000124",
+    "submission_id": "SUB-2026-000124",
+    "report_id": "SIM-SUB-2026-000124-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-25T14:29:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000125",
+    "submission_id": "SUB-2026-000125",
+    "report_id": "SIM-SUB-2026-000125-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-13T18:53:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000126",
+    "submission_id": "SUB-2026-000126",
+    "report_id": "SIM-SUB-2026-000126-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-20T20:37:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000127",
+    "submission_id": "SUB-2026-000127",
+    "report_id": "SIM-SUB-2026-000127-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-15T11:05:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000128",
+    "submission_id": "SUB-2026-000128",
+    "report_id": "SIM-SUB-2026-000128-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-05T10:13:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000129",
+    "submission_id": "SUB-2026-000129",
+    "report_id": "SIM-SUB-2026-000129-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-01T19:31:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000130",
+    "submission_id": "SUB-2026-000130",
+    "report_id": "SIM-SUB-2026-000130-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-22T17:57:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000131",
+    "submission_id": "SUB-2026-000131",
+    "report_id": "SIM-SUB-2026-000131-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-19T11:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000132",
+    "submission_id": "SUB-2026-000132",
+    "report_id": "SIM-SUB-2026-000132-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-03T14:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000133",
+    "submission_id": "SUB-2026-000133",
+    "report_id": "SIM-SUB-2026-000133-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-03T20:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000134",
+    "submission_id": "SUB-2026-000134",
+    "report_id": "SIM-SUB-2026-000134-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-03T20:28:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000135",
+    "submission_id": "SUB-2026-000135",
+    "report_id": "SIM-SUB-2026-000135-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-26T15:22:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000136",
+    "submission_id": "SUB-2026-000136",
+    "report_id": "SIM-SUB-2026-000136-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-09T20:56:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000137",
+    "submission_id": "SUB-2026-000137",
+    "report_id": "SIM-SUB-2026-000137-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-26T15:32:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000138",
+    "submission_id": "SUB-2026-000138",
+    "report_id": "SIM-SUB-2026-000138-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-01T10:56:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000139",
+    "submission_id": "SUB-2026-000139",
+    "report_id": "SIM-SUB-2026-000139-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-21T17:57:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000140",
+    "submission_id": "SUB-2026-000140",
+    "report_id": "SIM-SUB-2026-000140-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-03T14:39:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000141",
+    "submission_id": "SUB-2026-000141",
+    "report_id": "SIM-SUB-2026-000141-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-18T18:36:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000142",
+    "submission_id": "SUB-2026-000142",
+    "report_id": "SIM-SUB-2026-000142-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-12T10:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000143",
+    "submission_id": "SUB-2026-000143",
+    "report_id": "SIM-SUB-2026-000143-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-24T18:32:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000144",
+    "submission_id": "SUB-2026-000144",
+    "report_id": "SIM-SUB-2026-000144-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-29T20:09:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000145",
+    "submission_id": "SUB-2026-000145",
+    "report_id": "SIM-SUB-2026-000145-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-09-08T10:35:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000146",
+    "submission_id": "SUB-2026-000146",
+    "report_id": "SIM-SUB-2026-000146-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-18T10:04:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000147",
+    "submission_id": "SUB-2026-000147",
+    "report_id": "SIM-SUB-2026-000147-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-09-01T10:03:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000148",
+    "submission_id": "SUB-2026-000148",
+    "report_id": "SIM-SUB-2026-000148-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-09-06T20:23:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000149",
+    "submission_id": "SUB-2026-000149",
+    "report_id": "SIM-SUB-2026-000149-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-15T12:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000150",
+    "submission_id": "SUB-2026-000150",
+    "report_id": "SIM-SUB-2026-000150-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-21T14:29:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000151",
+    "submission_id": "SUB-2026-000151",
+    "report_id": "SIM-SUB-2026-000151-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-03T20:01:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000152",
+    "submission_id": "SUB-2026-000152",
+    "report_id": "SIM-SUB-2026-000152-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-06T12:19:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000153",
+    "submission_id": "SUB-2026-000153",
+    "report_id": "SIM-SUB-2026-000153-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-24T14:53:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000154",
+    "submission_id": "SUB-2026-000154",
+    "report_id": "SIM-SUB-2026-000154-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-29T13:41:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000155",
+    "submission_id": "SUB-2026-000155",
+    "report_id": "SIM-SUB-2026-000155-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-02T13:49:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000156",
+    "submission_id": "SUB-2026-000156",
+    "report_id": "SIM-SUB-2026-000156-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-29T10:06:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000157",
+    "submission_id": "SUB-2026-000157",
+    "report_id": "SIM-SUB-2026-000157-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-06T19:01:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000158",
+    "submission_id": "SUB-2026-000158",
+    "report_id": "SIM-SUB-2026-000158-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-14T13:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000159",
+    "submission_id": "SUB-2026-000159",
+    "report_id": "SIM-SUB-2026-000159-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-01T20:58:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000160",
+    "submission_id": "SUB-2026-000160",
+    "report_id": "SIM-SUB-2026-000160-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-27T10:09:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000161",
+    "submission_id": "SUB-2026-000161",
+    "report_id": "SIM-SUB-2026-000161-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-23T11:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000162",
+    "submission_id": "SUB-2026-000162",
+    "report_id": "SIM-SUB-2026-000162-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-12T11:32:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000163",
+    "submission_id": "SUB-2026-000163",
+    "report_id": "SIM-SUB-2026-000163-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-02T13:29:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000164",
+    "submission_id": "SUB-2026-000164",
+    "report_id": "SIM-SUB-2026-000164-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-30T18:42:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000165",
+    "submission_id": "SUB-2026-000165",
+    "report_id": "SIM-SUB-2026-000165-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-31T18:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000166",
+    "submission_id": "SUB-2026-000166",
+    "report_id": "SIM-SUB-2026-000166-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-03T16:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000167",
+    "submission_id": "SUB-2026-000167",
+    "report_id": "SIM-SUB-2026-000167-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-21T20:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000168",
+    "submission_id": "SUB-2026-000168",
+    "report_id": "SIM-SUB-2026-000168-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-20T13:40:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000169",
+    "submission_id": "SUB-2026-000169",
+    "report_id": "SIM-SUB-2026-000169-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-05T15:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000170",
+    "submission_id": "SUB-2026-000170",
+    "report_id": "SIM-SUB-2026-000170-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-22T17:21:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000171",
+    "submission_id": "SUB-2026-000171",
+    "report_id": "SIM-SUB-2026-000171-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-09T13:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000172",
+    "submission_id": "SUB-2026-000172",
+    "report_id": "SIM-SUB-2026-000172-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-01T16:39:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000173",
+    "submission_id": "SUB-2026-000173",
+    "report_id": "SIM-SUB-2026-000173-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-20T13:37:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000174",
+    "submission_id": "SUB-2026-000174",
+    "report_id": "SIM-SUB-2026-000174-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-11T20:22:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000175",
+    "submission_id": "SUB-2026-000175",
+    "report_id": "SIM-SUB-2026-000175-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-03T18:52:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000176",
+    "submission_id": "SUB-2026-000176",
+    "report_id": "SIM-SUB-2026-000176-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-26T14:19:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000177",
+    "submission_id": "SUB-2026-000177",
+    "report_id": "SIM-SUB-2026-000177-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-12T18:15:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000178",
+    "submission_id": "SUB-2026-000178",
+    "report_id": "SIM-SUB-2026-000178-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-01T12:14:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000179",
+    "submission_id": "SUB-2026-000179",
+    "report_id": "SIM-SUB-2026-000179-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-29T11:21:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000180",
+    "submission_id": "SUB-2026-000180",
+    "report_id": "SIM-SUB-2026-000180-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-28T15:33:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000181",
+    "submission_id": "SUB-2026-000181",
+    "report_id": "SIM-SUB-2026-000181-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-10T10:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000182",
+    "submission_id": "SUB-2026-000182",
+    "report_id": "SIM-SUB-2026-000182-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-24T20:21:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000183",
+    "submission_id": "SUB-2026-000183",
+    "report_id": "SIM-SUB-2026-000183-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-08T18:59:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000184",
+    "submission_id": "SUB-2026-000184",
+    "report_id": "SIM-SUB-2026-000184-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-23T13:59:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000185",
+    "submission_id": "SUB-2026-000185",
+    "report_id": "SIM-SUB-2026-000185-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-02T18:08:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000186",
+    "submission_id": "SUB-2026-000186",
+    "report_id": "SIM-SUB-2026-000186-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-29T15:15:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000187",
+    "submission_id": "SUB-2026-000187",
+    "report_id": "SIM-SUB-2026-000187-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-22T16:21:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000188",
+    "submission_id": "SUB-2026-000188",
+    "report_id": "SIM-SUB-2026-000188-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-01T10:17:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000189",
+    "submission_id": "SUB-2026-000189",
+    "report_id": "SIM-SUB-2026-000189-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-16T14:47:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000190",
+    "submission_id": "SUB-2026-000190",
+    "report_id": "SIM-SUB-2026-000190-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-18T10:24:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000191",
+    "submission_id": "SUB-2026-000191",
+    "report_id": "SIM-SUB-2026-000191-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-01T16:21:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000192",
+    "submission_id": "SUB-2026-000192",
+    "report_id": "SIM-SUB-2026-000192-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-16T12:28:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000193",
+    "submission_id": "SUB-2026-000193",
+    "report_id": "SIM-SUB-2026-000193-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-09T16:42:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000194",
+    "submission_id": "SUB-2026-000194",
+    "report_id": "SIM-SUB-2026-000194-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-09-06T14:02:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000195",
+    "submission_id": "SUB-2026-000195",
+    "report_id": "SIM-SUB-2026-000195-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-04T18:58:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000196",
+    "submission_id": "SUB-2026-000196",
+    "report_id": "SIM-SUB-2026-000196-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-02T12:29:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000197",
+    "submission_id": "SUB-2026-000197",
+    "report_id": "SIM-SUB-2026-000197-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-09T18:58:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000198",
+    "submission_id": "SUB-2026-000198",
+    "report_id": "SIM-SUB-2026-000198-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-21T13:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000199",
+    "submission_id": "SUB-2026-000199",
+    "report_id": "SIM-SUB-2026-000199-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-04T19:16:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000200",
+    "submission_id": "SUB-2026-000200",
+    "report_id": "SIM-SUB-2026-000200-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-06T12:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000201",
+    "submission_id": "SUB-2026-000201",
+    "report_id": "SIM-SUB-2026-000201-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-18T10:42:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000202",
+    "submission_id": "SUB-2026-000202",
+    "report_id": "SIM-SUB-2026-000202-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-17T16:06:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000203",
+    "submission_id": "SUB-2026-000203",
+    "report_id": "SIM-SUB-2026-000203-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-26T12:00:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000204",
+    "submission_id": "SUB-2026-000204",
+    "report_id": "SIM-SUB-2026-000204-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-10T20:53:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000205",
+    "submission_id": "SUB-2026-000205",
+    "report_id": "SIM-SUB-2026-000205-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-24T17:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000206",
+    "submission_id": "SUB-2026-000206",
+    "report_id": "SIM-SUB-2026-000206-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-04T17:14:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000207",
+    "submission_id": "SUB-2026-000207",
+    "report_id": "SIM-SUB-2026-000207-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-18T15:20:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000208",
+    "submission_id": "SUB-2026-000208",
+    "report_id": "SIM-SUB-2026-000208-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-23T12:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000209",
+    "submission_id": "SUB-2026-000209",
+    "report_id": "SIM-SUB-2026-000209-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-01T17:33:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000210",
+    "submission_id": "SUB-2026-000210",
+    "report_id": "SIM-SUB-2026-000210-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-18T19:15:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000211",
+    "submission_id": "SUB-2026-000211",
+    "report_id": "SIM-SUB-2026-000211-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-24T11:30:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000212",
+    "submission_id": "SUB-2026-000212",
+    "report_id": "SIM-SUB-2026-000212-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-09T10:30:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000213",
+    "submission_id": "SUB-2026-000213",
+    "report_id": "SIM-SUB-2026-000213-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-10T15:36:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000214",
+    "submission_id": "SUB-2026-000214",
+    "report_id": "SIM-SUB-2026-000214-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-06T17:49:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000215",
+    "submission_id": "SUB-2026-000215",
+    "report_id": "SIM-SUB-2026-000215-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-16T12:59:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000216",
+    "submission_id": "SUB-2026-000216",
+    "report_id": "SIM-SUB-2026-000216-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-17T12:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000217",
+    "submission_id": "SUB-2026-000217",
+    "report_id": "SIM-SUB-2026-000217-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-27T10:43:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000218",
+    "submission_id": "SUB-2026-000218",
+    "report_id": "SIM-SUB-2026-000218-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-01T13:26:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000219",
+    "submission_id": "SUB-2026-000219",
+    "report_id": "SIM-SUB-2026-000219-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-21T10:37:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000220",
+    "submission_id": "SUB-2026-000220",
+    "report_id": "SIM-SUB-2026-000220-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-16T19:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000221",
+    "submission_id": "SUB-2026-000221",
+    "report_id": "SIM-SUB-2026-000221-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-09T12:56:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000222",
+    "submission_id": "SUB-2026-000222",
+    "report_id": "SIM-SUB-2026-000222-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-03T16:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000223",
+    "submission_id": "SUB-2026-000223",
+    "report_id": "SIM-SUB-2026-000223-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-16T10:52:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000224",
+    "submission_id": "SUB-2026-000224",
+    "report_id": "SIM-SUB-2026-000224-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-30T17:24:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000225",
+    "submission_id": "SUB-2026-000225",
+    "report_id": "SIM-SUB-2026-000225-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-28T13:20:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000226",
+    "submission_id": "SUB-2026-000226",
+    "report_id": "SIM-SUB-2026-000226-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-25T14:27:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000227",
+    "submission_id": "SUB-2026-000227",
+    "report_id": "SIM-SUB-2026-000227-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-10T11:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000228",
+    "submission_id": "SUB-2026-000228",
+    "report_id": "SIM-SUB-2026-000228-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-03-23T18:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000229",
+    "submission_id": "SUB-2026-000229",
+    "report_id": "SIM-SUB-2026-000229-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-05-22T17:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000230",
+    "submission_id": "SUB-2026-000230",
+    "report_id": "SIM-SUB-2026-000230-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-07-16T15:33:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000231",
+    "submission_id": "SUB-2026-000231",
+    "report_id": "SIM-SUB-2026-000231-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-10T19:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000232",
+    "submission_id": "SUB-2026-000232",
+    "report_id": "SIM-SUB-2026-000232-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-01T19:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000233",
+    "submission_id": "SUB-2026-000233",
+    "report_id": "SIM-SUB-2026-000233-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-15T10:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000234",
+    "submission_id": "SUB-2026-000234",
+    "report_id": "SIM-SUB-2026-000234-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-23T10:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000235",
+    "submission_id": "SUB-2026-000235",
+    "report_id": "SIM-SUB-2026-000235-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-01-24T11:51:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000236",
+    "submission_id": "SUB-2026-000236",
+    "report_id": "SIM-SUB-2026-000236-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-16T16:55:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000237",
+    "submission_id": "SUB-2026-000237",
+    "report_id": "SIM-SUB-2026-000237-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-04-17T12:31:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000238",
+    "submission_id": "SUB-2026-000238",
+    "report_id": "SIM-SUB-2026-000238-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-02-25T16:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000239",
+    "submission_id": "SUB-2026-000239",
+    "report_id": "SIM-SUB-2026-000239-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-08-31T20:22:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000240",
+    "submission_id": "SUB-2026-000240",
+    "report_id": "SIM-SUB-2026-000240-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Decision Made",
+    "created_at": "2026-06-29T12:51:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000241",
+    "submission_id": "SUB-2026-000241",
+    "report_id": "SIM-SUB-2026-000241-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-08T12:05:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000242",
+    "submission_id": "SUB-2026-000242",
+    "report_id": "SIM-SUB-2026-000242-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-05-26T11:03:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000243",
+    "submission_id": "SUB-2026-000243",
+    "report_id": "SIM-SUB-2026-000243-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-10T18:13:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000244",
+    "submission_id": "SUB-2026-000244",
+    "report_id": "SIM-SUB-2026-000244-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-04-30T14:40:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000245",
+    "submission_id": "SUB-2026-000245",
+    "report_id": "SIM-SUB-2026-000245-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-06T13:12:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000246",
+    "submission_id": "SUB-2026-000246",
+    "report_id": "SIM-SUB-2026-000246-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-05-14T15:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000247",
+    "submission_id": "SUB-2026-000247",
+    "report_id": "SIM-SUB-2026-000247-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-16T16:00:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000248",
+    "submission_id": "SUB-2026-000248",
+    "report_id": "SIM-SUB-2026-000248-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-23T18:07:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000249",
+    "submission_id": "SUB-2026-000249",
+    "report_id": "SIM-SUB-2026-000249-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-01T13:31:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000250",
+    "submission_id": "SUB-2026-000250",
+    "report_id": "SIM-SUB-2026-000250-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-05-10T12:19:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000251",
+    "submission_id": "SUB-2026-000251",
+    "report_id": "SIM-SUB-2026-000251-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-14T12:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000252",
+    "submission_id": "SUB-2026-000252",
+    "report_id": "SIM-SUB-2026-000252-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-04-26T20:43:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000253",
+    "submission_id": "SUB-2026-000253",
+    "report_id": "SIM-SUB-2026-000253-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-12T13:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000254",
+    "submission_id": "SUB-2026-000254",
+    "report_id": "SIM-SUB-2026-000254-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-05-29T17:49:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000255",
+    "submission_id": "SUB-2026-000255",
+    "report_id": "SIM-SUB-2026-000255-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-08-31T11:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000256",
+    "submission_id": "SUB-2026-000256",
+    "report_id": "SIM-SUB-2026-000256-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-06-08T18:40:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000257",
+    "submission_id": "SUB-2026-000257",
+    "report_id": "SIM-SUB-2026-000257-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-04-17T15:06:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000258",
+    "submission_id": "SUB-2026-000258",
+    "report_id": "SIM-SUB-2026-000258-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-12T18:47:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000259",
+    "submission_id": "SUB-2026-000259",
+    "report_id": "SIM-SUB-2026-000259-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-04-07T10:37:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000260",
+    "submission_id": "SUB-2026-000260",
+    "report_id": "SIM-SUB-2026-000260-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-17T13:17:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000261",
+    "submission_id": "SUB-2026-000261",
+    "report_id": "SIM-SUB-2026-000261-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-06-24T12:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000262",
+    "submission_id": "SUB-2026-000262",
+    "report_id": "SIM-SUB-2026-000262-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-06-09T13:16:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000263",
+    "submission_id": "SUB-2026-000263",
+    "report_id": "SIM-SUB-2026-000263-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-08-08T16:26:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000264",
+    "submission_id": "SUB-2026-000264",
+    "report_id": "SIM-SUB-2026-000264-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-05-09T11:48:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000265",
+    "submission_id": "SUB-2026-000265",
+    "report_id": "SIM-SUB-2026-000265-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-06-10T11:24:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000266",
+    "submission_id": "SUB-2026-000266",
+    "report_id": "SIM-SUB-2026-000266-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-05-23T11:22:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000267",
+    "submission_id": "SUB-2026-000267",
+    "report_id": "SIM-SUB-2026-000267-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-28T12:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000268",
+    "submission_id": "SUB-2026-000268",
+    "report_id": "SIM-SUB-2026-000268-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-28T14:59:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000269",
+    "submission_id": "SUB-2026-000269",
+    "report_id": "SIM-SUB-2026-000269-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-11T15:47:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000270",
+    "submission_id": "SUB-2026-000270",
+    "report_id": "SIM-SUB-2026-000270-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-08-14T20:48:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000271",
+    "submission_id": "SUB-2026-000271",
+    "report_id": "SIM-SUB-2026-000271-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-15T17:48:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000272",
+    "submission_id": "SUB-2026-000272",
+    "report_id": "SIM-SUB-2026-000272-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-08T19:14:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000273",
+    "submission_id": "SUB-2026-000273",
+    "report_id": "SIM-SUB-2026-000273-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-26T13:00:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000274",
+    "submission_id": "SUB-2026-000274",
+    "report_id": "SIM-SUB-2026-000274-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-21T12:10:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000275",
+    "submission_id": "SUB-2026-000275",
+    "report_id": "SIM-SUB-2026-000275-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-09-08T19:52:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000276",
+    "submission_id": "SUB-2026-000276",
+    "report_id": "SIM-SUB-2026-000276-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-11T18:46:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000277",
+    "submission_id": "SUB-2026-000277",
+    "report_id": "SIM-SUB-2026-000277-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-02T12:31:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000278",
+    "submission_id": "SUB-2026-000278",
+    "report_id": "SIM-SUB-2026-000278-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-04-30T10:41:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000279",
+    "submission_id": "SUB-2026-000279",
+    "report_id": "SIM-SUB-2026-000279-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-31T13:16:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000280",
+    "submission_id": "SUB-2026-000280",
+    "report_id": "SIM-SUB-2026-000280-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-29T13:54:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000281",
+    "submission_id": "SUB-2026-000281",
+    "report_id": "SIM-SUB-2026-000281-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-13T14:34:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000282",
+    "submission_id": "SUB-2026-000282",
+    "report_id": "SIM-SUB-2026-000282-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-18T14:09:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000283",
+    "submission_id": "SUB-2026-000283",
+    "report_id": "SIM-SUB-2026-000283-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-28T16:05:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000284",
+    "submission_id": "SUB-2026-000284",
+    "report_id": "SIM-SUB-2026-000284-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-15T15:24:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000285",
+    "submission_id": "SUB-2026-000285",
+    "report_id": "SIM-SUB-2026-000285-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-09-04T10:02:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000286",
+    "submission_id": "SUB-2026-000286",
+    "report_id": "SIM-SUB-2026-000286-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-25T17:42:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000287",
+    "submission_id": "SUB-2026-000287",
+    "report_id": "SIM-SUB-2026-000287-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-09T19:00:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000288",
+    "submission_id": "SUB-2026-000288",
+    "report_id": "SIM-SUB-2026-000288-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-16T14:02:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000289",
+    "submission_id": "SUB-2026-000289",
+    "report_id": "SIM-SUB-2026-000289-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-07-07T15:20:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000290",
+    "submission_id": "SUB-2026-000290",
+    "report_id": "SIM-SUB-2026-000290-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-02-24T18:58:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000291",
+    "submission_id": "SUB-2026-000291",
+    "report_id": "SIM-SUB-2026-000291-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-11T14:04:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000292",
+    "submission_id": "SUB-2026-000292",
+    "report_id": "SIM-SUB-2026-000292-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-09-07T14:11:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000293",
+    "submission_id": "SUB-2026-000293",
+    "report_id": "SIM-SUB-2026-000293-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-03T14:25:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000294",
+    "submission_id": "SUB-2026-000294",
+    "report_id": "SIM-SUB-2026-000294-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-14T18:41:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000295",
+    "submission_id": "SUB-2026-000295",
+    "report_id": "SIM-SUB-2026-000295-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-17T12:39:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000296",
+    "submission_id": "SUB-2026-000296",
+    "report_id": "SIM-SUB-2026-000296-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-23T16:26:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000297",
+    "submission_id": "SUB-2026-000297",
+    "report_id": "SIM-SUB-2026-000297-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-03-22T13:50:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000298",
+    "submission_id": "SUB-2026-000298",
+    "report_id": "SIM-SUB-2026-000298-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-06-15T12:30:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000299",
+    "submission_id": "SUB-2026-000299",
+    "report_id": "SIM-SUB-2026-000299-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-06-14T11:44:00",
+    "closed_at": null
+  },
+  {
+    "case_id": "CASE-2026-000300",
+    "submission_id": "SUB-2026-000300",
+    "report_id": "SIM-SUB-2026-000300-01",
+    "reason": "Similarity threshold triggered human review; human assessment required.",
+    "status": "Under Review",
+    "created_at": "2026-01-10T13:44:00",
+    "closed_at": null
+  }
+]

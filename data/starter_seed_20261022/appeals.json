@@ -1,0 +1,35 @@
+[
+  {
+    "appeal_id": "APL-CASE-2026-000001-01",
+    "case_id": "CASE-2026-000001",
+    "original_decision_id": "DEC-2026-000001",
+    "independent_reviewer_id": "REV-001",
+    "reason": "Synthetic appeal requesting independent review",
+    "status": "Accepted",
+    "outcome_reason": "Independent reviewer evaluated the recorded evidence and rationale.",
+    "submitted_at": "2026-08-10T21:51:00",
+    "reviewed_at": "2026-08-10T22:51:00"
+  },
+  {
+    "appeal_id": "APL-CASE-2026-000002-01",
+    "case_id": "CASE-2026-000002",
+    "original_decision_id": "DEC-2026-000002",
+    "independent_reviewer_id": "REV-004",
+    "reason": "Synthetic appeal requesting independent review",
+    "status": "Rejected",
+    "outcome_reason": "Independent reviewer evaluated the recorded evidence and rationale.",
+    "submitted_at": "2026-03-16T18:53:00",
+    "reviewed_at": "2026-03-16T19:53:00"
+  },
+  {
+    "appeal_id": "APL-CASE-2026-000003-01",
+    "case_id": "CASE-2026-000003",
+    "original_decision_id": "DEC-2026-000003",
+    "independent_reviewer_id": "REV-003",
+    "reason": "Synthetic appeal requesting independent review",
+    "status": "Rejected",
+    "outcome_reason": "Independent reviewer evaluated the recorded evidence and rationale.",
+    "submitted_at": "2026-07-24T15:35:00",
+    "reviewed_at": "2026-07-24T16:35:00"
+  }
+]

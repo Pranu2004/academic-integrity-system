@@ -1,0 +1,58 @@
+log_id,actor,action,entity_type,entity_id,details,created_at
+1,System,Case Created,Case,CASE-2026-000001,Case created for human review,2026-08-10T19:51:00
+2,System,Case Created,Case,CASE-2026-000002,Case created for human review,2026-03-16T16:53:00
+3,System,Case Created,Case,CASE-2026-000003,Case created for human review,2026-07-24T13:35:00
+4,System,Case Created,Case,CASE-2026-000004,Case created for human review,2026-08-16T10:31:00
+5,System,Case Created,Case,CASE-2026-000005,Case created for human review,2026-03-03T19:18:00
+6,System,Case Created,Case,CASE-2026-000006,Case created for human review,2026-07-06T13:55:00
+7,System,Case Created,Case,CASE-2026-000007,Case created for human review,2026-08-08T13:49:00
+8,System,Case Created,Case,CASE-2026-000008,Case created for human review,2026-02-04T12:10:00
+9,System,Case Created,Case,CASE-2026-000009,Case created for human review,2026-08-04T17:10:00
+10,System,Case Created,Case,CASE-2026-000010,Case created for human review,2026-04-15T12:06:00
+11,System,Case Created,Case,CASE-2026-000011,Case created for human review,2026-01-01T15:15:00
+12,System,Case Created,Case,CASE-2026-000012,Case created for human review,2026-03-06T10:34:00
+13,System,Case Created,Case,CASE-2026-000013,Case created for human review,2026-02-02T10:05:00
+14,System,Case Created,Case,CASE-2026-000014,Case created for human review,2026-07-06T10:18:00
+15,System,Case Created,Case,CASE-2026-000015,Case created for human review,2026-01-23T13:53:00
+16,System,Case Created,Case,CASE-2026-000016,Case created for human review,2026-08-20T14:09:00
+17,System,Case Created,Case,CASE-2026-000017,Case created for human review,2026-01-16T19:39:00
+18,System,Case Created,Case,CASE-2026-000018,Case created for human review,2026-07-26T11:49:00
+19,System,Case Created,Case,CASE-2026-000019,Case created for human review,2026-09-01T12:55:00
+20,System,Case Created,Case,CASE-2026-000020,Case created for human review,2026-07-24T17:52:00
+21,System,Case Created,Case,CASE-2026-000021,Case created for human review,2026-04-16T12:29:00
+22,System,Case Created,Case,CASE-2026-000022,Case created for human review,2026-04-15T15:11:00
+23,System,Case Created,Case,CASE-2026-000023,Case created for human review,2026-05-31T14:45:00
+24,System,Case Created,Case,CASE-2026-000024,Case created for human review,2026-03-13T12:15:00
+25,System,Case Created,Case,CASE-2026-000025,Case created for human review,2026-02-06T19:53:00
+26,System,Case Created,Case,CASE-2026-000026,Case created for human review,2026-04-03T13:00:00
+27,System,Case Created,Case,CASE-2026-000027,Case created for human review,2026-01-28T19:04:00
+28,System,Case Created,Case,CASE-2026-000028,Case created for human review,2026-08-14T13:55:00
+29,System,Case Created,Case,CASE-2026-000029,Case created for human review,2026-02-22T17:00:00
+30,System,Case Created,Case,CASE-2026-000030,Case created for human review,2026-07-21T19:22:00
+31,REV-002,Decision Recorded,Decision,DEC-2026-000001,Decision recorded for CASE-2026-000001,2026-08-10T20:51:00
+32,REV-002,Decision Recorded,Decision,DEC-2026-000002,Decision recorded for CASE-2026-000002,2026-03-16T17:53:00
+33,REV-004,Decision Recorded,Decision,DEC-2026-000003,Decision recorded for CASE-2026-000003,2026-07-24T14:35:00
+34,REV-005,Decision Recorded,Decision,DEC-2026-000004,Decision recorded for CASE-2026-000004,2026-08-16T11:31:00
+35,REV-006,Decision Recorded,Decision,DEC-2026-000005,Decision recorded for CASE-2026-000005,2026-03-03T20:18:00
+36,REV-001,Decision Recorded,Decision,DEC-2026-000006,Decision recorded for CASE-2026-000006,2026-07-06T14:55:00
+37,REV-004,Decision Recorded,Decision,DEC-2026-000007,Decision recorded for CASE-2026-000007,2026-08-08T14:49:00
+38,REV-005,Decision Recorded,Decision,DEC-2026-000008,Decision recorded for CASE-2026-000008,2026-02-04T13:10:00
+39,REV-005,Decision Recorded,Decision,DEC-2026-000009,Decision recorded for CASE-2026-000009,2026-08-04T18:10:00
+40,REV-006,Decision Recorded,Decision,DEC-2026-000010,Decision recorded for CASE-2026-000010,2026-04-15T13:06:00
+41,REV-001,Decision Recorded,Decision,DEC-2026-000011,Decision recorded for CASE-2026-000011,2026-01-01T16:15:00
+42,REV-005,Decision Recorded,Decision,DEC-2026-000012,Decision recorded for CASE-2026-000012,2026-03-06T11:34:00
+43,REV-004,Decision Recorded,Decision,DEC-2026-000013,Decision recorded for CASE-2026-000013,2026-02-02T11:05:00
+44,REV-003,Decision Recorded,Decision,DEC-2026-000014,Decision recorded for CASE-2026-000014,2026-07-06T11:18:00
+45,REV-004,Decision Recorded,Decision,DEC-2026-000015,Decision recorded for CASE-2026-000015,2026-01-23T14:53:00
+46,REV-005,Decision Recorded,Decision,DEC-2026-000016,Decision recorded for CASE-2026-000016,2026-08-20T15:09:00
+47,REV-001,Decision Recorded,Decision,DEC-2026-000017,Decision recorded for CASE-2026-000017,2026-01-16T20:39:00
+48,REV-004,Decision Recorded,Decision,DEC-2026-000018,Decision recorded for CASE-2026-000018,2026-07-26T12:49:00
+49,REV-005,Decision Recorded,Decision,DEC-2026-000019,Decision recorded for CASE-2026-000019,2026-09-01T13:55:00
+50,REV-006,Decision Recorded,Decision,DEC-2026-000020,Decision recorded for CASE-2026-000020,2026-07-24T18:52:00
+51,REV-002,Decision Recorded,Decision,DEC-2026-000021,Decision recorded for CASE-2026-000021,2026-04-16T13:29:00
+52,REV-003,Decision Recorded,Decision,DEC-2026-000022,Decision recorded for CASE-2026-000022,2026-04-15T16:11:00
+53,REV-004,Decision Recorded,Decision,DEC-2026-000023,Decision recorded for CASE-2026-000023,2026-05-31T15:45:00
+54,REV-005,Decision Recorded,Decision,DEC-2026-000024,Decision recorded for CASE-2026-000024,2026-03-13T13:15:00
+55,System,Appeal Recorded,Appeal,APL-CASE-2026-000001-01,Appeal recorded for CASE-2026-000001: Accepted,2026-08-10T21:51:00
+56,System,Appeal Recorded,Appeal,APL-CASE-2026-000002-01,Appeal recorded for CASE-2026-000002: Rejected,2026-03-16T18:53:00
+57,System,Appeal Recorded,Appeal,APL-CASE-2026-000003-01,Appeal recorded for CASE-2026-000003: Rejected,2026-07-24T15:35:00

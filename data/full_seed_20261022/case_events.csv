@@ -1,0 +1,571 @@
+event_id,case_id,actor,action,details,event_time
+1,CASE-2026-000001,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-11T19:29:00
+2,CASE-2026-000001,REV-002,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-11T20:29:00
+3,CASE-2026-000001,REV-001,Appeal Reviewed,Independent appeal outcome: Accepted,2026-08-11T22:29:00
+4,CASE-2026-000002,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-07T14:12:00
+5,CASE-2026-000002,REV-002,Decision Recorded,Human decision recorded: No Violation,2026-08-07T15:12:00
+6,CASE-2026-000002,REV-004,Appeal Reviewed,Independent appeal outcome: Rejected,2026-08-07T17:12:00
+7,CASE-2026-000003,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-22T15:15:00
+8,CASE-2026-000003,REV-003,Decision Recorded,Human decision recorded: No Violation,2026-05-22T16:15:00
+9,CASE-2026-000003,REV-004,Appeal Reviewed,Independent appeal outcome: Rejected,2026-05-22T18:15:00
+10,CASE-2026-000004,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-16T13:02:00
+11,CASE-2026-000004,REV-006,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-16T14:02:00
+12,CASE-2026-000004,REV-004,Appeal Reviewed,Independent appeal outcome: Rejected,2026-02-16T16:02:00
+13,CASE-2026-000005,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-28T15:33:00
+14,CASE-2026-000005,REV-007,Decision Recorded,Human decision recorded: No Violation,2026-02-28T16:33:00
+15,CASE-2026-000005,REV-005,Appeal Reviewed,Independent appeal outcome: Rejected,2026-02-28T18:33:00
+16,CASE-2026-000006,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-02T19:52:00
+17,CASE-2026-000006,REV-008,Decision Recorded,Human decision recorded: No Violation,2026-04-02T20:52:00
+18,CASE-2026-000006,REV-006,Appeal Reviewed,Independent appeal outcome: Rejected,2026-04-02T22:52:00
+19,CASE-2026-000007,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-13T20:31:00
+20,CASE-2026-000007,REV-009,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-13T21:31:00
+21,CASE-2026-000007,REV-007,Appeal Reviewed,Independent appeal outcome: Accepted,2026-07-13T23:31:00
+22,CASE-2026-000008,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-10T14:31:00
+23,CASE-2026-000008,REV-010,Decision Recorded,Human decision recorded: No Violation,2026-05-10T15:31:00
+24,CASE-2026-000008,REV-008,Appeal Reviewed,Independent appeal outcome: Rejected,2026-05-10T17:31:00
+25,CASE-2026-000009,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-25T19:47:00
+26,CASE-2026-000009,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-03-25T20:47:00
+27,CASE-2026-000009,REV-009,Appeal Reviewed,Independent appeal outcome: Rejected,2026-03-25T22:47:00
+28,CASE-2026-000010,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-21T19:20:00
+29,CASE-2026-000010,REV-013,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-21T20:20:00
+30,CASE-2026-000010,REV-010,Appeal Reviewed,Independent appeal outcome: Rejected,2026-05-21T22:20:00
+31,CASE-2026-000011,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-31T13:56:00
+32,CASE-2026-000011,REV-014,Decision Recorded,Human decision recorded: No Violation,2026-03-31T14:56:00
+33,CASE-2026-000011,REV-011,Appeal Reviewed,Independent appeal outcome: Rejected,2026-03-31T16:56:00
+34,CASE-2026-000012,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-30T11:29:00
+35,CASE-2026-000012,REV-016,Decision Recorded,Human decision recorded: No Violation,2026-01-30T12:29:00
+36,CASE-2026-000012,REV-012,Appeal Reviewed,Independent appeal outcome: Rejected,2026-01-30T14:29:00
+37,CASE-2026-000013,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-21T17:25:00
+38,CASE-2026-000013,REV-017,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-21T18:25:00
+39,CASE-2026-000013,REV-013,Appeal Reviewed,Independent appeal outcome: Accepted,2026-03-21T20:25:00
+40,CASE-2026-000014,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-01T20:10:00
+41,CASE-2026-000014,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-02-01T21:10:00
+42,CASE-2026-000014,REV-014,Appeal Reviewed,Independent appeal outcome: Rejected,2026-02-01T23:10:00
+43,CASE-2026-000015,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-01T12:07:00
+44,CASE-2026-000015,REV-020,Decision Recorded,Human decision recorded: No Violation,2026-02-01T13:07:00
+45,CASE-2026-000015,REV-015,Appeal Reviewed,Independent appeal outcome: Rejected,2026-02-01T15:07:00
+46,CASE-2026-000016,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-22T16:48:00
+47,CASE-2026-000016,REV-021,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-22T17:48:00
+48,CASE-2026-000016,REV-016,Appeal Reviewed,Independent appeal outcome: Rejected,2026-05-22T19:48:00
+49,CASE-2026-000017,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-24T12:36:00
+50,CASE-2026-000017,REV-022,Decision Recorded,Human decision recorded: No Violation,2026-07-24T13:36:00
+51,CASE-2026-000017,REV-017,Appeal Reviewed,Independent appeal outcome: Rejected,2026-07-24T15:36:00
+52,CASE-2026-000018,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-18T10:48:00
+53,CASE-2026-000018,REV-024,Decision Recorded,Human decision recorded: No Violation,2026-02-18T11:48:00
+54,CASE-2026-000018,REV-018,Appeal Reviewed,Independent appeal outcome: Rejected,2026-02-18T13:48:00
+55,CASE-2026-000019,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-17T10:35:00
+56,CASE-2026-000019,REV-025,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-17T11:35:00
+57,CASE-2026-000019,REV-019,Appeal Reviewed,Independent appeal outcome: Accepted,2026-06-17T13:35:00
+58,CASE-2026-000020,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-13T10:44:00
+59,CASE-2026-000020,REV-027,Decision Recorded,Human decision recorded: No Violation,2026-03-13T11:44:00
+60,CASE-2026-000020,REV-020,Appeal Reviewed,Independent appeal outcome: Rejected,2026-03-13T13:44:00
+61,CASE-2026-000021,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-10T16:40:00
+62,CASE-2026-000021,REV-028,Decision Recorded,Human decision recorded: No Violation,2026-03-10T17:40:00
+63,CASE-2026-000021,REV-021,Appeal Reviewed,Independent appeal outcome: Rejected,2026-03-10T19:40:00
+64,CASE-2026-000022,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-22T16:56:00
+65,CASE-2026-000022,REV-029,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-22T17:56:00
+66,CASE-2026-000022,REV-023,Appeal Reviewed,Independent appeal outcome: Rejected,2026-06-22T19:56:00
+67,CASE-2026-000023,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-22T20:40:00
+68,CASE-2026-000023,REV-030,Decision Recorded,Human decision recorded: No Violation,2026-07-22T21:40:00
+69,CASE-2026-000023,REV-024,Appeal Reviewed,Independent appeal outcome: Rejected,2026-07-22T23:40:00
+70,CASE-2026-000024,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-27T20:58:00
+71,CASE-2026-000024,REV-003,Decision Recorded,Human decision recorded: No Violation,2026-07-27T21:58:00
+72,CASE-2026-000024,REV-026,Appeal Reviewed,Independent appeal outcome: Rejected,2026-07-27T23:58:00
+73,CASE-2026-000025,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-08T17:24:00
+74,CASE-2026-000025,REV-004,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-08T18:24:00
+75,CASE-2026-000025,REV-027,Appeal Reviewed,Independent appeal outcome: Accepted,2026-02-08T20:24:00
+76,CASE-2026-000026,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-05T10:32:00
+77,CASE-2026-000026,REV-006,Decision Recorded,Human decision recorded: No Violation,2026-06-05T11:32:00
+78,CASE-2026-000026,REV-028,Appeal Reviewed,Independent appeal outcome: Rejected,2026-06-05T13:32:00
+79,CASE-2026-000027,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-07T14:16:00
+80,CASE-2026-000027,REV-007,Decision Recorded,Human decision recorded: No Violation,2026-02-07T15:16:00
+81,CASE-2026-000027,REV-029,Appeal Reviewed,Independent appeal outcome: Rejected,2026-02-07T17:16:00
+82,CASE-2026-000028,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-27T20:02:00
+83,CASE-2026-000028,REV-006,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-27T21:02:00
+84,CASE-2026-000028,REV-030,Appeal Reviewed,Independent appeal outcome: Rejected,2026-06-27T23:02:00
+85,CASE-2026-000029,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-31T11:10:00
+86,CASE-2026-000029,REV-009,Decision Recorded,Human decision recorded: No Violation,2026-08-31T12:10:00
+87,CASE-2026-000029,REV-001,Appeal Reviewed,Independent appeal outcome: Rejected,2026-08-31T14:10:00
+88,CASE-2026-000030,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-26T14:50:00
+89,CASE-2026-000030,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-03-26T15:50:00
+90,CASE-2026-000030,REV-002,Appeal Reviewed,Independent appeal outcome: Rejected,2026-03-26T17:50:00
+91,CASE-2026-000031,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-17T16:08:00
+92,CASE-2026-000031,REV-012,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-17T17:08:00
+93,CASE-2026-000032,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-24T19:25:00
+94,CASE-2026-000032,REV-012,Decision Recorded,Human decision recorded: No Violation,2026-05-24T20:25:00
+95,CASE-2026-000033,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-14T16:58:00
+96,CASE-2026-000033,REV-015,Decision Recorded,Human decision recorded: No Violation,2026-02-14T17:58:00
+97,CASE-2026-000034,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-20T16:59:00
+98,CASE-2026-000034,REV-016,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-20T17:59:00
+99,CASE-2026-000035,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-08T10:30:00
+100,CASE-2026-000035,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-03-08T11:30:00
+101,CASE-2026-000036,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-22T15:04:00
+102,CASE-2026-000036,REV-017,Decision Recorded,Human decision recorded: No Violation,2026-07-22T16:04:00
+103,CASE-2026-000037,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-24T15:54:00
+104,CASE-2026-000037,REV-018,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-24T16:54:00
+105,CASE-2026-000038,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-07T20:30:00
+106,CASE-2026-000038,REV-021,Decision Recorded,Human decision recorded: No Violation,2026-08-07T21:30:00
+107,CASE-2026-000039,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-16T18:42:00
+108,CASE-2026-000039,REV-021,Decision Recorded,Human decision recorded: No Violation,2026-06-16T19:42:00
+109,CASE-2026-000040,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-10T20:45:00
+110,CASE-2026-000040,REV-024,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-10T21:45:00
+111,CASE-2026-000041,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-26T12:17:00
+112,CASE-2026-000041,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-04-26T13:17:00
+113,CASE-2026-000042,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-30T11:15:00
+114,CASE-2026-000042,REV-025,Decision Recorded,Human decision recorded: No Violation,2026-06-30T12:15:00
+115,CASE-2026-000043,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-16T15:28:00
+116,CASE-2026-000043,REV-026,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-16T16:28:00
+117,CASE-2026-000044,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-11T10:33:00
+118,CASE-2026-000044,REV-027,Decision Recorded,Human decision recorded: No Violation,2026-02-11T11:33:00
+119,CASE-2026-000045,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-05T15:44:00
+120,CASE-2026-000045,REV-029,Decision Recorded,Human decision recorded: No Violation,2026-09-05T16:44:00
+121,CASE-2026-000046,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-21T15:11:00
+122,CASE-2026-000046,REV-003,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-21T16:11:00
+123,CASE-2026-000047,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-20T17:44:00
+124,CASE-2026-000047,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-02-20T18:44:00
+125,CASE-2026-000048,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-13T16:59:00
+126,CASE-2026-000048,REV-006,Decision Recorded,Human decision recorded: No Violation,2026-03-13T17:59:00
+127,CASE-2026-000049,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-27T16:01:00
+128,CASE-2026-000049,REV-004,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-27T17:01:00
+129,CASE-2026-000050,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-09T13:02:00
+130,CASE-2026-000050,REV-008,Decision Recorded,Human decision recorded: No Violation,2026-05-09T14:02:00
+131,CASE-2026-000051,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-31T11:27:00
+132,CASE-2026-000051,REV-009,Decision Recorded,Human decision recorded: No Violation,2026-07-31T12:27:00
+133,CASE-2026-000052,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-22T20:10:00
+134,CASE-2026-000052,REV-007,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-22T21:10:00
+135,CASE-2026-000053,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-10T15:07:00
+136,CASE-2026-000053,REV-012,Decision Recorded,Human decision recorded: No Violation,2026-06-10T16:07:00
+137,CASE-2026-000054,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-23T12:36:00
+138,CASE-2026-000054,REV-014,Decision Recorded,Human decision recorded: No Violation,2026-08-23T13:36:00
+139,CASE-2026-000055,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-31T17:02:00
+140,CASE-2026-000055,REV-011,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-31T18:02:00
+141,CASE-2026-000056,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-13T13:11:00
+142,CASE-2026-000056,REV-016,Decision Recorded,Human decision recorded: No Violation,2026-03-13T14:11:00
+143,CASE-2026-000057,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-18T11:29:00
+144,CASE-2026-000057,REV-017,Decision Recorded,Human decision recorded: No Violation,2026-04-18T12:29:00
+145,CASE-2026-000058,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-15T16:52:00
+146,CASE-2026-000058,REV-019,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-15T17:52:00
+147,CASE-2026-000059,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-10T16:27:00
+148,CASE-2026-000059,REV-020,Decision Recorded,Human decision recorded: No Violation,2026-05-10T17:27:00
+149,CASE-2026-000060,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-24T11:44:00
+150,CASE-2026-000060,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-05-24T12:44:00
+151,CASE-2026-000061,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-28T17:29:00
+152,CASE-2026-000061,REV-020,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-28T18:29:00
+153,CASE-2026-000062,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-09T19:14:00
+154,CASE-2026-000062,REV-021,Decision Recorded,Human decision recorded: No Violation,2026-02-09T20:14:00
+155,CASE-2026-000063,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-19T10:10:00
+156,CASE-2026-000063,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-02-19T11:10:00
+157,CASE-2026-000064,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-15T14:22:00
+158,CASE-2026-000064,REV-027,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-15T15:22:00
+159,CASE-2026-000065,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-30T10:27:00
+160,CASE-2026-000065,REV-025,Decision Recorded,Human decision recorded: No Violation,2026-04-30T11:27:00
+161,CASE-2026-000066,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-18T11:50:00
+162,CASE-2026-000066,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-01-18T12:50:00
+163,CASE-2026-000067,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-02T11:51:00
+164,CASE-2026-000067,REV-028,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-02T12:51:00
+165,CASE-2026-000068,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-08T19:25:00
+166,CASE-2026-000068,REV-003,Decision Recorded,Human decision recorded: No Violation,2026-05-08T20:25:00
+167,CASE-2026-000069,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-28T19:41:00
+168,CASE-2026-000069,REV-030,Decision Recorded,Human decision recorded: No Violation,2026-08-28T20:41:00
+169,CASE-2026-000070,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-18T15:21:00
+170,CASE-2026-000070,REV-005,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-18T16:21:00
+171,CASE-2026-000071,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-26T20:33:00
+172,CASE-2026-000071,REV-002,Decision Recorded,Human decision recorded: No Violation,2026-01-26T21:33:00
+173,CASE-2026-000072,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-21T20:08:00
+174,CASE-2026-000072,REV-008,Decision Recorded,Human decision recorded: No Violation,2026-05-21T21:08:00
+175,CASE-2026-000073,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-29T11:28:00
+176,CASE-2026-000073,REV-009,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-29T12:28:00
+177,CASE-2026-000074,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-09T10:24:00
+178,CASE-2026-000074,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-05-09T11:24:00
+179,CASE-2026-000075,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-14T16:23:00
+180,CASE-2026-000075,REV-012,Decision Recorded,Human decision recorded: No Violation,2026-06-14T17:23:00
+181,CASE-2026-000076,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-10T17:13:00
+182,CASE-2026-000076,REV-014,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-10T18:13:00
+183,CASE-2026-000077,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-04T16:56:00
+184,CASE-2026-000077,REV-010,Decision Recorded,Human decision recorded: No Violation,2026-06-04T17:56:00
+185,CASE-2026-000078,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-13T12:52:00
+186,CASE-2026-000078,REV-012,Decision Recorded,Human decision recorded: No Violation,2026-05-13T13:52:00
+187,CASE-2026-000079,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-24T20:11:00
+188,CASE-2026-000079,REV-018,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-24T21:11:00
+189,CASE-2026-000080,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-19T16:38:00
+190,CASE-2026-000080,REV-019,Decision Recorded,Human decision recorded: No Violation,2026-04-19T17:38:00
+191,CASE-2026-000081,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-01T12:23:00
+192,CASE-2026-000081,REV-020,Decision Recorded,Human decision recorded: No Violation,2026-05-01T13:23:00
+193,CASE-2026-000082,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-19T20:16:00
+194,CASE-2026-000082,REV-017,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-19T21:16:00
+195,CASE-2026-000083,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-16T20:08:00
+196,CASE-2026-000083,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-02-16T21:08:00
+197,CASE-2026-000084,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-24T12:28:00
+198,CASE-2026-000084,REV-019,Decision Recorded,Human decision recorded: No Violation,2026-03-24T13:28:00
+199,CASE-2026-000085,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-03T17:07:00
+200,CASE-2026-000085,REV-025,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-03T18:07:00
+201,CASE-2026-000086,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-17T13:38:00
+202,CASE-2026-000086,REV-027,Decision Recorded,Human decision recorded: No Violation,2026-02-17T14:38:00
+203,CASE-2026-000087,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-14T20:18:00
+204,CASE-2026-000087,REV-028,Decision Recorded,Human decision recorded: No Violation,2026-04-14T21:18:00
+205,CASE-2026-000088,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-16T19:54:00
+206,CASE-2026-000088,REV-025,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-16T20:54:00
+207,CASE-2026-000089,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-12T11:00:00
+208,CASE-2026-000089,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-01-12T12:00:00
+209,CASE-2026-000090,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-30T20:41:00
+210,CASE-2026-000090,REV-028,Decision Recorded,Human decision recorded: No Violation,2026-08-30T21:41:00
+211,CASE-2026-000091,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-11T16:16:00
+212,CASE-2026-000091,REV-029,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-11T17:16:00
+213,CASE-2026-000092,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-16T17:00:00
+214,CASE-2026-000092,REV-006,Decision Recorded,Human decision recorded: No Violation,2026-05-16T18:00:00
+215,CASE-2026-000093,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-22T18:19:00
+216,CASE-2026-000093,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-06-22T19:19:00
+217,CASE-2026-000094,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-25T12:04:00
+218,CASE-2026-000094,REV-008,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-25T13:04:00
+219,CASE-2026-000095,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-27T19:35:00
+220,CASE-2026-000095,REV-009,Decision Recorded,Human decision recorded: No Violation,2026-05-27T20:35:00
+221,CASE-2026-000096,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-02T13:44:00
+222,CASE-2026-000096,REV-005,Decision Recorded,Human decision recorded: No Violation,2026-06-02T14:44:00
+223,CASE-2026-000097,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-25T12:33:00
+224,CASE-2026-000097,REV-012,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-25T13:33:00
+225,CASE-2026-000098,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-28T10:50:00
+226,CASE-2026-000098,REV-007,Decision Recorded,Human decision recorded: No Violation,2026-04-28T11:50:00
+227,CASE-2026-000099,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-21T13:53:00
+228,CASE-2026-000099,REV-015,Decision Recorded,Human decision recorded: No Violation,2026-08-21T14:53:00
+229,CASE-2026-000100,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-28T18:37:00
+230,CASE-2026-000100,REV-016,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-28T19:37:00
+231,CASE-2026-000101,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-12T13:57:00
+232,CASE-2026-000101,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-04-12T14:57:00
+233,CASE-2026-000102,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-28T12:09:00
+234,CASE-2026-000102,REV-013,Decision Recorded,Human decision recorded: No Violation,2026-06-28T13:09:00
+235,CASE-2026-000103,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-30T16:48:00
+236,CASE-2026-000103,REV-020,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-30T17:48:00
+237,CASE-2026-000104,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-15T16:56:00
+238,CASE-2026-000104,REV-022,Decision Recorded,Human decision recorded: No Violation,2026-01-15T17:56:00
+239,CASE-2026-000105,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-17T13:12:00
+240,CASE-2026-000105,REV-023,Decision Recorded,Human decision recorded: No Violation,2026-04-17T14:12:00
+241,CASE-2026-000106,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-22T10:12:00
+242,CASE-2026-000106,REV-024,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-22T11:12:00
+243,CASE-2026-000107,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-18T18:37:00
+244,CASE-2026-000107,REV-019,Decision Recorded,Human decision recorded: No Violation,2026-01-18T19:37:00
+245,CASE-2026-000108,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-24T10:45:00
+246,CASE-2026-000108,REV-021,Decision Recorded,Human decision recorded: No Violation,2026-04-24T11:45:00
+247,CASE-2026-000109,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-05T13:16:00
+248,CASE-2026-000109,REV-022,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-05T14:16:00
+249,CASE-2026-000110,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-23T10:55:00
+250,CASE-2026-000110,REV-024,Decision Recorded,Human decision recorded: No Violation,2026-05-23T11:55:00
+251,CASE-2026-000111,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-18T18:49:00
+252,CASE-2026-000111,REV-025,Decision Recorded,Human decision recorded: No Violation,2026-03-18T19:49:00
+253,CASE-2026-000112,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-16T16:42:00
+254,CASE-2026-000112,REV-003,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-16T17:42:00
+255,CASE-2026-000113,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-22T12:51:00
+256,CASE-2026-000113,REV-004,Decision Recorded,Human decision recorded: No Violation,2026-04-22T13:51:00
+257,CASE-2026-000114,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-15T12:49:00
+258,CASE-2026-000114,REV-029,Decision Recorded,Human decision recorded: No Violation,2026-06-15T13:49:00
+259,CASE-2026-000115,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-11T16:23:00
+260,CASE-2026-000115,REV-030,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-11T17:23:00
+261,CASE-2026-000116,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-10T12:27:00
+262,CASE-2026-000116,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-08-10T13:27:00
+263,CASE-2026-000117,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-15T20:38:00
+264,CASE-2026-000117,REV-009,Decision Recorded,Human decision recorded: No Violation,2026-04-15T21:38:00
+265,CASE-2026-000118,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-01T17:41:00
+266,CASE-2026-000118,REV-011,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-01T18:41:00
+267,CASE-2026-000119,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-02T20:56:00
+268,CASE-2026-000119,REV-005,Decision Recorded,Human decision recorded: No Violation,2026-07-02T21:56:00
+269,CASE-2026-000120,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-31T18:05:00
+270,CASE-2026-000120,REV-006,Decision Recorded,Human decision recorded: No Violation,2026-01-31T19:05:00
+271,CASE-2026-000121,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-05T17:13:00
+272,CASE-2026-000121,REV-007,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-05T18:13:00
+273,CASE-2026-000122,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-01T16:28:00
+274,CASE-2026-000122,REV-009,Decision Recorded,Human decision recorded: No Violation,2026-02-01T17:28:00
+275,CASE-2026-000123,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-30T12:55:00
+276,CASE-2026-000123,REV-010,Decision Recorded,Human decision recorded: No Violation,2026-06-30T13:55:00
+277,CASE-2026-000124,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-25T14:29:00
+278,CASE-2026-000124,REV-019,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-25T15:29:00
+279,CASE-2026-000125,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-13T18:53:00
+280,CASE-2026-000125,REV-013,Decision Recorded,Human decision recorded: No Violation,2026-07-13T19:53:00
+281,CASE-2026-000126,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-20T20:37:00
+282,CASE-2026-000126,REV-014,Decision Recorded,Human decision recorded: No Violation,2026-04-20T21:37:00
+283,CASE-2026-000127,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-15T11:05:00
+284,CASE-2026-000127,REV-015,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-15T12:05:00
+285,CASE-2026-000128,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-05T10:13:00
+286,CASE-2026-000128,REV-024,Decision Recorded,Human decision recorded: No Violation,2026-07-05T11:13:00
+287,CASE-2026-000129,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-01T19:31:00
+288,CASE-2026-000129,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-04-01T20:31:00
+289,CASE-2026-000130,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-22T17:57:00
+290,CASE-2026-000130,REV-027,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-22T18:57:00
+291,CASE-2026-000131,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-19T11:11:00
+292,CASE-2026-000131,REV-021,Decision Recorded,Human decision recorded: No Violation,2026-02-19T12:11:00
+293,CASE-2026-000132,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-03T14:10:00
+294,CASE-2026-000132,REV-029,Decision Recorded,Human decision recorded: No Violation,2026-01-03T15:10:00
+295,CASE-2026-000133,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-03T20:10:00
+296,CASE-2026-000133,REV-002,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-03T21:10:00
+297,CASE-2026-000134,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-03T20:28:00
+298,CASE-2026-000134,REV-025,Decision Recorded,Human decision recorded: No Violation,2026-06-03T21:28:00
+299,CASE-2026-000135,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-26T15:22:00
+300,CASE-2026-000135,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-08-26T16:22:00
+301,CASE-2026-000136,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-09T20:56:00
+302,CASE-2026-000136,REV-005,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-09T21:56:00
+303,CASE-2026-000137,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-26T15:32:00
+304,CASE-2026-000137,REV-029,Decision Recorded,Human decision recorded: No Violation,2026-02-26T16:32:00
+305,CASE-2026-000138,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-01T10:56:00
+306,CASE-2026-000138,REV-030,Decision Recorded,Human decision recorded: No Violation,2026-06-01T11:56:00
+307,CASE-2026-000139,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-21T17:57:00
+308,CASE-2026-000139,REV-001,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-21T18:57:00
+309,CASE-2026-000140,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-03T14:39:00
+310,CASE-2026-000140,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-02-03T15:39:00
+311,CASE-2026-000141,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-18T18:36:00
+312,CASE-2026-000141,REV-004,Decision Recorded,Human decision recorded: No Violation,2026-08-18T19:36:00
+313,CASE-2026-000142,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-12T10:12:00
+314,CASE-2026-000142,REV-013,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-12T11:12:00
+315,CASE-2026-000143,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-24T18:32:00
+316,CASE-2026-000143,REV-015,Decision Recorded,Human decision recorded: No Violation,2026-02-24T19:32:00
+317,CASE-2026-000144,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-29T20:09:00
+318,CASE-2026-000144,REV-016,Decision Recorded,Human decision recorded: No Violation,2026-06-29T21:09:00
+319,CASE-2026-000145,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-08T10:35:00
+320,CASE-2026-000145,REV-017,Decision Recorded,Human decision recorded: Violation Confirmed,2026-09-08T11:35:00
+321,CASE-2026-000146,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-18T10:04:00
+322,CASE-2026-000146,REV-010,Decision Recorded,Human decision recorded: No Violation,2026-06-18T11:04:00
+323,CASE-2026-000147,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-01T10:03:00
+324,CASE-2026-000147,REV-020,Decision Recorded,Human decision recorded: No Violation,2026-09-01T11:03:00
+325,CASE-2026-000148,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-06T20:23:00
+326,CASE-2026-000148,REV-021,Decision Recorded,Human decision recorded: Violation Confirmed,2026-09-06T21:23:00
+327,CASE-2026-000149,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-15T12:08:00
+328,CASE-2026-000149,REV-014,Decision Recorded,Human decision recorded: No Violation,2026-07-15T13:08:00
+329,CASE-2026-000150,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-21T14:29:00
+330,CASE-2026-000150,REV-015,Decision Recorded,Human decision recorded: No Violation,2026-01-21T15:29:00
+331,CASE-2026-000151,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-03T20:01:00
+332,CASE-2026-000151,REV-026,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-03T21:01:00
+333,CASE-2026-000152,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-06T12:19:00
+334,CASE-2026-000152,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-01-06T13:19:00
+335,CASE-2026-000153,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-24T14:53:00
+336,CASE-2026-000153,REV-028,Decision Recorded,Human decision recorded: No Violation,2026-01-24T15:53:00
+337,CASE-2026-000154,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-29T13:41:00
+338,CASE-2026-000154,REV-030,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-29T14:41:00
+339,CASE-2026-000155,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-02T13:49:00
+340,CASE-2026-000155,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-06-02T14:49:00
+341,CASE-2026-000156,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-29T10:06:00
+342,CASE-2026-000156,REV-003,Decision Recorded,Human decision recorded: No Violation,2026-06-29T11:06:00
+343,CASE-2026-000157,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-06T19:01:00
+344,CASE-2026-000157,REV-004,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-06T20:01:00
+345,CASE-2026-000158,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-14T13:25:00
+346,CASE-2026-000158,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-02-14T14:25:00
+347,CASE-2026-000159,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-01T20:58:00
+348,CASE-2026-000159,REV-007,Decision Recorded,Human decision recorded: No Violation,2026-07-01T21:58:00
+349,CASE-2026-000160,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-27T10:09:00
+350,CASE-2026-000160,REV-029,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-27T11:09:00
+351,CASE-2026-000161,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-23T11:44:00
+352,CASE-2026-000161,REV-030,Decision Recorded,Human decision recorded: No Violation,2026-02-23T12:44:00
+353,CASE-2026-000162,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-12T11:32:00
+354,CASE-2026-000162,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-04-12T12:32:00
+355,CASE-2026-000163,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-02T13:29:00
+356,CASE-2026-000163,REV-002,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-02T14:29:00
+357,CASE-2026-000164,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-30T18:42:00
+358,CASE-2026-000164,REV-003,Decision Recorded,Human decision recorded: No Violation,2026-01-30T19:42:00
+359,CASE-2026-000165,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-31T18:08:00
+360,CASE-2026-000165,REV-005,Decision Recorded,Human decision recorded: No Violation,2026-05-31T19:08:00
+361,CASE-2026-000166,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-03T16:55:00
+362,CASE-2026-000166,REV-006,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-03T17:55:00
+363,CASE-2026-000167,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-21T20:50:00
+364,CASE-2026-000167,REV-008,Decision Recorded,Human decision recorded: No Violation,2026-05-21T21:50:00
+365,CASE-2026-000168,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-20T13:40:00
+366,CASE-2026-000168,REV-019,Decision Recorded,Human decision recorded: No Violation,2026-05-20T14:40:00
+367,CASE-2026-000169,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-05T15:50:00
+368,CASE-2026-000169,REV-010,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-05T16:50:00
+369,CASE-2026-000170,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-22T17:21:00
+370,CASE-2026-000170,REV-012,Decision Recorded,Human decision recorded: No Violation,2026-07-22T18:21:00
+371,CASE-2026-000171,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-09T13:08:00
+372,CASE-2026-000171,REV-013,Decision Recorded,Human decision recorded: No Violation,2026-01-09T14:08:00
+373,CASE-2026-000172,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-01T16:39:00
+374,CASE-2026-000172,REV-024,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-01T17:39:00
+375,CASE-2026-000173,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-20T13:37:00
+376,CASE-2026-000173,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-07-20T14:37:00
+377,CASE-2026-000174,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-11T20:22:00
+378,CASE-2026-000174,REV-017,Decision Recorded,Human decision recorded: No Violation,2026-06-11T21:22:00
+379,CASE-2026-000175,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-03T18:52:00
+380,CASE-2026-000175,REV-018,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-03T19:52:00
+381,CASE-2026-000176,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-26T14:19:00
+382,CASE-2026-000176,REV-030,Decision Recorded,Human decision recorded: No Violation,2026-02-26T15:19:00
+383,CASE-2026-000177,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-12T18:15:00
+384,CASE-2026-000177,REV-002,Decision Recorded,Human decision recorded: No Violation,2026-04-12T19:15:00
+385,CASE-2026-000178,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-01T12:14:00
+386,CASE-2026-000178,REV-022,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-01T13:14:00
+387,CASE-2026-000179,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-29T11:21:00
+388,CASE-2026-000179,REV-023,Decision Recorded,Human decision recorded: No Violation,2026-04-29T12:21:00
+389,CASE-2026-000180,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-28T15:33:00
+390,CASE-2026-000180,REV-006,Decision Recorded,Human decision recorded: No Violation,2026-03-28T16:33:00
+391,CASE-2026-000181,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-10T10:44:00
+392,CASE-2026-000181,REV-007,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-10T11:44:00
+393,CASE-2026-000182,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-24T20:21:00
+394,CASE-2026-000182,REV-008,Decision Recorded,Human decision recorded: No Violation,2026-08-24T21:21:00
+395,CASE-2026-000183,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-08T18:59:00
+396,CASE-2026-000183,REV-029,Decision Recorded,Human decision recorded: No Violation,2026-03-08T19:59:00
+397,CASE-2026-000184,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-23T13:59:00
+398,CASE-2026-000184,REV-011,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-23T14:59:00
+399,CASE-2026-000185,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-02T18:08:00
+400,CASE-2026-000185,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-07-02T19:08:00
+401,CASE-2026-000186,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-29T15:15:00
+402,CASE-2026-000186,REV-002,Decision Recorded,Human decision recorded: No Violation,2026-06-29T16:15:00
+403,CASE-2026-000187,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-22T16:21:00
+404,CASE-2026-000187,REV-015,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-22T17:21:00
+405,CASE-2026-000188,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-01T10:17:00
+406,CASE-2026-000188,REV-005,Decision Recorded,Human decision recorded: No Violation,2026-08-01T11:17:00
+407,CASE-2026-000189,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-16T14:47:00
+408,CASE-2026-000189,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-05-16T15:47:00
+409,CASE-2026-000190,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-18T10:24:00
+410,CASE-2026-000190,REV-019,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-18T11:24:00
+411,CASE-2026-000191,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-01T16:21:00
+412,CASE-2026-000191,REV-020,Decision Recorded,Human decision recorded: No Violation,2026-03-01T17:21:00
+413,CASE-2026-000192,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-16T12:28:00
+414,CASE-2026-000192,REV-010,Decision Recorded,Human decision recorded: No Violation,2026-03-16T13:28:00
+415,CASE-2026-000193,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-09T16:42:00
+416,CASE-2026-000193,REV-011,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-09T17:42:00
+417,CASE-2026-000194,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-06T14:02:00
+418,CASE-2026-000194,REV-013,Decision Recorded,Human decision recorded: No Violation,2026-09-06T15:02:00
+419,CASE-2026-000195,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-04T18:58:00
+420,CASE-2026-000195,REV-014,Decision Recorded,Human decision recorded: No Violation,2026-08-04T19:58:00
+421,CASE-2026-000196,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-02T12:29:00
+422,CASE-2026-000196,REV-027,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-02T13:29:00
+423,CASE-2026-000197,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-09T18:58:00
+424,CASE-2026-000197,REV-028,Decision Recorded,Human decision recorded: No Violation,2026-06-09T19:58:00
+425,CASE-2026-000198,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-21T13:55:00
+426,CASE-2026-000198,REV-029,Decision Recorded,Human decision recorded: No Violation,2026-02-21T14:55:00
+427,CASE-2026-000199,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-04T19:16:00
+428,CASE-2026-000199,REV-019,Decision Recorded,Human decision recorded: Violation Confirmed,2026-08-04T20:16:00
+429,CASE-2026-000200,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-06T12:12:00
+430,CASE-2026-000200,REV-021,Decision Recorded,Human decision recorded: No Violation,2026-02-06T13:12:00
+431,CASE-2026-000201,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-18T10:42:00
+432,CASE-2026-000201,REV-022,Decision Recorded,Human decision recorded: No Violation,2026-07-18T11:42:00
+433,CASE-2026-000202,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-17T16:06:00
+434,CASE-2026-000202,REV-023,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-17T17:06:00
+435,CASE-2026-000203,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-26T12:00:00
+436,CASE-2026-000203,REV-007,Decision Recorded,Human decision recorded: No Violation,2026-08-26T13:00:00
+437,CASE-2026-000204,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-10T20:53:00
+438,CASE-2026-000204,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-07-10T21:53:00
+439,CASE-2026-000205,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-24T17:10:00
+440,CASE-2026-000205,REV-009,Decision Recorded,Human decision recorded: Violation Confirmed,2026-03-24T18:10:00
+441,CASE-2026-000206,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-04T17:14:00
+442,CASE-2026-000206,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-02-04T18:14:00
+443,CASE-2026-000207,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-18T15:20:00
+444,CASE-2026-000207,REV-012,Decision Recorded,Human decision recorded: No Violation,2026-06-18T16:20:00
+445,CASE-2026-000208,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-23T12:44:00
+446,CASE-2026-000208,REV-001,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-23T13:44:00
+447,CASE-2026-000209,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-01T17:33:00
+448,CASE-2026-000209,REV-015,Decision Recorded,Human decision recorded: No Violation,2026-08-01T18:33:00
+449,CASE-2026-000210,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-18T19:15:00
+450,CASE-2026-000210,REV-004,Decision Recorded,Human decision recorded: No Violation,2026-02-18T20:15:00
+451,CASE-2026-000211,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-24T11:30:00
+452,CASE-2026-000211,REV-017,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-24T12:30:00
+453,CASE-2026-000212,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-09T10:30:00
+454,CASE-2026-000212,REV-006,Decision Recorded,Human decision recorded: No Violation,2026-05-09T11:30:00
+455,CASE-2026-000213,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-10T15:36:00
+456,CASE-2026-000213,REV-020,Decision Recorded,Human decision recorded: No Violation,2026-05-10T16:36:00
+457,CASE-2026-000214,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-06T17:49:00
+458,CASE-2026-000214,REV-021,Decision Recorded,Human decision recorded: Violation Confirmed,2026-07-06T18:49:00
+459,CASE-2026-000215,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-16T12:59:00
+460,CASE-2026-000215,REV-023,Decision Recorded,Human decision recorded: No Violation,2026-05-16T13:59:00
+461,CASE-2026-000216,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-17T12:12:00
+462,CASE-2026-000216,REV-024,Decision Recorded,Human decision recorded: No Violation,2026-08-17T13:12:00
+463,CASE-2026-000217,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-27T10:43:00
+464,CASE-2026-000217,REV-013,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-27T11:43:00
+465,CASE-2026-000218,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-01T13:26:00
+466,CASE-2026-000218,REV-027,Decision Recorded,Human decision recorded: No Violation,2026-07-01T14:26:00
+467,CASE-2026-000219,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-21T10:37:00
+468,CASE-2026-000219,REV-028,Decision Recorded,Human decision recorded: No Violation,2026-02-21T11:37:00
+469,CASE-2026-000220,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-16T19:55:00
+470,CASE-2026-000220,REV-017,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-16T20:55:00
+471,CASE-2026-000221,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-09T12:56:00
+472,CASE-2026-000221,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-07-09T13:56:00
+473,CASE-2026-000222,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-03T16:55:00
+474,CASE-2026-000222,REV-019,Decision Recorded,Human decision recorded: No Violation,2026-07-03T17:55:00
+475,CASE-2026-000223,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-16T10:52:00
+476,CASE-2026-000223,REV-004,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-16T11:52:00
+477,CASE-2026-000224,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-30T17:24:00
+478,CASE-2026-000224,REV-005,Decision Recorded,Human decision recorded: No Violation,2026-07-30T18:24:00
+479,CASE-2026-000225,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-28T13:20:00
+480,CASE-2026-000225,REV-023,Decision Recorded,Human decision recorded: No Violation,2026-04-28T14:20:00
+481,CASE-2026-000226,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-25T14:27:00
+482,CASE-2026-000226,REV-008,Decision Recorded,Human decision recorded: Violation Confirmed,2026-06-25T15:27:00
+483,CASE-2026-000227,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-10T11:12:00
+484,CASE-2026-000227,REV-026,Decision Recorded,Human decision recorded: No Violation,2026-03-10T12:12:00
+485,CASE-2026-000228,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-23T18:50:00
+486,CASE-2026-000228,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-03-23T19:50:00
+487,CASE-2026-000229,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-22T17:11:00
+488,CASE-2026-000229,REV-029,Decision Recorded,Human decision recorded: Violation Confirmed,2026-05-22T18:11:00
+489,CASE-2026-000230,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-16T15:33:00
+490,CASE-2026-000230,REV-030,Decision Recorded,Human decision recorded: No Violation,2026-07-16T16:33:00
+491,CASE-2026-000231,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-10T19:55:00
+492,CASE-2026-000231,REV-001,Decision Recorded,Human decision recorded: No Violation,2026-06-10T20:55:00
+493,CASE-2026-000232,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-01T19:10:00
+494,CASE-2026-000232,REV-002,Decision Recorded,Human decision recorded: Violation Confirmed,2026-04-01T20:10:00
+495,CASE-2026-000233,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-15T10:12:00
+496,CASE-2026-000233,REV-018,Decision Recorded,Human decision recorded: No Violation,2026-04-15T11:12:00
+497,CASE-2026-000234,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-23T10:44:00
+498,CASE-2026-000234,REV-019,Decision Recorded,Human decision recorded: No Violation,2026-08-23T11:44:00
+499,CASE-2026-000235,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-24T11:51:00
+500,CASE-2026-000235,REV-006,Decision Recorded,Human decision recorded: Violation Confirmed,2026-01-24T12:51:00
+501,CASE-2026-000236,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-16T16:55:00
+502,CASE-2026-000236,REV-007,Decision Recorded,Human decision recorded: No Violation,2026-06-16T17:55:00
+503,CASE-2026-000237,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-17T12:31:00
+504,CASE-2026-000237,REV-009,Decision Recorded,Human decision recorded: No Violation,2026-04-17T13:31:00
+505,CASE-2026-000238,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-25T16:25:00
+506,CASE-2026-000238,REV-024,Decision Recorded,Human decision recorded: Violation Confirmed,2026-02-25T17:25:00
+507,CASE-2026-000239,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-31T20:22:00
+508,CASE-2026-000239,REV-011,Decision Recorded,Human decision recorded: No Violation,2026-08-31T21:22:00
+509,CASE-2026-000240,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-29T12:51:00
+510,CASE-2026-000240,REV-027,Decision Recorded,Human decision recorded: No Violation,2026-06-29T13:51:00
+511,CASE-2026-000241,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-08T12:05:00
+512,CASE-2026-000242,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-26T11:03:00
+513,CASE-2026-000243,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-10T18:13:00
+514,CASE-2026-000244,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-30T14:40:00
+515,CASE-2026-000245,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-06T13:12:00
+516,CASE-2026-000246,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-14T15:50:00
+517,CASE-2026-000247,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-16T16:00:00
+518,CASE-2026-000248,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-23T18:07:00
+519,CASE-2026-000249,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-01T13:31:00
+520,CASE-2026-000250,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-10T12:19:00
+521,CASE-2026-000251,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-14T12:11:00
+522,CASE-2026-000252,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-26T20:43:00
+523,CASE-2026-000253,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-12T13:25:00
+524,CASE-2026-000254,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-29T17:49:00
+525,CASE-2026-000255,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-31T11:44:00
+526,CASE-2026-000256,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-08T18:40:00
+527,CASE-2026-000257,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-17T15:06:00
+528,CASE-2026-000258,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-12T18:47:00
+529,CASE-2026-000259,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-07T10:37:00
+530,CASE-2026-000260,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-17T13:17:00
+531,CASE-2026-000261,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-24T12:25:00
+532,CASE-2026-000262,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-09T13:16:00
+533,CASE-2026-000263,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-08T16:26:00
+534,CASE-2026-000264,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-09T11:48:00
+535,CASE-2026-000265,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-10T11:24:00
+536,CASE-2026-000266,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-05-23T11:22:00
+537,CASE-2026-000267,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-28T12:44:00
+538,CASE-2026-000268,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-28T14:59:00
+539,CASE-2026-000269,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-11T15:47:00
+540,CASE-2026-000270,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-08-14T20:48:00
+541,CASE-2026-000271,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-15T17:48:00
+542,CASE-2026-000272,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-08T19:14:00
+543,CASE-2026-000273,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-26T13:00:00
+544,CASE-2026-000274,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-21T12:10:00
+545,CASE-2026-000275,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-08T19:52:00
+546,CASE-2026-000276,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-11T18:46:00
+547,CASE-2026-000277,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-02T12:31:00
+548,CASE-2026-000278,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-04-30T10:41:00
+549,CASE-2026-000279,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-31T13:16:00
+550,CASE-2026-000280,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-29T13:54:00
+551,CASE-2026-000281,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-13T14:34:00
+552,CASE-2026-000282,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-18T14:09:00
+553,CASE-2026-000283,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-28T16:05:00
+554,CASE-2026-000284,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-15T15:24:00
+555,CASE-2026-000285,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-04T10:02:00
+556,CASE-2026-000286,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-25T17:42:00
+557,CASE-2026-000287,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-09T19:00:00
+558,CASE-2026-000288,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-16T14:02:00
+559,CASE-2026-000289,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-07-07T15:20:00
+560,CASE-2026-000290,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-02-24T18:58:00
+561,CASE-2026-000291,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-11T14:04:00
+562,CASE-2026-000292,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-09-07T14:11:00
+563,CASE-2026-000293,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-03T14:25:00
+564,CASE-2026-000294,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-14T18:41:00
+565,CASE-2026-000295,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-17T12:39:00
+566,CASE-2026-000296,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-23T16:26:00
+567,CASE-2026-000297,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-03-22T13:50:00
+568,CASE-2026-000298,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-15T12:30:00
+569,CASE-2026-000299,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-06-14T11:44:00
+570,CASE-2026-000300,System,Case Created,Similarity flag triggered human review; it is not proof of misconduct.,2026-01-10T13:44:00

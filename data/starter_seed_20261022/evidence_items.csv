@@ -1,0 +1,61 @@
+evidence_id,case_id,description,evidence_type,reference,added_by,added_at
+EVD-CASE-2026-000001-001,CASE-2026-000001,Synthetic similarity report evidence for CASE-2026-000001,Similarity Report,evidence/EVD-CASE-2026-000001-001.txt,System,2026-08-10T19:52:00
+EVD-CASE-2026-000001-002,CASE-2026-000001,Synthetic submission evidence for CASE-2026-000001,Submission,evidence/EVD-CASE-2026-000001-002.txt,System,2026-08-10T19:53:00
+EVD-CASE-2026-000002-001,CASE-2026-000002,Synthetic similarity report evidence for CASE-2026-000002,Similarity Report,evidence/EVD-CASE-2026-000002-001.txt,System,2026-03-16T16:54:00
+EVD-CASE-2026-000002-002,CASE-2026-000002,Synthetic submission evidence for CASE-2026-000002,Submission,evidence/EVD-CASE-2026-000002-002.txt,System,2026-03-16T16:55:00
+EVD-CASE-2026-000002-003,CASE-2026-000002,Synthetic reference evidence for CASE-2026-000002,Reference,evidence/EVD-CASE-2026-000002-003.txt,System,2026-03-16T16:56:00
+EVD-CASE-2026-000003-001,CASE-2026-000003,Synthetic similarity report evidence for CASE-2026-000003,Similarity Report,evidence/EVD-CASE-2026-000003-001.txt,System,2026-07-24T13:36:00
+EVD-CASE-2026-000004-001,CASE-2026-000004,Synthetic similarity report evidence for CASE-2026-000004,Similarity Report,evidence/EVD-CASE-2026-000004-001.txt,System,2026-08-16T10:32:00
+EVD-CASE-2026-000004-002,CASE-2026-000004,Synthetic submission evidence for CASE-2026-000004,Submission,evidence/EVD-CASE-2026-000004-002.txt,System,2026-08-16T10:33:00
+EVD-CASE-2026-000005-001,CASE-2026-000005,Synthetic similarity report evidence for CASE-2026-000005,Similarity Report,evidence/EVD-CASE-2026-000005-001.txt,System,2026-03-03T19:19:00
+EVD-CASE-2026-000005-002,CASE-2026-000005,Synthetic submission evidence for CASE-2026-000005,Submission,evidence/EVD-CASE-2026-000005-002.txt,System,2026-03-03T19:20:00
+EVD-CASE-2026-000005-003,CASE-2026-000005,Synthetic reference evidence for CASE-2026-000005,Reference,evidence/EVD-CASE-2026-000005-003.txt,System,2026-03-03T19:21:00
+EVD-CASE-2026-000006-001,CASE-2026-000006,Synthetic similarity report evidence for CASE-2026-000006,Similarity Report,evidence/EVD-CASE-2026-000006-001.txt,System,2026-07-06T13:56:00
+EVD-CASE-2026-000007-001,CASE-2026-000007,Synthetic similarity report evidence for CASE-2026-000007,Similarity Report,evidence/EVD-CASE-2026-000007-001.txt,System,2026-08-08T13:50:00
+EVD-CASE-2026-000007-002,CASE-2026-000007,Synthetic submission evidence for CASE-2026-000007,Submission,evidence/EVD-CASE-2026-000007-002.txt,System,2026-08-08T13:51:00
+EVD-CASE-2026-000008-001,CASE-2026-000008,Synthetic similarity report evidence for CASE-2026-000008,Similarity Report,evidence/EVD-CASE-2026-000008-001.txt,System,2026-02-04T12:11:00
+EVD-CASE-2026-000008-002,CASE-2026-000008,Synthetic submission evidence for CASE-2026-000008,Submission,evidence/EVD-CASE-2026-000008-002.txt,System,2026-02-04T12:12:00
+EVD-CASE-2026-000008-003,CASE-2026-000008,Synthetic reference evidence for CASE-2026-000008,Reference,evidence/EVD-CASE-2026-000008-003.txt,System,2026-02-04T12:13:00
+EVD-CASE-2026-000009-001,CASE-2026-000009,Synthetic similarity report evidence for CASE-2026-000009,Similarity Report,evidence/EVD-CASE-2026-000009-001.txt,System,2026-08-04T17:11:00
+EVD-CASE-2026-000010-001,CASE-2026-000010,Synthetic similarity report evidence for CASE-2026-000010,Similarity Report,evidence/EVD-CASE-2026-000010-001.txt,System,2026-04-15T12:07:00
+EVD-CASE-2026-000010-002,CASE-2026-000010,Synthetic submission evidence for CASE-2026-000010,Submission,evidence/EVD-CASE-2026-000010-002.txt,System,2026-04-15T12:08:00
+EVD-CASE-2026-000011-001,CASE-2026-000011,Synthetic similarity report evidence for CASE-2026-000011,Similarity Report,evidence/EVD-CASE-2026-000011-001.txt,System,2026-01-01T15:16:00
+EVD-CASE-2026-000011-002,CASE-2026-000011,Synthetic submission evidence for CASE-2026-000011,Submission,evidence/EVD-CASE-2026-000011-002.txt,System,2026-01-01T15:17:00
+EVD-CASE-2026-000011-003,CASE-2026-000011,Synthetic reference evidence for CASE-2026-000011,Reference,evidence/EVD-CASE-2026-000011-003.txt,System,2026-01-01T15:18:00
+EVD-CASE-2026-000012-001,CASE-2026-000012,Synthetic similarity report evidence for CASE-2026-000012,Similarity Report,evidence/EVD-CASE-2026-000012-001.txt,System,2026-03-06T10:35:00
+EVD-CASE-2026-000013-001,CASE-2026-000013,Synthetic similarity report evidence for CASE-2026-000013,Similarity Report,evidence/EVD-CASE-2026-000013-001.txt,System,2026-02-02T10:06:00
+EVD-CASE-2026-000013-002,CASE-2026-000013,Synthetic submission evidence for CASE-2026-000013,Submission,evidence/EVD-CASE-2026-000013-002.txt,System,2026-02-02T10:07:00
+EVD-CASE-2026-000014-001,CASE-2026-000014,Synthetic similarity report evidence for CASE-2026-000014,Similarity Report,evidence/EVD-CASE-2026-000014-001.txt,System,2026-07-06T10:19:00
+EVD-CASE-2026-000014-002,CASE-2026-000014,Synthetic submission evidence for CASE-2026-000014,Submission,evidence/EVD-CASE-2026-000014-002.txt,System,2026-07-06T10:20:00
+EVD-CASE-2026-000014-003,CASE-2026-000014,Synthetic reference evidence for CASE-2026-000014,Reference,evidence/EVD-CASE-2026-000014-003.txt,System,2026-07-06T10:21:00
+EVD-CASE-2026-000015-001,CASE-2026-000015,Synthetic similarity report evidence for CASE-2026-000015,Similarity Report,evidence/EVD-CASE-2026-000015-001.txt,System,2026-01-23T13:54:00
+EVD-CASE-2026-000016-001,CASE-2026-000016,Synthetic similarity report evidence for CASE-2026-000016,Similarity Report,evidence/EVD-CASE-2026-000016-001.txt,System,2026-08-20T14:10:00
+EVD-CASE-2026-000016-002,CASE-2026-000016,Synthetic submission evidence for CASE-2026-000016,Submission,evidence/EVD-CASE-2026-000016-002.txt,System,2026-08-20T14:11:00
+EVD-CASE-2026-000017-001,CASE-2026-000017,Synthetic similarity report evidence for CASE-2026-000017,Similarity Report,evidence/EVD-CASE-2026-000017-001.txt,System,2026-01-16T19:40:00
+EVD-CASE-2026-000017-002,CASE-2026-000017,Synthetic submission evidence for CASE-2026-000017,Submission,evidence/EVD-CASE-2026-000017-002.txt,System,2026-01-16T19:41:00
+EVD-CASE-2026-000017-003,CASE-2026-000017,Synthetic reference evidence for CASE-2026-000017,Reference,evidence/EVD-CASE-2026-000017-003.txt,System,2026-01-16T19:42:00
+EVD-CASE-2026-000018-001,CASE-2026-000018,Synthetic similarity report evidence for CASE-2026-000018,Similarity Report,evidence/EVD-CASE-2026-000018-001.txt,System,2026-07-26T11:50:00
+EVD-CASE-2026-000019-001,CASE-2026-000019,Synthetic similarity report evidence for CASE-2026-000019,Similarity Report,evidence/EVD-CASE-2026-000019-001.txt,System,2026-09-01T12:56:00
+EVD-CASE-2026-000019-002,CASE-2026-000019,Synthetic submission evidence for CASE-2026-000019,Submission,evidence/EVD-CASE-2026-000019-002.txt,System,2026-09-01T12:57:00
+EVD-CASE-2026-000020-001,CASE-2026-000020,Synthetic similarity report evidence for CASE-2026-000020,Similarity Report,evidence/EVD-CASE-2026-000020-001.txt,System,2026-07-24T17:53:00
+EVD-CASE-2026-000020-002,CASE-2026-000020,Synthetic submission evidence for CASE-2026-000020,Submission,evidence/EVD-CASE-2026-000020-002.txt,System,2026-07-24T17:54:00
+EVD-CASE-2026-000020-003,CASE-2026-000020,Synthetic reference evidence for CASE-2026-000020,Reference,evidence/EVD-CASE-2026-000020-003.txt,System,2026-07-24T17:55:00
+EVD-CASE-2026-000021-001,CASE-2026-000021,Synthetic similarity report evidence for CASE-2026-000021,Similarity Report,evidence/EVD-CASE-2026-000021-001.txt,System,2026-04-16T12:30:00
+EVD-CASE-2026-000022-001,CASE-2026-000022,Synthetic similarity report evidence for CASE-2026-000022,Similarity Report,evidence/EVD-CASE-2026-000022-001.txt,System,2026-04-15T15:12:00
+EVD-CASE-2026-000022-002,CASE-2026-000022,Synthetic submission evidence for CASE-2026-000022,Submission,evidence/EVD-CASE-2026-000022-002.txt,System,2026-04-15T15:13:00
+EVD-CASE-2026-000023-001,CASE-2026-000023,Synthetic similarity report evidence for CASE-2026-000023,Similarity Report,evidence/EVD-CASE-2026-000023-001.txt,System,2026-05-31T14:46:00
+EVD-CASE-2026-000023-002,CASE-2026-000023,Synthetic submission evidence for CASE-2026-000023,Submission,evidence/EVD-CASE-2026-000023-002.txt,System,2026-05-31T14:47:00
+EVD-CASE-2026-000023-003,CASE-2026-000023,Synthetic reference evidence for CASE-2026-000023,Reference,evidence/EVD-CASE-2026-000023-003.txt,System,2026-05-31T14:48:00
+EVD-CASE-2026-000024-001,CASE-2026-000024,Synthetic similarity report evidence for CASE-2026-000024,Similarity Report,evidence/EVD-CASE-2026-000024-001.txt,System,2026-03-13T12:16:00
+EVD-CASE-2026-000025-001,CASE-2026-000025,Synthetic similarity report evidence for CASE-2026-000025,Similarity Report,evidence/EVD-CASE-2026-000025-001.txt,System,2026-02-06T19:54:00
+EVD-CASE-2026-000025-002,CASE-2026-000025,Synthetic submission evidence for CASE-2026-000025,Submission,evidence/EVD-CASE-2026-000025-002.txt,System,2026-02-06T19:55:00
+EVD-CASE-2026-000026-001,CASE-2026-000026,Synthetic similarity report evidence for CASE-2026-000026,Similarity Report,evidence/EVD-CASE-2026-000026-001.txt,System,2026-04-03T13:01:00
+EVD-CASE-2026-000026-002,CASE-2026-000026,Synthetic submission evidence for CASE-2026-000026,Submission,evidence/EVD-CASE-2026-000026-002.txt,System,2026-04-03T13:02:00
+EVD-CASE-2026-000026-003,CASE-2026-000026,Synthetic reference evidence for CASE-2026-000026,Reference,evidence/EVD-CASE-2026-000026-003.txt,System,2026-04-03T13:03:00
+EVD-CASE-2026-000027-001,CASE-2026-000027,Synthetic similarity report evidence for CASE-2026-000027,Similarity Report,evidence/EVD-CASE-2026-000027-001.txt,System,2026-01-28T19:05:00
+EVD-CASE-2026-000028-001,CASE-2026-000028,Synthetic similarity report evidence for CASE-2026-000028,Similarity Report,evidence/EVD-CASE-2026-000028-001.txt,System,2026-08-14T13:56:00
+EVD-CASE-2026-000028-002,CASE-2026-000028,Synthetic submission evidence for CASE-2026-000028,Submission,evidence/EVD-CASE-2026-000028-002.txt,System,2026-08-14T13:57:00
+EVD-CASE-2026-000029-001,CASE-2026-000029,Synthetic similarity report evidence for CASE-2026-000029,Similarity Report,evidence/EVD-CASE-2026-000029-001.txt,System,2026-02-22T17:01:00
+EVD-CASE-2026-000029-002,CASE-2026-000029,Synthetic submission evidence for CASE-2026-000029,Submission,evidence/EVD-CASE-2026-000029-002.txt,System,2026-02-22T17:02:00
+EVD-CASE-2026-000029-003,CASE-2026-000029,Synthetic reference evidence for CASE-2026-000029,Reference,evidence/EVD-CASE-2026-000029-003.txt,System,2026-02-22T17:03:00
+EVD-CASE-2026-000030-001,CASE-2026-000030,Synthetic similarity report evidence for CASE-2026-000030,Similarity Report,evidence/EVD-CASE-2026-000030-001.txt,System,2026-07-21T19:23:00

@@ -177,30 +177,34 @@ def assign_reviewer(case_id):
     conn = get_connection()
     cur = conn.cursor()
 
-    case_exists = cur.execute(
-        "SELECT 1 FROM cases WHERE case_id = ?", (case_id,)
-    ).fetchone()
+    case = cur.execute("""
+        SELECT l.department AS learner_department
+        FROM cases c
+        JOIN submissions s ON c.submission_id = s.submission_id
+        JOIN learners l ON s.learner_id = l.learner_id
+        WHERE c.case_id = ?
+    """, (case_id,)).fetchone()
 
-    reviewer = cur.execute(
-        """
-        SELECT reviewer_id FROM reviewers
+    reviewer = cur.execute("""
+        SELECT reviewer_id, department
+        FROM reviewers
         WHERE reviewer_id = ? AND available = 1
-        """,
-        (reviewer_id,),
-    ).fetchone()
+    """, (reviewer_id,)).fetchone()
 
-    if not case_exists or not reviewer:
+    if not case or not reviewer:
         conn.close()
         flash("Case or available reviewer not found.")
         return redirect(url_for("case_detail", case_id=case_id))
 
-    exists = cur.execute(
-        """
+    if reviewer["department"] == case["learner_department"]:
+        conn.close()
+        flash("Reviewer assignment blocked: department conflict of interest.")
+        return redirect(url_for("case_detail", case_id=case_id))
+
+    exists = cur.execute("""
         SELECT 1 FROM case_reviewers
         WHERE case_id = ? AND reviewer_id = ?
-        """,
-        (case_id, reviewer_id),
-    ).fetchone()
+    """, (case_id, reviewer_id)).fetchone()
 
     if exists:
         conn.close()
@@ -209,32 +213,24 @@ def assign_reviewer(case_id):
 
     now = current_timestamp()
 
-    cur.execute(
-        """
+    cur.execute("""
         INSERT INTO case_reviewers
         (case_id, reviewer_id, assigned_at, conflict_of_interest)
         VALUES (?, ?, ?, 0)
-        """,
-        (case_id, reviewer_id, now),
-    )
+    """, (case_id, reviewer_id, now))
 
     add_case_event(
-        cur,
-        case_id,
-        "Administrator",
+        cur, case_id, "Administrator",
         "Reviewer Assigned",
-        f"Reviewer {reviewer_id} assigned without conflict.",
-        now,
+        f"Reviewer {reviewer_id} assigned after department conflict check.",
+        now
     )
 
     add_audit_log(
-        cur,
-        "Administrator",
-        "Reviewer Assigned",
-        "Case",
-        case_id,
-        f"Reviewer {reviewer_id} assigned.",
-        now,
+        cur, "Administrator", "Reviewer Assigned",
+        "Case", case_id,
+        f"Reviewer {reviewer_id} assigned after department conflict check.",
+        now
     )
 
     conn.commit()
@@ -276,7 +272,7 @@ def add_evidence(case_id):
         """
         INSERT INTO evidence_items
         (evidence_id, case_id, description, evidence_type,
-         source, added_by, added_at)
+            reference, added_by, added_at)
         VALUES (?, ?, ?, ?, ?, ?, ?)
         """,
         (

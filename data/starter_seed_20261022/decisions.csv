@@ -1,0 +1,25 @@
+decision_id,case_id,reviewer_id,decision,rationale,decided_at
+DEC-2026-000001,CASE-2026-000001,REV-002,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-08-10T20:51:00
+DEC-2026-000002,CASE-2026-000002,REV-002,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-03-16T17:53:00
+DEC-2026-000003,CASE-2026-000003,REV-004,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-07-24T14:35:00
+DEC-2026-000004,CASE-2026-000004,REV-005,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-08-16T11:31:00
+DEC-2026-000005,CASE-2026-000005,REV-006,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-03-03T20:18:00
+DEC-2026-000006,CASE-2026-000006,REV-001,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-07-06T14:55:00
+DEC-2026-000007,CASE-2026-000007,REV-004,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-08-08T14:49:00
+DEC-2026-000008,CASE-2026-000008,REV-005,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-02-04T13:10:00
+DEC-2026-000009,CASE-2026-000009,REV-005,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-08-04T18:10:00
+DEC-2026-000010,CASE-2026-000010,REV-006,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-04-15T13:06:00
+DEC-2026-000011,CASE-2026-000011,REV-001,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-01-01T16:15:00
+DEC-2026-000012,CASE-2026-000012,REV-005,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-03-06T11:34:00
+DEC-2026-000013,CASE-2026-000013,REV-004,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-02-02T11:05:00
+DEC-2026-000014,CASE-2026-000014,REV-003,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-07-06T11:18:00
+DEC-2026-000015,CASE-2026-000015,REV-004,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-01-23T14:53:00
+DEC-2026-000016,CASE-2026-000016,REV-005,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-08-20T15:09:00
+DEC-2026-000017,CASE-2026-000017,REV-001,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-01-16T20:39:00
+DEC-2026-000018,CASE-2026-000018,REV-004,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-07-26T12:49:00
+DEC-2026-000019,CASE-2026-000019,REV-005,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-09-01T13:55:00
+DEC-2026-000020,CASE-2026-000020,REV-006,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-07-24T18:52:00
+DEC-2026-000021,CASE-2026-000021,REV-002,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-04-16T13:29:00
+DEC-2026-000022,CASE-2026-000022,REV-003,Violation Confirmed,Human review considered the evidence and scenario category 'documented_overlap'. Similarity score alone was not treated as proof.,2026-04-15T16:11:00
+DEC-2026-000023,CASE-2026-000023,REV-004,No Violation,Human review considered the evidence and scenario category 'shared_template_false_positive'. Similarity score alone was not treated as proof.,2026-05-31T15:45:00
+DEC-2026-000024,CASE-2026-000024,REV-005,No Violation,Human review considered the evidence and scenario category 'legitimate_quotation'. Similarity score alone was not treated as proof.,2026-03-13T13:15:00

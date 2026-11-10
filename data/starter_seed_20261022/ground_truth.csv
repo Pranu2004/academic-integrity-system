@@ -1,0 +1,31 @@
+case_id,expected_label,issue_type,dataset_note
+CASE-2026-000001,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000002,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000003,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000004,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000005,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000006,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000007,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000008,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000009,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000010,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000011,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000012,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000013,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000014,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000015,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000016,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000017,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000018,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000019,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000020,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000021,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000022,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000023,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000024,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000025,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000026,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000027,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000028,Violation,documented_overlap,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000029,No Violation,shared_template_false_positive,Synthetic label derived from documented scenario; excluded from application features.
+CASE-2026-000030,No Violation,legitimate_quotation,Synthetic label derived from documented scenario; excluded from application features.
