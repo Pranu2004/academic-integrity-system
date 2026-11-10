@@ -95,6 +95,30 @@ python -m pytest tests -v
 3. Evidence history is preserved.
 4. Appeals require independent review.
 
+## Additional Deliverables
+
+### Data Exports
+- `exports/seed_data.json` – Complete database data in JSON format.
+- `exports/seed_data.sql` – SQLite database schema and data export.
+
+### Technical Documentation
+- `docs/schema.md` – Database schema and table definitions.
+- `docs/data_dictionary.md` – Column names, data types and relationships.
+- `docs/source_manifest.md` – Dataset sources and generation details.
+- `docs/validation_summary.md` – Validation results and edge-case checks.
+
+### Data Reproducibility
+
+Synthetic data is generated using a fixed random seed (20261022).
+
+Run the following commands:
+
+```bash
+python generate_data.py
+python validate.py
+python export_data.py
+python generate_docs.py
+
 ## Disclaimer
 
 This project uses synthetic data and is intended for educational and demonstration purposes. It is not a production-ready disciplinary system.
