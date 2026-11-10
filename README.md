@@ -1,32 +1,40 @@
 # Academic Integrity Management System
 
-A Flask and SQLite-based application for managing academic integrity cases through transparent, evidence-based human review.
+A Flask and SQLite-based application for managing academic integrity cases through transparent, evidence-based human review, reviewer assignment, evidence tracking, audit trails, and independent appeals.
 
 ## GitHub Repository
-https://github.com/Pranu2004/academic-integrity-system
+
+[Academic Integrity Management System](https://github.com/Pranu2004/academic-integrity-system)
 
 ## Features
-- Dashboard for submissions, similarity reports, cases and appeals.
-- Similarity-based case flagging.
-- Reviewer assignment and conflict-of-interest prevention.
-- Evidence collection and history tracking.
-- Human decisions with rationale.
-- Independent appeal review.
-- Case timelines and audit logs.
-- Synthetic dataset generation and CSV exports.
 
-**Important:** A similarity score is not proof of misconduct. Every flagged case requires human review.
+- **Dashboard:** View submissions, similarity reports, cases, and appeals.
+- **Similarity-Based Flagging:** Identify submissions that require further review.
+- **Reviewer Assignment:** Assign reviewers while preventing conflicts of interest.
+- **Evidence Management:** Collect evidence and preserve its history.
+- **Human Decision-Making:** Record decisions with clear explanations and rationale.
+- **Independent Appeals:** Support independent review of appealed decisions.
+- **Case Timeline:** Track important events throughout the case lifecycle.
+- **Audit Logs:** Maintain records of important system actions.
+- **Synthetic Dataset Generation:** Generate reproducible test data.
+- **Data Exports:** Export database records in JSON and SQL formats.
+
+> **Important principle:** A similarity score is not proof of misconduct. A flagged submission must be evaluated by a human reviewer, with evidence and due process considered before a decision is made.
 
 ## Technology Stack
-- Python
-- Flask
-- SQLite
-- HTML and CSS
-- Pytest
+
+| Technology | Purpose |
+|---|---|
+| Python | Backend development and data generation |
+| Flask | Web application and routing |
+| SQLite | Relational database |
+| HTML | Application interface |
+| CSS | Styling |
+| Pytest | Automated testing |
 
 ## Dataset
 
-Generated using random seed `20261022`.
+The project uses a synthetic dataset generated with the fixed random seed `20261022`.
 
 | Entity | Records |
 |---|---:|
@@ -39,86 +47,178 @@ Generated using random seed `20261022`.
 | Decisions | 240 |
 | Generated Appeals | 30 |
 
-Ground-truth labels are stored separately in `data/ground_truth.csv`. All records are synthetic.
+Ground-truth labels are stored separately in `data/ground_truth.csv` and are not used as input features for the application workflow.
 
-## Installation
+All dataset records are synthetic and intended for educational and demonstration purposes.
 
-Clone the repository:
+## Project Structure
+
+```text
+academic-integrity-system/
+│
+├── app.py
+├── database.py
+├── generate_data.py
+├── validate.py
+├── export_data.py
+├── generate_docs.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   └── ground_truth.csv
+│
+├── exports/
+│   ├── seed_data.json
+│   └── seed_data.sql
+│
+├── docs/
+│   ├── schema.md
+│   ├── data_dictionary.md
+│   ├── source_manifest.md
+│   └── validation_summary.md
+│
+├── templates/
+│   ├── dashboard.html
+│   └── case_detail.html
+│
+├── static/
+│   └── style.css
+│
+└── tests/
+    ├── test_app.py
+    └── test_database.py
+```
+
+## Installation and Setup
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Pranu2004/academic-integrity-system.git
 cd academic-integrity-system
 ```
 
-Create and activate a virtual environment:
+### 2. Create a virtual environment
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the virtual environment
+
+**Windows PowerShell:**
 
 ```powershell
-python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
-Install dependencies:
+### 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Generate the database and dataset:
+### 5. Generate the database and synthetic dataset
 
 ```bash
 python generate_data.py
 ```
 
-Run the application:
+### 6. Run the application
 
 ```bash
 python app.py
 ```
 
-Open http://127.0.0.1:5000/
+Open the application in your browser:
+
+http://127.0.0.1:5000/
 
 ## Validation
+
+Run the validation script:
 
 ```bash
 python validate.py
 ```
 
+The validation process checks:
+
+- Required dataset volumes.
+- Primary key and foreign key integrity.
+- Unique identifiers.
+- Reviewer conflict-of-interest restrictions.
+- Evidence history preservation.
+- Independent appeal review.
+- Case lifecycle and decision rules.
+- Ground-truth dataset separation.
+
+**Latest validation results:**
+
+- Passed: 21
+- Failed: 0
+
 ## Automated Tests
+
+Run the automated test suite:
 
 ```bash
 python -m pytest tests -v
 ```
 
+**Latest test results:**
+
+- Passed: 5
+- Failed: 0
+
 ## Important Edge Cases
-1. Similarity flags are not automatically treated as guilt.
-2. Conflicted reviewers cannot review assigned cases.
-3. Evidence history is preserved.
-4. Appeals require independent review.
+
+The application addresses the following scenarios:
+
+1. **Similarity flag is not automatic guilt:** A flagged submission requires human review.
+2. **Reviewer conflict of interest:** Conflicted reviewers cannot review assigned cases.
+3. **Evidence added after a decision:** Evidence history is preserved through event records.
+4. **Independent appeal review:** An appeal must be reviewed by an independent reviewer, not the original decision-maker.
 
 ## Additional Deliverables
 
 ### Data Exports
-- `exports/seed_data.json` – Complete database data in JSON format.
-- `exports/seed_data.sql` – SQLite database schema and data export.
+
+- `exports/seed_data.json` – Database records exported in JSON format.
+- `exports/seed_data.sql` – SQLite schema and data export.
 
 ### Technical Documentation
+
 - `docs/schema.md` – Database schema and table definitions.
-- `docs/data_dictionary.md` – Column names, data types and relationships.
-- `docs/source_manifest.md` – Dataset sources and generation details.
+- `docs/data_dictionary.md` – Column names, data types, and relationships.
+- `docs/source_manifest.md` – Synthetic data source, generation details, and reproducibility information.
 - `docs/validation_summary.md` – Validation results and edge-case checks.
 
 ### Data Reproducibility
 
-Synthetic data is generated using a fixed random seed (20261022).
+The synthetic dataset uses a fixed random seed (`20261022`).
 
-Run the following commands:
+The following commands regenerate the dataset, validate it, export database records, and generate technical documentation:
 
 ```bash
 python generate_data.py
 python validate.py
 python export_data.py
 python generate_docs.py
+```
+
+**Note:** Running `generate_data.py` regenerates the database. Back up any manually created demonstration records before running it.
+
+## Future Enhancements
+
+- User authentication and role-based access control.
+- Advanced reviewer workload management.
+- Improved reporting and analytics dashboard.
+- Automated integration testing.
+- Deployment to a cloud hosting platform.
 
 ## Disclaimer
 
-This project uses synthetic data and is intended for educational and demonstration purposes. It is not a production-ready disciplinary system.
+This project uses synthetic data and is intended for educational, academic, and demonstration purposes. It is not a production-ready disciplinary system. Real-world deployment would require appropriate security, privacy, authorization, and institutional governance controls.
+
